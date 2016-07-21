@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Mac OS X (vers 31 October 2006 - Apple Inc. build 15.17), see www.w3.org" />
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <!-- http://leafletjs.com/examples/quick-start.html -->
+  <!-- http://cdn.leafletjs.com/leaflet/v0.7.7/ -->
+  <link rel="stylesheet" href="leaflet.css" type="text/css" />
+  <script src="leaflet.js" type="text/javascript">
+//<![CDATA[
+  // http://cdn.leafletjs.com/leaflet/v0.7.7/
+  //]]>
+  </script>
+  <script src="gpx.js" type="text/javascript">
+//<![CDATA[
+  // https://rawgit.com/mpetazzoni/leaflet-gpx/master/
+  //]]>
+  </script>
+
+  <!-- https://github.com/Leaflet/Leaflet.markercluster
+   http://gis.stackexchange.com/a/123068 -->
+  <link rel="stylesheet" href="./MarkerCluster.css" />
+  <link rel="stylesheet" href="./MarkerCluster.Default.css" />
+  <script src="./leaflet.markercluster-src.js"></script>
+
+  <title>Megalithic Ireland Maps</title>
+  <style type="text/css">
+/*<![CDATA[*/
+  #mapdiv {
+    height: 95vh;
+  }
+  /*]]>*/
+  </style>
+</head>
+
+<body>
+  <div id="mapdiv"></div>
+  <script type="text/javascript">
+//<![CDATA[
+  var map = null;
+  {
+    var centerGps = new L.LatLng(53.45862, -7.53662);
+    var zoom = 7;
+    var posMatch = window.location.href.match(/#map=(\d+)\/(-?\d+(?:\.\d+)?)\/(-?\d+(?:\.\d+)?)/);
+    if( posMatch ) {
+      centerGps = new L.LatLng(posMatch[2], posMatch[3]);
+      zoom = posMatch[1];
+    };
+    map = L.map('mapdiv', {center: centerGps, zoom: zoom, maxZoom:18});
+    map.on("moveend", function(e) {
+      // http://stackoverflow.com/a/21432964
+      var c = map.getCenter();
+      history.pushState(null, null, "#map=" + map.getZoom() + '/' + c.lat.toFixed(5) + '/' + c.lng.toFixed(5) + '&layers=C');
+    });
+  }
+  var osmAttr = '&copy; <a href="http://openstreetmap.org">OpenStreetMap<\/a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA<\/a>';
+  // map.addLayer(new L.TileLayer('https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', { attribution: '&copy; OpenCycleMap, ' + 'Map data ' + osmAttr }));
+  map.addLayer(new L.TileLayer('http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png', { attribution: '&copy; OpenCycleMap, ' + 'Map data ' + osmAttr }));
+
+  // http://gis.stackexchange.com/a/123068
+  var markerClusters = new L.MarkerClusterGroup({maxClusterRadius: 50, chunkedLoading: true, polygonOptions: {stroke: false}});
+
+  // https://github.com/mpetazzoni/leaflet-gpx
+  new L.GPX('./monuments.gpx', {
+    async: true,
+    gpx_options: { parseElements: ['waypoint'] },
+    marker_options: {
+      startIconUrl: null,
+      endIconUrl: null,
+      shadowUrl: null,
+      wptIconUrls: {
+        'subject#abbeys': 'poi-img/convent.png',
+        'subject#castles': 'poi-img/castle.png',
+        'subject#holywells': 'poi-img/fountain.png',
+        'subject#stonecircles': 'poi-img/cromlech.png',
+        '': 'poi-img/sight-2.png',
+        //
+        'subject#bullauns': 'poi-img/sight-2.png',
+        'subject#courttombs': 'poi-img/sight-2.png',
+        'subject#crossslabs': 'poi-img/sight-2.png',
+        'subject#cultstones': 'poi-img/sight-2.png',
+        'subject#mottes': 'poi-img/sight-2.png',
+        'subject#oratories': 'poi-img/sight-2.png',
+        'subject#passagetombs': 'poi-img/sight-2.png',
+        'subject#pilgrimagesites': 'poi-img/sight-2.png',
+        'subject#portaltombs': 'poi-img/sight-2.png',
+        'subject#promontoryforts': 'poi-img/sight-2.png',
+        'subject#ringforts': 'poi-img/sight-2.png',
+        'subject#rockart': 'poi-img/sight-2.png',
+        'subject#roundtowers': 'poi-img/sight-2.png',
+        'subject#sheelas': 'poi-img/sight-2.png',
+        'subject#standingstones': 'poi-img/sight-2.png',
+        'subject#stonepairs': 'poi-img/sight-2.png',
+        'subject#stonerows': 'poi-img/sight-2.png',
+        'subject#walledtowns': 'poi-img/sight-2.png',
+        'subject#wedgetombs': 'poi-img/sight-2.png',
+      },
+      iconSize: [32, 37],
+      // shadowSize: [50, 50],
+      iconAnchor: [16, 37],
+      // shadowAnchor: [16, 47]
+    }
+  });
+
+  // http://gis.stackexchange.com/a/123068
+  map.addLayer(markerClusters);
+  L.control.scale().addTo(map);
+
+  //]]>
+  </script>
+
+  <p id="explanation">POIs loaded directly from <a href="monuments.gpx"><tt>monuments.gpx</tt></a>,
+  Map  <a href="http://mapicons.nicolasmollet.com/markers/">Icons by Nicolas
+  Mollet</a>. <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons 3.0
+  BY-SA</a>.</p>
+</body>
+</html>

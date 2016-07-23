@@ -2642,7 +2642,7 @@
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.40250" lon="-8.57500">
-    <name>Abbey</name>
+    <name>Kilmallock Abbey</name>
     <cmt>Limerick%20List.htm#abbey</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilmallock%20Abbey,%20Limerick.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Kilmallock%20Abbey,%20Limerick.html?src=gpx"/>
@@ -2653,10 +2653,10 @@
     <cmt>Limerick%20List.htm#collegiate%20church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilmallock%20Collegiate%20Church,%20Limerick.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Kilmallock%20Collegiate%20Church,%20Limerick.html?src=gpx"/>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.40139" lon="-8.57667">
-    <name>King john's castle</name>
+    <name>King John's Castle</name>
     <cmt>Limerick%20List.htm#king%20john's%20castle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilmallock%20King%20John's%20Castle,%20Limerick.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Kilmallock%20King%20John's%20Castle,%20Limerick.html?src=gpx"/>
@@ -2751,7 +2751,7 @@
     <cmt>Limerick%20List.htm#kilrush%20church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilrush%20Church,%20Limerick.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Kilrush%20Church,%20Limerick.html?src=gpx"/>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.23889" lon="-6.20722">
     <name>Kiltiernan</name>
@@ -2765,7 +2765,7 @@
     <cmt>Louth%20list.htm#kilwirra%20church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilwirra%20Church,%20Templetown,%20Louth.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Kilwirra%20Church,%20Templetown,%20Louth.html?src=gpx"/>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="51.95889" lon="-10.25444">
     <name>Kimego east</name>
@@ -2810,7 +2810,7 @@
     <sym/>
   </wpt>
   <wpt lat="52.41722" lon="-7.92917">
-    <name>Castle</name>
+    <name>Knockgraffon Castle</name>
     <cmt>Tipperary%20List.htm#castle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Knockgraffon%20Castle,%20Tipperary.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Knockgraffon%20Castle,%20Tipperary.html?src=gpx"/>
@@ -2824,14 +2824,14 @@
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.41222" lon="-7.93306">
-    <name>Motte</name>
+    <name>Knockgraffon Motte</name>
     <cmt>Tipperary%20List.htm#motte</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Knockgraffon%20Motte,%20Tipperary.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Knockgraffon%20Motte,%20Tipperary.html?src=gpx"/>
     <sym>subject#mottes</sym>
   </wpt>
   <wpt lat="52.14028" lon="-7.36250">
-    <name>Knockmahon</name>
+    <name>Knockmahon Ogham Stones</name>
     <cmt>Waterford%20list.htm#knockmahon</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Knockmahon%20Ogham%20Stones,%20Waterford.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Knockmahon%20Ogham%20Stones,%20Waterford.html?src=gpx"/>
@@ -2870,7 +2870,7 @@
     <cmt>Kilkenny%20list.htm#knocktopher</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Knocktopher.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Knocktopher.html?src=gpx"/>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.17417" lon="-8.33444">
     <name>Labbacallee</name>
@@ -2880,14 +2880,14 @@
     <sym>subject#wedgetombs</sym>
   </wpt>
   <wpt lat="52.31056" lon="-8.34778">
-    <name>Church</name>
+    <name>Labbamolaga Church</name>
     <cmt>Cork%20list.htm#labbamolaga</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Labbamolaga%20Church,%20Cork.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Labbamolaga%20Church,%20Cork.html?src=gpx"/>
     <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="52.30972" lon="-8.34750">
-    <name>Standing stones</name>
+    <name>Labbamolaga Standing stones</name>
     <cmt>Cork%20list.htm#labbamolaga</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Labbamolaga%20Middle,%20Cork.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Labbamolaga%20Middle,%20Cork.html?src=gpx"/>
@@ -3055,7 +3055,7 @@
     <sym>subject#courttombs</sym>
   </wpt>
   <wpt lat="54.64417" lon="-7.09167">
-    <name>Wedge tomb</name>
+    <name>Loughmacrory Wedge tomb</name>
     <cmt>Tyrone%20List.htm#wedge%20tomb</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Loughmacrory%20Wedge%20Tomb.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Loughmacrory%20Wedge%20Tomb.html?src=gpx"/>
@@ -3073,17 +3073,17 @@
     <cmt>Dublin%20list.htm#lusk</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Lusk%20Round%20Tower.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Lusk%20Round%20Tower.html?src=gpx"/>
-    <sym>subject#abbeys</sym>
+    <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="54.23750" lon="-5.89611">
-    <name>Church</name>
+    <name>Maghera Church</name>
     <cmt>Down%20list.htm#maghera-2%20site</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Maghera%20Church,%20Down.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Maghera%20Church,%20Down.html?src=gpx"/>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="54.23806" lon="-5.89750">
-    <name>Round tower</name>
+    <name>Maghera Round tower</name>
     <cmt>Down%20list.htm#maghera-2%20site</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Maghera%20Round%20Tower.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Maghera%20Round%20Tower.html?src=gpx"/>
@@ -3174,7 +3174,7 @@
     <sym>subject#rockart</sym>
   </wpt>
   <wpt lat="52.14028" lon="-10.29472">
-    <name>Stone pair</name>
+    <name>Milltown Stone pair</name>
     <cmt>Kerry%20list.htm#milltown</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Milltown%20Stone%20Pair,%20Kerry.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Milltown%20Stone%20Pair,%20Kerry.html?src=gpx"/>
@@ -3195,7 +3195,7 @@
     <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="53.77778" lon="-6.41806">
-    <name>Round tower</name>
+    <name>Monasterboice Round tower</name>
     <cmt>Louth%20list.htm#round%20tower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Monasterboice%20Round%20Tower.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Monasterboice%20Round%20Tower.html?src=gpx"/>
@@ -3258,7 +3258,7 @@
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="53.78194" lon="-9.63944">
-    <name>Abbey</name>
+    <name>Murrisk Abbey</name>
     <cmt>Mayo%20list.htm#abbey</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Murrisk%20Abbey,%20Mayo.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Murrisk%20Abbey,%20Mayo.html?src=gpx"/>
@@ -3279,21 +3279,21 @@
     <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="54.49833" lon="-5.64806">
-    <name>Monastery</name>
+    <name>Nendrum Monastery</name>
     <cmt>Down%20list.htm#nendrum</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Nendrum%20Monastery.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Nendrum%20Monastery.html?src=gpx"/>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="54.49833" lon="-5.64806">
-    <name>Round tower</name>
+    <name>Nendrum Round tower</name>
     <cmt>Down%20list.htm#nendrum</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Nendrum%20Round%20Tower.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Nendrum%20Round%20Tower.html?src=gpx"/>
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="52.39250" lon="-6.93917">
-    <name>Town walls</name>
+    <name>Wexford Town walls</name>
     <cmt>Wexford%20%20list.htm#town%20walls</cmt>
     <desc>&lt;a href="http://megalithicireland.com/New%20Ross%20Town%20Walls,%20Wexford.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/New%20Ross%20Town%20Walls,%20Wexford.html?src=gpx"/>
@@ -3328,7 +3328,7 @@
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.89694" lon="-8.54000">
-    <name>Castle</name>
+    <name>O'Grady's Castle</name>
     <cmt>Clare%20list.htm#tuamgraney</cmt>
     <desc>&lt;a href="http://megalithicireland.com/O'Gady's%20Castle,%20Tuamgraney.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/O'Gady's%20Castle,%20Tuamgraney.html?src=gpx"/>
@@ -3342,7 +3342,7 @@
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="53.77750" lon="-8.27611">
-    <name>Ogulla</name>
+    <name>Ogulla holy well</name>
     <cmt>Roscommon%20list.htm#ogulla</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ogulla%20Holy%20Well%20Tulsk.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ogulla%20Holy%20Well%20Tulsk.html?src=gpx"/>
@@ -3545,7 +3545,7 @@
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.44278" lon="-9.65028">
-    <name>Round tower</name>
+    <name>Ratoo Round tower</name>
     <cmt>Kerry%20list.htm#rattoo</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ratoo%20Round%20Tower,%20Kerry.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ratoo%20Round%20Tower,%20Kerry.html?src=gpx"/>
@@ -3601,7 +3601,7 @@
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.26361" lon="-8.98444">
-    <name>Bullauns</name>
+    <name>Roscam Bullauns</name>
     <cmt>Galway%20list.htm#bullauns</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Roscam%20Bullauns,%20Galway.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Roscam%20Bullauns,%20Galway.html?src=gpx"/>
@@ -3615,7 +3615,7 @@
     <sym/>
   </wpt>
   <wpt lat="53.26472" lon="-8.98500">
-    <name>Round tower</name>
+    <name>Roscam Round tower</name>
     <cmt>Galway%20list.htm#round%20tower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Roscam%20Round%20Tower,%20Galway.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Roscam%20Round%20Tower,%20Galway.html?src=gpx"/>
@@ -3629,7 +3629,7 @@
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.62472" lon="-8.19194">
-    <name>Friary</name>
+    <name>Roscommon Friary</name>
     <cmt>Roscommon%20list.htm#roscommon</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Roscommon%20Friary.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Roscommon%20Friary.html?src=gpx"/>

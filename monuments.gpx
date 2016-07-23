@@ -4347,7 +4347,7 @@
     <cmt>Wexford%20%20list.htm#st%20peter's%20church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Peter's%20Church,%20Ferns,%20Wexford.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/St%20Peter's%20Church,%20Ferns,%20Wexford.html?src=gpx"/>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.00793" lon="-6.31238">
     <name>St saviour's priory</name>
@@ -4364,7 +4364,7 @@
     <sym>subject#ringforts</sym>
   </wpt>
   <wpt lat="54.38972" lon="-8.54917">
-    <name>Court tomb</name>
+    <name>Streedagh Court tomb</name>
     <cmt>Sligo%20list.htm#court%20tomb</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Streedagh%20Court%20Tomb.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Streedagh%20Court%20Tomb.html?src=gpx"/>
@@ -4385,7 +4385,7 @@
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="53.45944" lon="-6.22000">
-    <name>Castle</name>
+    <name>Swords Castle</name>
     <cmt>Dublin%20list.htm#castle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Swords%20Castle.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Swords%20Castle.html?src=gpx"/>
@@ -4406,14 +4406,14 @@
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="52.32222" lon="-6.65361">
-    <name>High cross</name>
+    <name>Taghmon High cross</name>
     <cmt>Wexford%20%20list.htm#high%20cross</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Taghmon%20High%20Cross,%20Wexford.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Taghmon%20High%20Cross,%20Wexford.html?src=gpx"/>
     <sym/>
   </wpt>
   <wpt lat="52.32250" lon="-6.65361">
-    <name>Castle</name>
+    <name>Taghmon Castle</name>
     <cmt>Wexford%20%20list.htm#castle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Taghmon%20Tower%20House,%20Wexford.html?src=gpx"&gt;@egalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Taghmon%20Tower%20House,%20Wexford.html?src=gpx"/>

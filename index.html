@@ -56,9 +56,14 @@
     });
   }
   var osmAttr = '&copy; <a href="http://openstreetmap.org">OpenStreetMap<\/a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA<\/a>';
-  // map.addLayer(new L.TileLayer('https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', { attribution: '&copy; Thunderforest, ' + 'Map data ' + osmAttr, maxZoom: 18}));
-  map.addLayer(new L.TileLayer('https://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png', { attribution: '&copy; Thunderforest, ' + 'Map data ' + osmAttr }));
-  // map.addLayer(new L.TileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenTopoMap, ' + 'Map data ' + osmAttr, maxZoom: 17 }));
+  // OpenStreetMap, the mother of all maps:
+  // map.addLayer(new L.TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap.org, ' + 'Map data ' + osmAttr, maxZoom: 18  }));
+  // nice map, but distorted streetcorners:
+  // map.addLayer(new L.TileLayer('https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png', { attribution: '&copy; Thunderforest.com, ' + 'Map data ' + osmAttr, maxZoom: 18  }));
+  // sadly no https – so the browser displays a 'security' warning:
+  // map.addLayer(new L.TileLayer('http://{s}.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png', { attribution: '&copy; HikeBikeMap.org, ' + 'Map data ' + osmAttr, maxZoom: 18 }));
+  // the tiles load sloooowly sometimes, but the map is nice and supports https:
+  map.addLayer(new L.TileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenTopoMap, ' + 'Map data ' + osmAttr, maxZoom: 17 }));
 
   // http://gis.stackexchange.com/a/123068
   var markerClusters = new L.MarkerClusterGroup({maxClusterRadius: 50, chunkedLoading: true, polygonOptions: {stroke: false}});

@@ -70,7 +70,9 @@ validate the unescaped form, huh!</a:documentation>
           <element name="sym">
             <choice>
               <empty>
-                <a:documentation>presence is mandatory, but may be empty</a:documentation>
+                <a:documentation>presence is mandatory, but may be empty
+
+Could be a very strict enumeration, but currently we go with lowercase words.</a:documentation>
               </empty>
               <data type="string">
                 <param name="pattern">subject#[a-z]+</param>

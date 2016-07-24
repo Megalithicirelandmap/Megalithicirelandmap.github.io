@@ -35,14 +35,14 @@
     <cmt>Longford%20List.htm#abbeyshrule</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Abbeyshrule,%20Longford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Abbeyshrule,%20Longford.html?src=gpx"/>
-    <sym/>
+    <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.56250" lon="-8.77889">
     <name>Adare Ogham Stones</name>
     <cmt>Limerick%20List.htm#adare</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Adare%20Ogham%20Stones.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Adare%20Ogham%20Stones.html?src=gpx"/>
-    <sym>subject#standingstones</sym>
+    <sym>subject#ogham</sym>
   </wpt>
   <wpt lat="52.12917" lon="-10.17333">
     <name>Aghacarrible Rock Art</name>
@@ -56,101 +56,101 @@
     <cmt>Kerry%20list.htm#aghadoe</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghadoe%20Church%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghadoe%20Church%20Kerry.html?src=gpx"/>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.07667" lon="-9.55444">
     <name> Aghadoe Ogham stone</name>
     <cmt>Kerry%20list.htm#aghadoe</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghadoe%20Ogham%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghadoe%20Ogham%20Stone.html?src=gpx"/>
-    <sym/>
+    <sym>subject#ogham</sym>
   </wpt>
   <wpt lat="52.07722" lon="-9.55472">
-    <name>Round tower</name>
+    <name>Aghadoe Round tower</name>
     <cmt>Kerry%20list.htm#aghadoe</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghadoe%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghadoe%20Round%20Tower.html?src=gpx"/>
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="53.76417" lon="-9.46472">
-    <name>Church</name>
+    <name>Aghagower Church</name>
     <cmt>Mayo%20list.htm#church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghagower%20Church,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghagower%20Church,%20Mayo.html?src=gpx"/>
-    <sym/>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.76417" lon="-9.46472">
-    <name>Round tower</name>
+    <name>Aghagower Round tower</name>
     <cmt>Mayo%20list.htm#round%20tower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghagower%20Round%20Tower,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghagower%20Round%20Tower,%20Mayo.html?src=gpx"/>
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="54.34003" lon="-7.85238">
-    <name>Aghanaglack</name>
+    <name>Aghanaglack Court Tomb</name>
     <cmt>Fermanagh%20list.htm#aghanaglack</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghanaglack%20Court%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghanaglack%20Court%20Tomb.html?src=gpx"/>
     <sym>subject#courttombs</sym>
   </wpt>
   <wpt lat="54.69841" lon="-7.04291">
-    <name>Aghascrebagh</name>
+    <name>Aghascrebagh Standing Stone</name>
     <cmt>Tyrone%20List.htm#aghascrebagh</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghascrebagh.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghascrebagh.htm?src=gpx"/>
     <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="52.46517" lon="-7.26792">
-    <name>Aghaviller</name>
+    <name>Aghaviller Round Tower</name>
     <cmt>Kilkenny%20list.htm#aghaviller</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghaviller%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghaviller%20Round%20Tower.html?src=gpx"/>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="54.16647" lon="-6.43810">
-    <name>Aghmakane</name>
+    <name>Aghmakane Portal Tomb</name>
     <cmt>Armagh%20list.htm#aghmakane</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghmakane.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghmakane.htm?src=gpx"/>
     <sym>subject#portaltombs</sym>
   </wpt>
   <wpt lat="53.84618" lon="-7.60037">
-    <name>Aghnacliff</name>
+    <name>Aghnacliff Portal Tomb</name>
     <cmt>Longford%20List.htm#aghnacliff</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghnacliff.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghnacliff.htm?src=gpx"/>
     <sym>subject#portaltombs</sym>
   </wpt>
   <wpt lat="54.06114" lon="-6.35651">
-    <name>Aghnaskeagh</name>
+    <name>Aghnaskeagh Portal Tomb</name>
     <cmt>Louth%20list.htm#aghnaskeagh%202%20sitesi</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghnaskeagh%20Portal.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghnaskeagh%20Portal.htm?src=gpx"/>
     <sym>subject#portaltombs</sym>
   </wpt>
   <wpt lat="52.76778" lon="-6.62028">
-    <name>Aghowle</name>
+    <name>Aghowle Church</name>
     <cmt>Wicklow%20list.htm#aghowle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghowle%20Church%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Aghowle%20Church%20Wicklow.html?src=gpx"/>
-    <sym/>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="51.57514" lon="-9.00117">
-    <name>Ahaglaslin</name>
+    <name>Ahaglaslin Portal Tomb</name>
     <cmt>Cork%20list.htm#ahaglaslin</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ahaglaslin%20Portal.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ahaglaslin%20Portal.htm?src=gpx"/>
     <sym>subject#portaltombs</sym>
   </wpt>
   <wpt lat="51.51389" lon="-9.64417">
-    <name>Altar</name>
+    <name>Altar Wedge Tomb</name>
     <cmt>Cork%20list.htm#altar</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Altar%20Wedge%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Altar%20Wedge%20Tomb.html?src=gpx"/>
     <sym>subject#wedgetombs</sym>
   </wpt>
   <wpt lat="54.34194" lon="-5.80361">
-    <name>Annadorn</name>
+    <name>Annadorn Dolmen</name>
     <cmt>Down%20list.htm#annadorn</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Annadorn%20Dolmen,%20County%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Annadorn%20Dolmen,%20County%20Down.html?src=gpx"/>
@@ -276,7 +276,7 @@
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="52.78611" lon="-6.75278">
-    <name>Ardristan</name>
+    <name>Ardristan Standing Stone</name>
     <cmt>Carlow%20list.htm#ardristan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ardristan.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ardristan.htm?src=gpx"/>
@@ -374,7 +374,7 @@
     <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.62972" lon="-6.39444">
-    <name>Ballinclare</name>
+    <name>Ballinclare Church</name>
     <cmt>Wexford%20%20list.htm#ballinclare</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballinclare%20Church%20and%20Bullaun.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballinclare%20Church%20and%20Bullaun.html?src=gpx"/>
@@ -388,7 +388,7 @@
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.65167" lon="-6.92389">
-    <name>Ballinkillin</name>
+    <name>Ballinkillin Rock Art</name>
     <cmt>Carlow%20list.htm#ballinkillin</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballinkillin%20Rock%20Art,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballinkillin%20Rock%20Art,%20Carlow.html?src=gpx"/>
@@ -399,112 +399,112 @@
     <cmt>Kerry%20list.htm#ballinrannig</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballinrannig.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballinrannig.htm?src=gpx"/>
-    <sym/>
+    <sym>subject#oghamrt</sym>
   </wpt>
   <wpt lat="51.82000" lon="-10.27028">
-    <name>Castle</name>
+    <name>Ballinskelligs Castle</name>
     <cmt>Kerry%20list.htm#ballinskelligs</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballinskelligs%20Castle,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballinskelligs%20Castle,%20Kerry.html?src=gpx"/>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="51.81556" lon="-10.27167">
-    <name>Priory</name>
+    <name>Ballinskelligs Priory</name>
     <cmt>Kerry%20list.htm#ballinskelligs</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballinskelligs%20Priory,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballinskelligs%20Priory,%20Kerry.html?src=gpx"/>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.96500" lon="-7.06417">
-    <name>Ballyadams</name>
+    <name>Ballyadams Castle</name>
     <cmt>Laois%20List.html#ballyadams</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballyadams%20Castle,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballyadams%20Castle,%20Laois.html?src=gpx"/>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.08556" lon="-9.16417">
-    <name>Ballyallaban</name>
+    <name>Ballyallaban Cashel</name>
     <cmt>Clare%20list.htm#ballyallaban</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballyallaban%20Cahermore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballyallaban%20Cahermore.htm?src=gpx"/>
     <sym>subject#ringforts</sym>
   </wpt>
   <wpt lat="52.21972" lon="-8.67000">
-    <name>Abbey</name>
+    <name>Ballybeg Abbey</name>
     <cmt>Cork%20list.htm#ballybeg</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballybeg%20Abbey,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballybeg%20Abbey,%20Cork.html?src=gpx"/>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.21944" lon="-8.66972">
-    <name>Dovecote</name>
+    <name>Ballybeg Dovecote</name>
     <cmt>Cork%20list.htm#ballybeg</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballybeg%20West%20Dovecote,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballybeg%20West%20Dovecote,%20Cork.html?src=gpx"/>
     <sym/>
   </wpt>
   <wpt lat="52.22028" lon="-8.67000">
-    <name>Tower</name>
+    <name>Ballybeg Tower</name>
     <cmt>Cork%20list.htm#ballybeg</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballybeg%20West%20Tower,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballybeg%20West%20Tower,%20Cork.html?src=gpx"/>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.21722" lon="-6.45583">
-    <name>Ballyboher</name>
+    <name>Ballyboher Church</name>
     <cmt>Wexford%20%20list.htm#ballyboher</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballyboher%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballyboher%20Parish%20Church,%20Wexford.html?src=gpx"/>
     <sym>subject#church</sym>
   </wpt>
   <wpt lat="54.73917" lon="-6.81778">
-    <name>Ballybriest</name>
+    <name>Ballybriest Court Tomb</name>
     <cmt>Derry%20list.htm#ballybriest-%202sites</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballybriest.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballybriest.htm?src=gpx"/>
     <sym>subject#courttombs</sym>
   </wpt>
   <wpt lat="52.51222" lon="-9.67750">
-    <name>Ballybunion</name>
+    <name>Ballybunion Castle</name>
     <cmt>Kerry%20list.htm#ballybunion</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballybunion%20Castle,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballybunion%20Castle,%20Kerry.html?src=gpx"/>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.60917" lon="-6.30444">
-    <name>Ballycanew</name>
+    <name>Ballycanew Bullaun</name>
     <cmt>Wexford%20%20list.htm#ballycanew</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballycanew%20Bullaun%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballycanew%20Bullaun%20Stone,%20Wexford.html?src=gpx"/>
     <sym>subject#bullauns</sym>
   </wpt>
   <wpt lat="51.94889" lon="-10.25861">
-    <name>Ballycarbery</name>
+    <name>Ballycarbery Castle</name>
     <cmt>Kerry%20list.htm#ballycarbery</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballycarbery%20Castle,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballycarbery%20Castle,%20Kerry.html?src=gpx"/>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.43861" lon="-7.73389">
-    <name>Ballycloughduff</name>
+    <name>Ballycloughduff Sean-na-Gig</name>
     <cmt>Westmeath%20list.htm#ballycloughduff</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballycloughduff,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballycloughduff,%20Westmeath.html?src=gpx"/>
     <sym>subject#sheelas</sym>
   </wpt>
   <wpt lat="51.71278" lon="-9.94417">
-    <name>Ballycrovane</name>
+    <name>Ballycrovane Ogham Stone</name>
     <cmt>Cork%20list.htm#ballycrovane</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballycrovane%20Ogham%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballycrovane%20Ogham%20Stone.html?src=gpx"/>
-    <sym/>
+    <sym>subject#ogham</sym>
   </wpt>
   <wpt lat="52.16639" lon="-10.40611">
-    <name>Ballyferriter</name>
+    <name>Ballyferriter Museum</name>
     <cmt>Kerry%20list.htm#ballyferriter</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballyferriter%20Museum,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballyferriter%20Museum,%20Kerry.html?src=gpx"/>
-    <sym/>
+    <sym>subject#ogham</sym>
   </wpt>
   <wpt lat="52.99528" lon="-9.16139">
     <name>Ballyganner south</name>
@@ -514,14 +514,14 @@
     <sym>subject#wedgetombs</sym>
   </wpt>
   <wpt lat="52.23417" lon="-7.04361">
-    <name>Ballygunnertemple</name>
+    <name>Ballygunnertemple Megalith</name>
     <cmt>Waterford%20list.htm#ballygunnertemple</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballygunnertemple%20Megalithic%20Structure,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballygunnertemple%20Megalithic%20Structure,%20Waterford.html?src=gpx"/>
     <sym/>
   </wpt>
   <wpt lat="52.24583" lon="-6.96722">
-    <name>Ballyhack</name>
+    <name>Ballyhack Castle</name>
     <cmt>Wexford%20%20list.htm#ballyhack</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballyhack%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballyhack%20Castle,%20Wexford.html?src=gpx"/>
@@ -535,7 +535,7 @@
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="54.13139" lon="-6.47833">
-    <name>Ballykeel</name>
+    <name>Ballykeel Portal Tomb</name>
     <cmt>Armagh%20list.htm#ballykeel</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ballykeel%20Dolmen,%20Armagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <link href="http://megalithicireland.com/Ballykeel%20Dolmen,%20Armagh.html?src=gpx"/>

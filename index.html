@@ -48,16 +48,16 @@
       centerGps = new L.LatLng(posMatch[2], posMatch[3]);
       zoom = posMatch[1];
     };
-    map = L.map('mapdiv', {center: centerGps, zoom: zoom, maxZoom:18});
+    map = L.map('mapdiv', {center: centerGps, zoom: zoom});
     map.on("moveend", function(e) {
       // http://stackoverflow.com/a/21432964
       var c = map.getCenter();
-      history.pushState(null, null, "#map=" + map.getZoom() + '/' + c.lat.toFixed(5) + '/' + c.lng.toFixed(5) + '&layers=C');
+      history.pushState(null, null, "#map=" + map.getZoom() + '/' + c.lat.toFixed(5) + '/' + c.lng.toFixed(5));
     });
   }
   var osmAttr = '&copy; <a href="http://openstreetmap.org">OpenStreetMap<\/a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA<\/a>';
-  // map.addLayer(new L.TileLayer('https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', { attribution: '&copy; OpenCycleMap, ' + 'Map data ' + osmAttr }));
-  map.addLayer(new L.TileLayer('https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', { attribution: '&copy; OpenCycleMap, ' + 'Map data ' + osmAttr }));
+  // map.addLayer(new L.TileLayer('https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', { attribution: '&copy; OpenCycleMap, ' + 'Map data ' + osmAttr, maxZoom: 18}));
+  map.addLayer(new L.TileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenTopoMap, ' + 'Map data ' + osmAttr, maxZoom: 17 }));
 
   // http://gis.stackexchange.com/a/123068
   var markerClusters = new L.MarkerClusterGroup({maxClusterRadius: 50, chunkedLoading: true, polygonOptions: {stroke: false}});

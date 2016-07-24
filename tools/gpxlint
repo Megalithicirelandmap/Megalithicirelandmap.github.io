@@ -1,0 +1,18 @@
+#!/bin/sh
+
+xmllint --version 2>/dev/null || { echo "consider $ sudo apt-get install libxml2-utils" && exit 1 ; }
+
+cwd="$(pwd)"
+cd "$(dirname "$0")"
+script_dir="$(pwd)"
+cd "$cwd"
+
+schema="$script_dir/gpx-1.1.xsd"
+
+if [ ! -f "$schema" ] ; then
+  curl --version >/dev/null || { echo "consider $ sudo apt-get install curl" && exit 1 ; }
+  curl --remote-time --output "$schema" --url "http://www.topografix.com/GPX/1/1/gpx.xsd" || { echo "sorry, failed to load GPX schema." && exit 1 ; }
+fi
+
+echo xmllint --schema "$schema" $@ 1>&2
+xmllint --schema "$schema" $@

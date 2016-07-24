@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="http://www.topografix.com/GPX/1/1" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <a:documentation>Stricter subset of http://www.topografix.com/GPX/1/1/gpx.xsd
+
+Elements MUST appear in order!
+</a:documentation>
+    <element name="gpx">
+      <group>
+        <attribute name="creator">
+          <data type="anyURI"/>
+        </attribute>
+        <attribute name="version">
+          <data type="decimal"/>
+        </attribute>
+      </group>
+      <element name="metadata">
+        <ref name="name"/>
+        <element name="author">
+          <ref name="name"/>
+          <ref name="link"/>
+        </element>
+        <element name="time">
+          <data type="dateTime"/>
+        </element>
+        <element name="keywords">
+          <text/>
+        </element>
+      </element>
+      <oneOrMore>
+        <element name="wpt">
+          <group>
+            <a:documentation>GPS position, mandatory</a:documentation>
+            <attribute name="lat">
+              <data type="decimal">
+                <a:documentation>maybe limit range?</a:documentation>
+              </data>
+            </attribute>
+            <attribute name="lon">
+              <data type="decimal">
+                <a:documentation>maybe limit range?</a:documentation>
+              </data>
+            </attribute>
+          </group>
+          <ref name="name">
+            <a:documentation>name, mandatory</a:documentation>
+          </ref>
+          <element name="cmt">
+            <a:documentation>county list page, mandatory</a:documentation>
+            <data type="string">
+              <param name="pattern">[A-Z][a-z]+(%20)+[Ll]ist\.html?#[a-z'2\-/]+(%20[a-z2-7'\-]*)*</param>
+              <a:documentation>VERY scrupulous.</a:documentation>
+            </data>
+          </element>
+          <element name="desc">
+            <a:documentation>content of map item callout bubble, html snippet, mandatory</a:documentation>
+            <data type="string">
+              <param name="pattern">&lt;a\s+href="http://megalithicireland\.com/[^"]+\?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</param>
+              <a:documentation>Be VERY scrupulous about the precise content containing a backlink.
+This strictness makes &lt;link&gt; obsolete.
+
+validate the unescaped form, huh!</a:documentation>
+            </data>
+          </element>
+          <optional>
+            <ref name="link">
+              <a:documentation>backlink, optional</a:documentation>
+            </ref>
+          </optional>
+          <element name="sym">
+            <choice>
+              <empty>
+                <a:documentation>presence is mandatory, but may be empty</a:documentation>
+              </empty>
+              <data type="string">
+                <param name="pattern">subject#[a-z]+</param>
+              </data>
+            </choice>
+          </element>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+  <define name="name">
+    <element name="name">
+      <data type="anyURI"/>
+    </element>
+  </define>
+  <define name="link">
+    <element name="link">
+      <attribute name="href">
+        <data type="anyURI"/>
+      </attribute>
+    </element>
+  </define>
+</grammar>

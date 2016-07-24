@@ -8,11 +8,16 @@ script_dir="$(pwd)"
 cd "$cwd"
 
 schema="$script_dir/gpx-1.1.xsd"
+schema="$script_dir/monuments.rng"
 
-if [ ! -f "$schema" ] ; then
-  curl --version >/dev/null || { echo "consider $ sudo apt-get install curl" && exit 1 ; }
-  curl --remote-time --output "$schema" --url "http://www.topografix.com/GPX/1/1/gpx.xsd" || { echo "sorry, failed to load GPX schema." && exit 1 ; }
-fi
+# 
+# if [ ! -f "$schema" ] ; then
+#   curl --version >/dev/null || { echo "consider $ sudo apt-get install curl" && exit 1 ; }
+#   curl --remote-time --output "$schema" --url "http://www.topografix.com/GPX/1/1/gpx.xsd" || { echo "sorry, failed to load GPX schema." && exit 1 ; }
+# fi
+# 
+# echo xmllint --schema "$schema" $@ 1>&2
+# xmllint --schema "$schema" $@
 
-echo xmllint --schema "$schema" $@ 1>&2
-xmllint --schema "$schema" $@
+echo xmllint --relaxng "$schema" $@ 1>&2
+xmllint --relaxng "$schema" $@

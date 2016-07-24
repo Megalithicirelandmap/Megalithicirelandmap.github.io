@@ -3610,43 +3610,43 @@
     <sym/>
   </wpt>
   <wpt lat="53.01056" lon="-6.32944">
-    <name>St mary's church</name>
+    <name>St Mary's Church Glendalough</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Church%20Glendalough.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.62889" lon="-7.06472">
-    <name>Gowran</name>
+    <name>St Mary's Church Gowran</name>
     <cmt>Kilkenny%20list.htm#gowran</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Church,%20Gowran,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.91417" lon="-8.44917">
-    <name>St marys</name>
+    <name>St Marys Church</name>
     <cmt>Clare%20list.htm#inishcealtra</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Church,%20Inishcealtra.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.39611" lon="-6.94056">
-    <name>St mary's church</name>
+    <name>St Mary's Church New Ross</name>
     <cmt>Wexford%20%20list.htm#st%20mary's%20church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Church,%20New%20Ross,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="53.95320" lon="-6.54358">
-    <name>St mary's priory</name>
+    <name>St Mary's Priory Lough</name>
     <cmt>Louth%20list.htm#louth</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Priory%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="53.66722" lon="-7.69250">
-    <name>Ardagh</name>
+    <name>St Mel's Church Ardagh</name>
     <cmt>Longford%20List.htm#ardagh</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Mel's%20Church,%20Ardagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.29083" lon="-7.73417">
-    <name>St mella's cell</name>
+    <name>St Mella's Cell</name>
     <cmt>Offaly%20list.html#lemanaghan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Mella's%20Cell%20Leamonaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
@@ -3658,85 +3658,85 @@
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.49000" lon="-6.92750">
-    <name>Holy well</name>
+    <name>St Moling's Holy well</name>
     <cmt>Carlow%20list.htm#st%20mullin's</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Moling's%20Holy%20Well.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="54.13515" lon="-6.41403">
-    <name>St moninna's well</name>
+    <name>St Moninna's Well</name>
     <cmt>Armagh%20list.htm#st%20moninna's%20well</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Moninna's%20Holy%20Well.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="53.57000" lon="-6.15083">
-    <name>St mobhi's well</name>
+    <name>St Mobhi's Well Skerries</name>
     <cmt>Dublin%20list.htm#st%20mobhi's%20well</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Movee's%20Well,%20Skerries.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.48889" lon="-6.92778">
-    <name>Monastic site</name>
+    <name>St Mullin's Monastic site</name>
     <cmt>Carlow%20list.htm#st%20mullin's</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Mullins%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.48917" lon="-6.92972">
-    <name>Motte</name>
+    <name>St Mullin's Motte</name>
     <cmt>Carlow%20list.htm#st%20mullin's</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Mullins%20Motte.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
   <wpt lat="53.60108" lon="-7.26579">
-    <name>Taghmon</name>
+    <name>St Munna's Church Taghmon</name>
     <cmt>Westmeath%20list.htm#taghmon</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Munna's%20%20Church,%20Taghmon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.63500" lon="-8.67444">
-    <name>St nessan's</name>
+    <name>St Nessan's Church</name>
     <cmt>Limerick%20List.htm#st%20nessan's</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Nessan's%20%20Church,%20Mungret,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.35750" lon="-7.75250">
-    <name>Church</name>
+    <name>St Patrick's Church</name>
     <cmt>Tipperary%20List.htm#church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Church,%20Patrickswell,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.35750" lon="-7.75278">
-    <name>Holy well</name>
+    <name>St Patrick's Holy well Patrickswell</name>
     <cmt>Tipperary%20List.htm#holy%20well%202</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Holy%20Well,%20Clonmel,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="54.46406" lon="-8.37524">
-    <name>Bunduff</name>
+    <name>St Patrick's Holy Well Bunduff</name>
     <cmt>Leitrim%20list.htm#bunduff</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Well%20Bunduff.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.40806" lon="-7.99250">
-    <name>Holy well</name>
+    <name>St Peacaun's Holy well</name>
     <cmt>Tipperary%20List.htm#holy%20well%202</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Peacaun's%20Holy%20Well,%20%20Toureen,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.59194" lon="-6.49028">
-    <name>St peter's church</name>
+    <name>St Peter's Church</name>
     <cmt>Wexford%20%20list.htm#st%20peter's%20church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Peter's%20Church,%20Ferns,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.00793" lon="-6.31238">
-    <name>St saviour's priory</name>
+    <name>St Saviour's Priory</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Saviour's%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="51.80500" lon="-10.01528">
-    <name>Staigue fort</name>
+    <name>Staigue Fort</name>
     <cmt>Kerry%20list.htm#staigue%20fort</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Staigue%20Fort.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
@@ -3748,13 +3748,13 @@
     <sym>subject#courttombs</sym>
   </wpt>
   <wpt lat="54.40083" lon="-8.57167">
-    <name>Wedge tomb</name>
+    <name>Streedagh Wedge Tomb</name>
     <cmt>Sligo%20list.htm#wedge%20tomb</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Streedagh%20Wedge%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
   <wpt lat="54.32389" lon="-5.67722">
-    <name>Struell wells</name>
+    <name>Struell Wells</name>
     <cmt>Down%20list.htm#struell%20wells</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Struell%20Wells,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
@@ -3766,13 +3766,13 @@
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.45085" lon="-6.22359">
-    <name>Round tower</name>
+    <name>Swords Round tower</name>
     <cmt>Dublin%20list.htm#round%20tower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Swords%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="53.35333" lon="-6.61306">
-    <name>Taghadoe</name>
+    <name>Taghadoe Round Tower</name>
     <cmt>Kildare%20list.htm#taghadoe</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Taghadoe%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
@@ -3790,154 +3790,154 @@
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.92083" lon="-6.55000">
-    <name>Tallanstown</name>
+    <name>Tallanstown Motte</name>
     <cmt>Louth%20list.htm#tallanstown</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tallanstown%20Motte.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
   <wpt lat="53.93889" lon="-8.50472">
-    <name>Tawnymucklagh</name>
+    <name>Tawnymucklagh Standing Stone</name>
     <cmt>Sligo%20list.htm#tawnymucklagh</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tawnymucklagh%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="53.32639" lon="-7.98556">
-    <name>Temple ciaran -</name>
+    <name>Temple Ciaran -</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Ciaran%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="53.32667" lon="-7.98611">
-    <name>Temple connor</name>
+    <name>Temple Connor</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Connor,%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.04611" lon="-9.06083">
-    <name>Temple cronan</name>
+    <name>Temple Cronan</name>
     <cmt>Clare%20list.htm#temple%20cronan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Cronan,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="53.32611" lon="-7.98583">
-    <name>Temple dowling</name>
+    <name>Temple Dowling</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Dowling,%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.32631" lon="-7.98478">
-    <name>Temple finghin</name>
+    <name>Temple Finghin</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Finghin,%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.32603" lon="-7.98499">
-    <name>Temple melaghlin</name>
+    <name>Temple Melaghlin</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Melaghlin%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.00194" lon="-6.35694">
-    <name>Temple-na-skellig</name>
+    <name>Temple-na-Skellig</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple-na-Skellig,%20Glendalough.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="51.64306" lon="-8.88333">
-    <name>Templebryan</name>
+    <name>Templebryan Stone Circle</name>
     <cmt>Cork%20list.htm#templebryan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Templebryan%20Circle.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
   <wpt lat="52.63972" lon="-6.85139">
-    <name>Ballinree</name>
+    <name>Templemoling</name>
     <cmt>Carlow%20list.htm#ballinree</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Templemoling%20Cemetery.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.49536" lon="-6.92519">
     <name>Templenaboe</name>
     <cmt>Carlow%20list.htm#templenaboe</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Templenaboe.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.17944" lon="-6.89528">
-    <name>Templetown</name>
+    <name>Templetown Church</name>
     <cmt>Wexford%20%20list.htm#templetown</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Templetown%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.91361" lon="-8.44889">
-    <name>The bargaining stone</name>
+    <name>The bargaining stone Inishcealtra</name>
     <cmt>Clare%20list.htm#inishcealtra</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Bargaining%20Stone,%20Inishcealtra.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
   <wpt lat="53.14528" lon="-6.90389">
-    <name>Black abbey</name>
+    <name> The Black Abbey Kildare</name>
     <cmt>Kildare%20list.htm#kildare</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Black%20Abbey,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.65417" lon="-7.25750">
-    <name>Black abbey</name>
+    <name>The Black Abbey Kilkenny </name>
     <cmt>Kilkenny%20list.htm#kilkenny%20city</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Black%20Abbey,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.73611" lon="-6.97778">
-    <name>Leighlinbridge</name>
+    <name>The Black Castle Leighlinbridge</name>
     <cmt>Carlow%20list.htm#leighlinbridge</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Black%20Castle,%20Leighlinbridge.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.32639" lon="-7.98583">
-    <name>The cathedral</name>
+    <name>The Cathedral Clonmacnoise</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Cathedral,%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.91583" lon="-8.44778">
-    <name>The confessional</name>
+    <name>The Confessional Inishcealtra</name>
     <cmt>Clare%20list.htm#inishcealtra</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Confessional,%20Inishcealtra.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="54.54083" lon="-5.94861">
-    <name>The giant's ring</name>
+    <name>The Giant's Ring Ballynahatty</name>
     <cmt>Down%20list.htm#the%20giant's%20ring</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Giant's%20Ring.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
   <wpt lat="53.15306" lon="-6.91417">
-    <name>Grey abbey</name>
+    <name>The Grey abbey Kildare</name>
     <cmt>Kildare%20list.htm#kildare</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Grey%20Abbey,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.13944" lon="-10.29472">
-    <name>Standing stone</name>
+    <name>Milltown Standing stone</name>
     <cmt>Kerry%20list.htm#milltown</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Milestone%20Millltown.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="54.03981" lon="-6.18483">
-    <name>The mint</name>
+    <name>The Mint Carlingford</name>
     <cmt>Louth%20list.htm#carlingford</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Mint,%20Carlingford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.65485" lon="-6.79850">
-    <name>The nine stones</name>
+    <name>The Nine Stones Coolasnachta</name>
     <cmt>Carlow%20list.htm#the%20nine%20stones</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Nine%20Stones.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonerows</sym>
   </wpt>
   <wpt lat="53.32833" lon="-7.97806">
-    <name>The nuns' church</name>
+    <name>The Nuns' Church</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Nuns'%20Church%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.51361" lon="-8.54111">
     <name>The stone of the tree</name>
@@ -3946,19 +3946,19 @@
     <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="54.91750" lon="-6.92083">
-    <name>Wart well</name>
+    <name>The Wart Well Dungiven</name>
     <cmt>Derry%20list.htm#dungiven-</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Wart%20Well,%20Dungiven.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
   </wpt>
   <wpt lat="53.10306" lon="-8.77472">
-    <name>Thoor ballylee</name>
+    <name>Thoor Ballylee Tower House</name>
     <cmt>Galway%20list.htm#thoor%20ballylee</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Thoor%20Ballylee%20Tower%20House.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="51.48278" lon="-9.82944">
-    <name>Dunlough</name>
+    <name>Dunlough Three Castles</name>
     <cmt>Cork%20list.htm#dunlough</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Three%20Castles,%20Dunlough,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
@@ -3970,187 +3970,187 @@
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.96056" lon="-7.20361">
-    <name>Timahoe</name>
+    <name>Timahoe Round Tower</name>
     <cmt>Laois%20List.html#timahoe</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Timahoe%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="52.23694" lon="-6.83806">
-    <name>Abbey</name>
+    <name>Tintern Abbey</name>
     <cmt>Wexford%20%20list.htm#abbey</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tintern%20Abbey,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.23528" lon="-6.83417">
-    <name>Church</name>
+    <name>Tintern Church</name>
     <cmt>Wexford%20%20list.htm#church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tintern%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.23528" lon="-6.83556">
-    <name>Holy well</name>
+    <name>Tintern Holy well</name>
     <cmt>Wexford%20%20list.htm#holy%20well</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tintern%20Holy%20Well,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="51.85861" lon="-10.37389">
-    <name>Coomanaspig</name>
+    <name>Tobairin Hoy Well Coomanaspig</name>
     <cmt>Kerry%20list.htm#coomanaspig</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tobairin%20Holy%20Well%20,%20Coomanaspig,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.68500" lon="-6.78056">
-    <name>Tober bhride</name>
+    <name>Tober bhride Holy Well</name>
     <cmt>Carlow%20list.htm#myshall%203sites</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tobar%20Bhride,%20Myshall.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.70278" lon="-7.16944">
-    <name>Tobar eoin</name>
+    <name>Tobar Eoin Holy Well</name>
     <cmt>Kilkenny%20list.htm#johnswell</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tobar%20Eoin,%20Johnswell,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.32333" lon="-9.73278">
-    <name>Tobar na molt</name>
+    <name>Tobar na Molt Holy Well</name>
     <cmt>Kerry%20list.htm#ardfert</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tobar%20na%20Molt,%20Ardfert,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="54.24389" lon="-8.44583">
-    <name>Tobernalt</name>
+    <name>Tobernalt Holy Well</name>
     <cmt>Sligo%20list.htm#tobernalt</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tobernalt%20Holy%20Well.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.21556" lon="-6.49333">
-    <name>Parish church</name>
+    <name>Tomhaggard Parish church</name>
     <cmt>Wexford%20%20list.htm#parish%20church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tomhaggard%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.40861" lon="-7.99139">
-    <name>Cell</name>
+    <name>St Peacaun's Cell Toureen</name>
     <cmt>Tipperary%20List.htm#cell%202</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Toureen%20Peacaun%20Cell,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <sym>subject#bullauns</sym>
   </wpt>
   <wpt lat="52.40889" lon="-7.99361">
-    <name>Church</name>
+    <name>St Peacaun's Church Toureen</name>
     <cmt>Tipperary%20List.htm#church%202</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Toureen%20Peacaun%20Church,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.23528" lon="-9.65111">
-    <name>Trawbaun</name>
+    <name>Trawbaun Medieval Church</name>
     <cmt>Galway%20list.htm#trawbaun</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Trawbaun%20Medieval%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.01056" lon="-6.32028">
-    <name>Trinity church</name>
+    <name>Trinity church Glendalough</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Trinity%20Church,%20Glendalough.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.57881" lon="-7.12808">
-    <name>The church</name>
+    <name>Tullaherin Church</name>
     <cmt>Kilkenny%20list.htm#the%20church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tullaherin%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.57881" lon="-7.12808">
-    <name>Round tower</name>
+    <name>Tullaherin Round tower</name>
     <cmt>Kilkenny%20list.htm#round%20tower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tullaherin%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="52.80583" lon="-6.74278">
-    <name>Tullowphelim</name>
+    <name>Tullowphelim Holy Well</name>
     <cmt>Carlow%20list.htm#tullowphelim</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tullowphelim%20Holy%20Well,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.27583" lon="-9.64250">
-    <name>Tullygarran</name>
+    <name>Tullygarran Ogham Stones</name>
     <cmt>Kerry%20list.htm#tullygarran</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tullygarran%20Ogham%20Stones%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <sym>subject#ogham</sym>
   </wpt>
   <wpt lat="54.28162" lon="-8.15508">
-    <name>Tullyskeherny</name>
+    <name>Tullyskeherny Court Tombs</name>
     <cmt>Leitrim%20list.htm#tullyskeherny</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tullyskeherny%20Court%20Tombs.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
   <wpt lat="53.88861" lon="-9.20833">
-    <name>Turlough</name>
+    <name>Turlough Round Tower</name>
     <cmt>Mayo%20list.htm#turlough</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Turlough%20Round%20Tower,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="52.34472" lon="-7.35472">
-    <name>Castle</name>
+    <name>Tybroughney Castle</name>
     <cmt>Kilkenny%20list.htm#castle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tybroughney%20Castle,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.34361" lon="-7.35278">
-    <name>Carved pillar</name>
+    <name>Tybroughney Carved Pillar</name>
     <cmt>Kilkenny%20list.htm#carved%20pillar%202</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tybroughney%20Pillar%20Stone,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <sym>subject#crossslabs</sym>
   </wpt>
   <wpt lat="53.38611" lon="-7.38139">
-    <name>Tyrrellspass</name>
+    <name>Tyrrellspass Tower House</name>
     <cmt>Westmeath%20list.htm#tyrrellspass</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tyrrellspass%20Tower%20House.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.58028" lon="-6.93306">
-    <name>Ullard</name>
+    <name>Ullard Church</name>
     <cmt>Kilkenny%20list.htm#ullard</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ullard%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="51.81139" lon="-9.69556">
-    <name>Uragh</name>
+    <name>Uragh Stone Circle</name>
     <cmt>Kerry%20list.htm#uragh</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Uragh%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
   <wpt lat="54.23944" lon="-5.86306">
-    <name>Wateresk</name>
+    <name>Wateresk Portal Tomb</name>
     <cmt>Down%20list.htm#wateresk</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Wateresk.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
   <wpt lat="53.57917" lon="-6.60944">
-    <name>Well of the white cow</name>
+    <name>Well of the White Cow Ancient Well</name>
     <cmt>Meath%20list.htm#well%20of%20the%20white%20cow</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Well%20of%20the%20White%20Cow,%20Tara.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.69472" lon="-6.99056">
-    <name>Wells</name>
+    <name>Wells Church</name>
     <cmt>Carlow%20list.htm#wells</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Wells%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.34167" lon="-6.46639">
-    <name>Westgate</name>
+    <name>Westgate Wexford</name>
     <cmt>Wexford%20%20list.htm#westgate</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Westgate,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#walledtowns</sym>
   </wpt>
   <wpt lat="52.31750" lon="-6.95722">
-    <name>Whitechurch</name>
+    <name>Whitechurch Stone Row</name>
     <cmt>Wexford%20%20list.htm#whitechurch</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Whitechurch%20Stone%20Row,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonerows</sym>
   </wpt>
   <wpt lat="52.99222" lon="-6.98444">
-    <name>Athy</name>
+    <name>White Castle Athy</name>
     <cmt>Kildare%20list.htm#athy</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Whites%20Castle,%20Athy.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>

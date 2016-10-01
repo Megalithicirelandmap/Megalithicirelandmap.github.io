@@ -855,6 +855,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Carnanbane%20Court%20Tomb,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="55.24994" lon="-7.27210">
+    <name>Carndonagh High Cross</name>
+    <cmt>Donegal%20list.htm#Carndonagh </cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High Cross Carndonagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crosses</sym>
+  </wpt>
   <wpt lat="52.23722" lon="-6.73333">
     <name>Carrick-on-Bannow Crosses</name>
     <cmt>Wexford%20%20list.htm#carrick-on-bannow</cmt>

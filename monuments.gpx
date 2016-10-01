@@ -2835,6 +2835,12 @@
     <desc>&lt;a href="http://megalithicireland.com/New%20Ross%20Town%20Walls,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#walledtowns</sym>
   </wpt>
+  <wpt lat="52.33946" lon="-6.78312">
+    <name>Newbawn Portal Tomb</name>
+    <cmt>Wexford%20list.htm#newbawn</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Newbawn Portal Tomb,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="52.46690" lon="-7.25685">
     <name>Newmarket Portal Tomb</name>
     <cmt>Kilkenny%20list.htm#newmarket</cmt>

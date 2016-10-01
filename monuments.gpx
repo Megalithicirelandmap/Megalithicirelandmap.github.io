@@ -585,6 +585,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Banagher%20Church,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="52.24004" lon="-6.73224">
+    <name>Bannow Romanesque Font</name>
+    <cmt>Wexford%20list.htm#bannow</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Bannow Romanesque Font,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.22611" lon="-6.44778">
     <name>Banoge Standing Stone</name>
     <cmt>Wexford%20%20list.htm#banoge</cmt>

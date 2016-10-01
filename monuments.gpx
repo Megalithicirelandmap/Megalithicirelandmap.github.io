@@ -123,6 +123,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ahaglaslin%20Portal.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="54.59973" lon="-7.60111">
+    <name>Ally Court Tomb</name>
+    <cmt>Tyrone%20list.htm#ally</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ally.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="51.51389" lon="-9.64417">
     <name>Altar Wedge Tomb</name>
     <cmt>Cork%20list.htm#altar</cmt>

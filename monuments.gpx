@@ -2055,6 +2055,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilcashel.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="52.26416" lon="-6.71270">
+    <name>Kilcavan Castle, Wexford</name>
+    <cmt>Wexford%20list.htm#kilcavan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilcavan Castle, Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="54.81778" lon="-8.44083">
     <name>Kilclooney Court Tomb</name>
     <cmt>Donegal%20list.htm#kilclooney%20more</cmt>

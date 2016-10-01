@@ -1137,6 +1137,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cool%20Ogham%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="52.23425" lon="-6.70443">
+    <name>Coolhull Castle</name>
+    <cmt>Wexford%20list.htm#coolhull</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Coolhull Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="51.82361" lon="-10.31361">
     <name>Coom Wedge Tomb</name>
     <cmt>Kerry%20list.htm#coom</cmt>

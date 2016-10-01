@@ -3975,6 +3975,12 @@
     <desc>&lt;a href="http://megalithicireland.com/The%20Milestone%20Millltown.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="55.24988" lon="-6.27247">
+    <name>The Marigold Stone, Carndonagh</name>
+    <cmt>Donegal%20list.htm#carndonagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Marigold Stone Carndonagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="54.03981" lon="-6.18483">
     <name>The Mint Carlingford</name>
     <cmt>Louth%20list.htm#carlingford</cmt>

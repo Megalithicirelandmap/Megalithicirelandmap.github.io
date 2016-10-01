@@ -999,6 +999,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Claregalway%20Friary,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.85686" lon="-7.59622">
+    <name>Cleenrah Portal Tomb</name>
+    <cmt>Longford%20list.htm#cleenrah</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cleenrah.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="53.56167" lon="-10.10333">
     <name>Cleggan Court Tomb</name>
     <cmt>Galway%20list.htm#cleggan</cmt>

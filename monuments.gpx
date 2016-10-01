@@ -963,6 +963,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Castleruddery.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="52.90444" lon="-6.06699">
+    <name>Castletimon Standing Stone</name>
+    <cmt>Wicklow%20list.htm#Castletimon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Castletimon Standing Stone, Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="54.77833" lon="-5.92528">
     <name>Castletown Standing Stone</name>
     <cmt>Antrim%20list.htm#castletown</cmt>

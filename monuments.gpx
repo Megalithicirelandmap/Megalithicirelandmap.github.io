@@ -945,6 +945,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Carrowntemple%20Slabs.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.26936" lon="-9.24589">
+    <name>Carrowtrasna Standing Stone</name>
+    <cmt>Mayo%20list.htm#carrowtrasna</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Carrowtrasna.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="53.78000" lon="-7.46333">
     <name>Cartronbore Stone Circle</name>
     <cmt>Longford%20List.htm#cartronbore</cmt>

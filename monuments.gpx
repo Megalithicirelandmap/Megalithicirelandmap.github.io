@@ -1227,6 +1227,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Corlea%20Trackway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="54.07229" lon="-9.07827">
+    <name>Corrower Ogham Stone</name>
+    <cmt>Mayo%20list.htm#corrower</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Corrower.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="52.11028" lon="-10.47306">
     <name>Coumeenoole Ogham Stone</name>
     <cmt>Kerry%20list.htm#coumeenoole</cmt>

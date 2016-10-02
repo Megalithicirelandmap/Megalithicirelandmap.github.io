@@ -603,6 +603,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Banoge%20Standing%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="55.06724" lon="-7.83225">
+    <name>Barnes Lower Rock Art</name>
+    <cmt>Donegal%20list.htm#barnes lower</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Barnes Lower Rock Art.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="54.23278" lon="-6.20306">
     <name>Barnmeen Standing Stone</name>
     <cmt>Down%20list.htm#barnmeen</cmt>

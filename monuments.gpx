@@ -1323,6 +1323,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Doon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="54.70733" lon="-8.74610">
+    <name>Doonalt Cross Pillar</name>
+    <cmt>Donegal%20list.htm#doonalt</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Doonalt Cross Pillar.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="51.83667" lon="-9.50583">
     <name> Dromagorteen Bullaun Stone</name>
     <cmt>Kerry%20list.htm#bonane</cmt>

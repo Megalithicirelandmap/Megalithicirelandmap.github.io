@@ -987,6 +987,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cashel%20Cairns,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="54.25495" lon="-9.22760">
+    <name>Cashel Court Tomb</name>
+    <cmt>Mayo%20list.htm#cashel</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cashel%20Mayo.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="53.60444" lon="-10.03389">
     <name>Cashleen Church of the Seven Daughters</name>
     <cmt>Galway%20list.htm#cashleen</cmt>

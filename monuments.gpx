@@ -2145,6 +2145,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilcorkey%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="54.27787" lon="-9.21037">
+    <name>Kilcummin Holy Well</name>
+    <cmt>Mayo%20list.htm#kilcummin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilcummin.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="53.15833" lon="-6.91222">
     <name>Kildare Round Tower</name>
     <cmt>Kildare%20list.htm#kildare</cmt>

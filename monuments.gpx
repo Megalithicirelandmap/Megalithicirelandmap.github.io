@@ -1365,6 +1365,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dingle%20Bullaun%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
   </wpt>
+  <wpt lat="54.10704" lon="-9.16580">
+    <name>Dolmen of the Four Maols</name>
+    <cmt>Mayo%20list.htm#ballina</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballina.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="53.34083" lon="-6.74667">
     <name>Donadea Castle</name>
     <cmt>Kildare%20list.htm#donadea%20castle</cmt>

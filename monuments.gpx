@@ -611,7 +611,7 @@
   </wpt>
   <wpt lat="55.06724" lon="-7.83225">
     <name>Barnes Lower Rock Art</name>
-    <cmt>Donegal%20list.htm#barnes lower</cmt>
+    <cmt>Donegal%20list.htm#barnes%20lower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Barnes%20Lower%20Rock%20Art.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
@@ -887,7 +887,7 @@
   </wpt>
   <wpt lat="55.24994" lon="-7.27210">
     <name>Carndonagh High Cross</name>
-    <cmt>Donegal%20list.htm#Carndonagh </cmt>
+    <cmt>Donegal%20list.htm#carndonagh</cmt>
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Carndonagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
@@ -929,7 +929,7 @@
   </wpt>
   <wpt lat="54.08996" lon="-9.04791">
     <name>Carrowcrom Wedge Tomb</name>
-    <cmt>Mayo%20list.htm#Carrowcrom</cmt>
+    <cmt>Mayo%20list.htm#carrowcrom</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Carrowcrom.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
@@ -1013,13 +1013,13 @@
   </wpt>
   <wpt lat="52.90461" lon="-6.07151">
     <name>Castletimon Ogham Stone</name>
-    <cmt>Wicklow%20list.htm#Castletimon</cmt>
+    <cmt>Wicklow%20list.htm#castletimon</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Castletimon.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="52.90444" lon="-6.06699">
     <name>Castletimon Standing Stone</name>
-    <cmt>Wicklow%20list.htm#Castletimon</cmt>
+    <cmt>Wicklow%20list.htm#castletimon</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Castletimon%20Standing%20Stone,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
@@ -2063,7 +2063,7 @@
   </wpt>
   <wpt lat="53.99994" lon="-10.06012">
     <name>Keel East</name>
-    <cmt>Mayo%20list.htm#keel east</cmt>
+    <cmt>Mayo%20list.htm#keel%20east</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Keel%20East.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>

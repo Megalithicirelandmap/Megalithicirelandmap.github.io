@@ -3117,6 +3117,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Rathfeigh%20Motte.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="54.24201" lon="-9.25259">
+    <name>Rathfranpark Wedge Tomb</name>
+    <cmt>Mayo%20list.htm#rathfranpark</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathfranpark Wedge Tomb.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="54.29077" lon="-9.28143">
     <name>Rathlackan Court Tomb</name>
     <cmt>Mayo%20list.htm#rathlackan</cmt>

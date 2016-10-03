@@ -717,6 +717,18 @@
     <desc>&lt;a href="http://megalithicireland.com/Boyle%20Abbey,%20Roscommon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="54.24653" lon="-9.33809">
+    <name>Breastagh Ogham Stone</name>
+    <cmt>Mayo%20list.htm#breastagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Breastagh Ogham Stone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
+  <wpt lat="54.24889" lon="-9.25381">
+    <name>Breastagh Wedge Tomb</name>
+    <cmt>Mayo%20list.htm#breastagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Breastagh Wedge Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="52.90111" lon="-6.07194">
     <name>Brittas Portal Tomb</name>
     <cmt>Wicklow%20list.htm#brittas</cmt>

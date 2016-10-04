@@ -1335,6 +1335,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Daithi's%20Stone,%20Rathcroghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="51.62660" lon="-8.84187">
+    <name>Darrara Standing Stone</name>
+    <cmt>Cork%20list.htm#darrara</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Darrara%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="51.65389" lon="-9.92889">
     <name>Dereenataggart West Stone Circle</name>
     <cmt>Cork%20list.htm#dereenataggart</cmt>

@@ -1311,6 +1311,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Crehelp%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.71730" lon="-9.90180">
+    <name>Cross Stone Pair</name>
+    <cmt>Mayo%20list.htm#cross</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cross%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.81611" lon="-7.47278">
     <name>Cullahill Castle</name>
     <cmt>Laois%20List.html#cullahill</cmt>
@@ -3937,7 +3943,7 @@
     <name>Taghmon High cross</name>
     <cmt>Wexford%20%20list.htm#high%20cross</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Taghmon%20High%20Cross,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="52.32250" lon="-6.65361">
     <name>Taghmon Castle</name>

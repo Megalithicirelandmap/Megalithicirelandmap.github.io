@@ -2085,6 +2085,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Johnswell%20Motte,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="51.74524" lon="-9.37071">
+    <name>Kealkil Stone Circle</name>
+    <cmt>Cork%20list.htm#kealkil</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kealkil%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="53.99994" lon="-10.06012">
     <name>Keel East</name>
     <cmt>Mayo%20list.htm#keel%20east</cmt>

@@ -4017,6 +4017,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Temple-na-Skellig,%20Glendalough.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="51.64472" lon="-8.88574">
+    <name>Templebryan Ogham and Bullaun Stone</name>
+    <cmt>Cork%20list.htm#templebryan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Templebryan%20Ogham%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="51.64306" lon="-8.88333">
     <name>Templebryan Stone Circle</name>
     <cmt>Cork%20list.htm#templebryan</cmt>

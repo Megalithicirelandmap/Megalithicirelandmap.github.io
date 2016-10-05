@@ -2577,6 +2577,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knockmahon%20Ogham%20Stones,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="52.00625" lon="-9.02401">
+    <name>Knocknakilla Stone Circle</name>
+    <cmt>Cork%20list.htm#knocknakilla</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knocknakilla%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="54.25341" lon="-8.57235">
     <name>Knocknarea South Megalithic Tomb</name>
     <cmt>Sligo%20list.htm#knocknarea</cmt>

@@ -1965,6 +1965,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Inch%20Abbey,%20Downpatrick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.48580" lon="-9.31633">
+    <name>Inchagoill Cross Pillar</name>
+    <cmt>Galway%20list.htm#inchagoill</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inchagoill%20Island.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="51.75469" lon="-9.17374">
     <name>Inchireagh Stone Circle</name>
     <cmt>Cork%20list.htm#inchireagh</cmt>

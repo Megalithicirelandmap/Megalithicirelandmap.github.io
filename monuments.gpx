@@ -1347,6 +1347,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dereenataggart%20West%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="51.80430" lon="-9.38158">
+    <name>Derrynafinchin Stone Circle</name>
+    <cmt>Cork%20list.htm#derrynafinchin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Derrynafinchin%20Stone%Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="51.75750" lon="-10.14250">
     <name>Derrynane Abbey</name>
     <cmt>Kerry%20list.htm#derrynane</cmt>
@@ -1952,6 +1958,12 @@
     <cmt>Down%20list.htm#inch%20abbey</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Inch%20Abbey,%20Downpatrick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
+  </wpt>
+  <wpt lat="51.75469" lon="-9.17374">
+    <name>Inchireagh Stone Circle</name>
+    <cmt>Cork%20list.htm#inchireagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inchireagh%20Stone%Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
   </wpt>
   <wpt lat="52.91500" lon="-8.44889">
     <name>Inishcealtra Bullaun Stones</name>

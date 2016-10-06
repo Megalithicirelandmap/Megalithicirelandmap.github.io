@@ -1113,6 +1113,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clondalkin%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.24073" lon="-8.05868">
+    <name>Clonert Cathedral</name>
+    <cmt>Galway%20list.htm#clonfert</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clonfert%20Cathedral.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.96122" lon="-7.65322">
     <name>Clonfertmulloe Bullaun</name>
     <cmt>Laois%20List.html#clonfertmulloe</cmt>

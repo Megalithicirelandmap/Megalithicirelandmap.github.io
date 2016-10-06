@@ -1893,6 +1893,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Greengraves.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="51.53083" lon="-9.19054">
+    <name>Gurranes Stone Row</name>
+    <cmt>Cork%20list.htm#gurranes</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gurranes.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonerows</sym>
+  </wpt>
   <wpt lat="52.84500" lon="-6.66389">
     <name>Haroldstown Portal Tomb</name>
     <cmt>Carlow%20list.htm#haroldstown</cmt>
@@ -2564,6 +2570,12 @@
     <cmt>Galway%20list.htm#knockbrack</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Knockbrack%20Megalithic%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
+  </wpt>
+  <wpt lat="51.52653" lon="-9.19369">
+    <name>Knockdrum Stone Fort</name>
+    <cmt>Cork%20list.htm#knockdrum</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knockdrum%20Stone%20Fort.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
   </wpt>
   <wpt lat="52.41722" lon="-7.92917">
     <name>Knockgraffon Castle</name>

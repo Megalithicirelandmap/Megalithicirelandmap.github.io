@@ -2727,6 +2727,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Letterdeen%20standing%20stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="51.65858" lon="-9.06703">
+    <name>Lettergorman SW Stone Circle</name>
+    <cmt>Cork%20list.htm#lettergorman%20sw</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lettergorman%20SW%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="52.66972" lon="-7.66861">
     <name>Liathmore Churches and Sheela-na-Gig</name>
     <cmt>Tipperary%20List.htm#liathmore</cmt>

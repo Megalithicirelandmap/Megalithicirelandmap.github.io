@@ -2067,6 +2067,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Innisfallen%20Oratory,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="52.06769" lon="-8.57960">
+    <name>Island Wedge Tomb</name>
+    <cmt>Cork%20list.htm#island</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Island%20Wedge.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="53.82778" lon="-9.38917">
     <name>Islandeady Church</name>
     <cmt>Mayo%20list.htm#islandeady</cmt>

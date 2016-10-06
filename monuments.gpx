@@ -2841,6 +2841,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Markree%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="51.64615" lon="-9.06489">
+    <name>Maulatanvally Stone Circle</name>
+    <cmt>Cork%20list.htm#maulatanvally</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Maulatanvally%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="52.14389" lon="-10.35861">
     <name>Maumanorig Early Christian Site and Ogham Stone</name>
     <cmt>Kerry%20list.htm#maumanorig</cmt>

@@ -1131,6 +1131,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clonfinlough%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#rockart</sym>
   </wpt>
+  <wpt lat="53.01112" lon="-7.42043">
+    <name>Clonenagh Cross Slabs</name>
+    <cmt>Laois%20list.htm#clonenagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clonenagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="54.12389" lon="-6.40083">
     <name>Clonlum South Portal Tomb</name>
     <cmt>Armagh%20list.htm#clonlum%20south</cmt>

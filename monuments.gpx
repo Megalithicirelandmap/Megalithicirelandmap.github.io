@@ -3111,6 +3111,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Oran%20Round%20Tower,%20Roscommon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.00890" lon="-7.13358">
+    <name>Oughaval Church</name>
+    <cmt>Laois%20list.htm#oughaval</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Oughaval%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#churches</sym>
+  </wpt>
   <wpt lat="53.27806" lon="-6.56583">
     <name>Oughterard Round Tower</name>
     <cmt>Kildare%20list.htm#oughterard</cmt>

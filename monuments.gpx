@@ -1875,6 +1875,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Granard%20Motte,%20Longford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="52.51542" lon="-8.54157">
+    <name>Grange North Stone Circle</name>
+    <cmt>Limerick%20list.htm#grange</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Grange%20North%20Circle.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="52.51528" lon="-8.54389">
     <name>Grange Stone Alignment</name>
     <cmt>Limerick%20List.htm#grange%20alignment</cmt>

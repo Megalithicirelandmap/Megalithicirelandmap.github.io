@@ -819,6 +819,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Caherconnell%20Stone%20Fort.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="53.14679" lon="-9.25901">
+    <name>Caherdooneerish Stone Fort</name>
+    <cmt>Clare%20list.htm#caherdooneerish</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Caherdooneerish.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
+  </wpt>
   <wpt lat="52.17917" lon="-10.33944">
     <name>Caherdorgan Cashel</name>
     <cmt>Kerry%20list.htm#caherdorgan</cmt>

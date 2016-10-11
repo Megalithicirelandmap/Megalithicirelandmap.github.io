@@ -1947,6 +1947,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Hatch's%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.51873" lon="-7.89803">
+    <name>Hore Abbey</name>
+    <cmt>Tipperary%20list.htm#hore%20abbey</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hore%20Abbey.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="54.32778" lon="-5.72111">
     <name>Downpatrick High Cross</name>
     <cmt>Down%20list.htm#downpatrick</cmt>

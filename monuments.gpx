@@ -2823,6 +2823,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Loher%20Stone%20Fort.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="52.51262" lon="-8.52313">
+    <name>Loughgur Wedge Tomb</name>
+    <cmt>Limerick%20list.htm#loughgur</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Loughgur%20Wedge%20Tomb.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="54.33667" lon="-5.81167">
     <name>Loughinisland Churches</name>
     <cmt>Down%20list.htm#loughinisland</cmt>

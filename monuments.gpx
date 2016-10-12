@@ -1965,6 +1965,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Greatheath%20Barrow,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="53.61704" lon="-6.32044">
+    <name>Greenanstown Standing Stones</name>
+    <cmt>Meath%20list.htm#greenanstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Greenanstown.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt> 
   <wpt lat="54.59028" lon="-5.76472">
     <name>Greengraves Portal Tomb</name>
     <cmt>Down%20list.htm#greengraves</cmt>

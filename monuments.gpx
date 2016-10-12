@@ -1138,7 +1138,7 @@
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="53.24073" lon="-8.05868">
-    <name>Clonert Cathedral</name>
+    <name>Clonfert Cathedral</name>
     <cmt>Galway%20list.htm#clonfert</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Clonfert%20Cathedral.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
@@ -1646,6 +1646,12 @@
     <cmt>Kilkenny%20list.htm#dunnamaggan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Dunnamaggan%20Cross.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
+  </wpt>
+  <wpt lat="53.32570" lon="-7.51947">
+    <name>Durrow High Cross</name>
+    <cmt>Offaly%20list.htm#durrow/cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Durrow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="52.52111" lon="-8.74472">
     <name>Dysert Aenghusa Church and Round Tower</name>

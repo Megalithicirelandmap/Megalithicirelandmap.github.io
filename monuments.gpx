@@ -1737,6 +1737,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Fore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.59658" lon="-6.32646">
+    <name>Fourknocks Passage Tomb</name>
+    <cmt>Meath%20list.htm#fourknocks</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Fourknocks.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="52.73278" lon="-7.39806">
     <name>Freshford Romanesque Doorway</name>
     <cmt>Kilkenny%20list.htm#freshford</cmt>

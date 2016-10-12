@@ -2697,6 +2697,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knocktopher.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.70122" lon="-6.49134">
+    <name>Knowth Passage Tomb</name>
+    <cmt>Meath%20list.htm#knowth</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knowth%20Page%202.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="52.17417" lon="-8.33444">
     <name>Labbacallee Wedge Tomb</name>
     <cmt>Cork%20list.htm#labbacallee</cmt>

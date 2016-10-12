@@ -681,6 +681,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Boa%20Island.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#sheelas</sym>
   </wpt>
+  <wpt lat="53.71555" lon="-6.06944">
+    <name>Bobsville Rock Art</name>
+    <cmt>Meath%20list.htm#bobsville</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Bobsville.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#rockart</sym>
+  </wpt>
   <wpt lat="55.27236" lon="-7.14559">
     <name>Bocan Stone Circle</name>
     <cmt>Donegal%20list.htm#bocan</cmt>

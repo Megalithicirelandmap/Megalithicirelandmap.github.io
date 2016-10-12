@@ -4281,6 +4281,12 @@
     <desc>&lt;a href="http://megalithicireland.com/The%20Milestone%20Millltown.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.71717" lon="-6.54316">
+    <name>St Patrick's Church, Hill of Slane</name>
+    <cmt>Meath%20list.htm#hill%20of%20slane</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Slane.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="55.24988" lon="-7.27247">
     <name>The Marigold Stone, Carndonagh</name>
     <cmt>Donegal%20list.htm#carndonagh</cmt>

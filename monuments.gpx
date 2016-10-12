@@ -1029,6 +1029,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Castledermot%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.74089" lon="-6.95422">
+    <name>Castlekeeran High Crosses and Ogham Stone</name>
+    <cmt>Meath%20list.htm#castlekeeran</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Castlekeeran.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#highcrosses</sym>
+  </wpt>
   <wpt lat="52.99111" lon="-6.63667">
     <name>Castleruddery Stone Circle</name>
     <cmt>Wicklow%20list.htm#castleruddery</cmt>

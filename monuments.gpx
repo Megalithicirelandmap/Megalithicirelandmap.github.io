@@ -1719,6 +1719,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Fence%20Bullaun%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
   </wpt>
+  <wpt lat="53.71037" lon="-6.54145">
+    <name>Fennor High Cross</name>
+    <cmt>Meath%20list.htm#fennor</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Fennor.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.58944" lon="-6.49194">
     <name>Ferns Round Tower</name>
     <cmt>Wexford%20%20list.htm#round%20tower</cmt>

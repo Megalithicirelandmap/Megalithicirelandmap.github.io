@@ -2655,6 +2655,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kimego%20East,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonepairs</sym>
   </wpt>
+  <wpt lat="53.10304" lon="-7.69740">
+    <name>Kinnitty High Cross</name>
+    <cmt>Offaly%20list.htm#kinnitty</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Kinnitty.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.14222" lon="-8.92611">
     <name> Dunguaire Castle Kinvara</name>
     <cmt>Galway%20list.htm#kinvara</cmt>

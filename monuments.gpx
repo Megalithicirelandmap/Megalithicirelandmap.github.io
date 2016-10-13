@@ -1887,6 +1887,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Glebe%20West%20Stone%20Circle,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="54.71056" lon="-8.72309">
+    <name>Glencolmcille Turas Station 1</name>
+    <cmt>Donegal%20list.htm#glencolmcille</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glencolumbkille%20Station%2001.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="53.01083" lon="-6.32778">
     <name>Glendalough Round Tower</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>

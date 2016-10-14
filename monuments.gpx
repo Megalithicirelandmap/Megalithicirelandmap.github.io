@@ -3051,6 +3051,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Maghera%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="54.47647" lon="-8.31565">
+    <name>Magheracar Passage Tomb</name>
+    <cmt>Donegal%20list.htm#magheracar</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Magheracar%20Passage%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="53.44500" lon="-6.16472">
     <name>Malahide Castle</name>
     <cmt>Dublin%20list.htm#malahide</cmt>

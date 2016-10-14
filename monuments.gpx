@@ -1947,6 +1947,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Glencolumbkille%20Station%2011.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.71113" lon="-8.71158">
+    <name>Glencolmcille Turas Station 12</name>
+    <cmt>Donegal%20list.htm#glencolmcille</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glencolumbkille%20Station%2012.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="53.01083" lon="-6.32778">
     <name>Glendalough Round Tower</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>

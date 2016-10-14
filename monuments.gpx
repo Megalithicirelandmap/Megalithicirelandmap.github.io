@@ -1371,6 +1371,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Daithi's%20Stone,%20Rathcroghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.27826" lon="-6.10480">
+    <name>Dalkey Castle</name>
+    <cmt>Dublin%20list.htm#dalkey%20castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Goat%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.62426" lon="-6.52339">
     <name>Danestown Ringfort</name>
     <cmt>Meath%20list.htm#danestown</cmt>
@@ -1970,12 +1976,6 @@
     <cmt>Clare%20list.htm#gleninsheen</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Gleninsheen%20Wedge%20Tombs.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
-  </wpt>
-  <wpt lat="53.27826" lon="-6.10480">
-    <name>Dalkey Castle</name>
-    <cmt>Dublin%20list.htm#dalkey%20castle</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Goat%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.67389" lon="-6.28667">
     <name>Gorey Standing Stone</name>

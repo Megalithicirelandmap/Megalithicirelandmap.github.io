@@ -1971,6 +1971,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Glencolumbkille%20Station%2015.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.71123" lon="-8.71161">
+    <name>Glencolmcille Wayside Cairn</name>
+    <cmt>Donegal%20list.htm#glencolmcille</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glencolumbkille%20Station%2010.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="53.01083" lon="-6.32778">
     <name>Glendalough Round Tower</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>

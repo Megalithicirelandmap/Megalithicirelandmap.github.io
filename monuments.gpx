@@ -621,6 +621,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Barnes%20Lower%20Rock%20Art.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="55.08426" lon="-7.80743">
+    <name>Barnes Lower Stone Row</name>
+    <cmt>Donegal%20list.htm#barnes%20lower</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Barnes%20Lower%20Stone%20Row.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonerows</sym>
+  </wpt>
   <wpt lat="54.23278" lon="-6.20306">
     <name>Barnmeen Standing Stone</name>
     <cmt>Down%20list.htm#barnmeen</cmt>

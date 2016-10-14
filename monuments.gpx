@@ -1707,6 +1707,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Enniscorthy%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="54.71545" lon="-8.72143">
+    <name>Farranmacbride Court Tomb</name>
+    <cmt>Donegal%20list.htm#farranmacbride</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Farranmacbride%20Court%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="54.05222" lon="-6.38611">
     <name>Faughart Motte</name>
     <cmt>Louth%20list.htm#faughart</cmt>

@@ -2235,6 +2235,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Inishcealtra,%20The%20Saints%20Graveyard.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="54.84763" lon="-8.45111">
+    <name>Inishkeel Monastic Site</name>
+    <cmt>Donegal%20list.htm#inishkeel</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inishkeel%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="54.00167" lon="-6.57861">
     <name>Inishkeen Motte</name>
     <cmt>Monaghan%20list.htm#motte</cmt>

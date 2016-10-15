@@ -2061,6 +2061,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Gortnagulla%20Stone%20Row.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonerows</sym>
   </wpt>
+  <wpt lat="55.12122" lon="-7.65650">
+    <name>Gortnavern Portal Tomb</name>
+    <cmt>Donegal%20list.htm#gortnavern</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gortnavern%20Portal%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="54.21306" lon="-6.09444">
     <name>Goward Portal Tomb</name>
     <cmt>Down%20list.htm#goward</cmt>

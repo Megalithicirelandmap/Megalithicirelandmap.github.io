@@ -4365,6 +4365,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Cronan,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="54.96770" lon="-7.85944">
+    <name>Temple Douglas</name>
+    <cmt>Donegal%20list.htm#temple%20douglas</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Temple%20Douglas.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.32611" lon="-7.98583">
     <name>Temple Dowling</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>

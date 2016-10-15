@@ -2739,6 +2739,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilmallock%20Town%20Walls,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#walledtowns</sym>
   </wpt>
+  <wpt lat="55.01145" lon="-7.60914">
+    <name>Killydonnell Friary</name>
+    <cmt>Donegal%20list.htm#killydonnell</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killydonnell%20Friary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.40361" lon="-7.26056">
     <name>Kilmogue Portal Tomb</name>
     <cmt>Kilkenny%20list.htm#kilmogue</cmt>

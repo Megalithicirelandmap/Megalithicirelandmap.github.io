@@ -2133,6 +2133,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Greengraves.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="55.02378" lon="-7.42781">
+    <name>Grianan of Aileach Stone Fort/name>
+    <cmt>Donegal%20list.htm#grianan%20of%20aileach</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Grianan%20of%20Aileach.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
+  </wpt>
   <wpt lat="51.53083" lon="-9.19054">
     <name>Gurranes Stone Row</name>
     <cmt>Cork%20list.htm#gurranes</cmt>

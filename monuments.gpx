@@ -4347,6 +4347,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Ciaran%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="54.66470" lon="-8.79068">
+    <name>Temple Cavan</name>
+    <cmt>Donegal%20list.htm#malin%20beg</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Temple%20Cavan%20Malin%20Beg.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.32667" lon="-7.98611">
     <name>Temple Connor</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>

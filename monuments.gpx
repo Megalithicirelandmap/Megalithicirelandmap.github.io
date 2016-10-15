@@ -1137,6 +1137,12 @@
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Clonca.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="55.26787" lon="-7.17354">
+    <name>Clonca Monastic Site</name>
+    <cmt>Donegal%20list.htm#clonca</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clonca%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.32194" lon="-6.39528">
     <name>Clondalkin Round Tower</name>
     <cmt>Dublin%20list.htm#clondalkin</cmt>

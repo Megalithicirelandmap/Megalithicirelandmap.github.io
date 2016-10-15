@@ -1467,11 +1467,23 @@
     <desc>&lt;a href="http://megalithicireland.com/Donegal%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
-  <wpt lat="55.02611" lon="-7.82111">
+  <wpt lat="55.02464" lon="-7.82187">
     <name>Doon Holy Well</name>
     <cmt>Donegal%20list.htm#doon</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Doon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
+  </wpt>
+  <wpt lat="55.02464" lon="-7.82187">
+    <name>Doon Rock Inauguration Site</name>
+    <cmt>Donegal%20list.htm#doon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Doon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+   <sym/> 
+  </wpt>
+  <wpt lat="55.02400" lon="-7.81964">
+    <name>Doon Rock Mass Rock</name>
+    <cmt>Donegal%20list.htm#doon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Doon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+  <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="54.70733" lon="-8.74610">
     <name>Doonalt Cross Pillar</name>

@@ -1845,8 +1845,26 @@
     <desc>&lt;a href="http://megalithicireland.com/Garrykennedy%20Castle,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
-  <wpt lat="55.01569" lon="-7.90932">
-    <name>Gartan Monastic Site</name>
+  <wpt lat="55.01599" lon="-7.90925">
+    <name>Gartan Cross Turas 3</name>
+    <cmt>Donegal%20list.htm#gartan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gartan%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
+  <wpt lat="55.05850" lon="-7.90854">
+    <name>Gartan Cross Turas 5</name>
+    <cmt>Donegal%20list.htm#gartan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gartan%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
+  <wpt lat="55.01546" lon="-7.90799">
+    <name>Gartan Holy Well Turas 6</name>
+    <cmt>Donegal%20list.htm#gartan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gartan%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
+  <wpt lat="55.01535" lon="-7.90889">
+    <name>Gartan St Colmcille's Church Turas 1</name>
     <cmt>Donegal%20list.htm#gartan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Gartan%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>

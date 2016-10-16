@@ -657,6 +657,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Baur.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="53.43556" lon="-7.84499">
+    <name>Bealin High Cross</name>
+    <cmt>Westmeath%20list.htm#bealin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Bealin.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.58250" lon="-6.70278">
     <name>Bective Abbey</name>
     <cmt>Meath%20list.htm#bective%20abbey</cmt>

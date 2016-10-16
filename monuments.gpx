@@ -213,8 +213,20 @@
     <desc>&lt;a href="http://megalithicireland.com/Ardfert%20Temple%20Na%20Hoe.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
-  <wpt lat="54.25917" lon="-5.60639">
-    <name>Ardglass Castles</name>
+  <wpt lat="54.25844" lon="-5.60572">
+    <name>Ardglass Cowd Castle</name>
+    <cmt>Down%20list.htm#ardglass</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ardglass%20Castles,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
+  <wpt lat="54.25913" lon="-5.60640">
+    <name>Ardglass Jordan's Castle</name>
+    <cmt>Down%20list.htm#ardglass</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ardglass%20Castles,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
+  <wpt lat="54.25827" lon="-5.60633">
+    <name>Ardglass Margaret's Castle</name>
     <cmt>Down%20list.htm#ardglass</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ardglass%20Castles,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>

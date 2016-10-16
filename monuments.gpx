@@ -1833,6 +1833,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Fore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.68431" lon="-7.22642">
+    <name>Fore Dovecote</name>
+    <cmt>Westmeath%20list.htm#fore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Fore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="53.59658" lon="-6.32646">
     <name>Fourknocks Passage Tomb</name>
     <cmt>Meath%20list.htm#fourknocks</cmt>

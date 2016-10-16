@@ -1311,6 +1311,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Corlea%20Trackway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="52.94556" lon="-9.06250">
+    <name>Corofin Museum Tau Cross</name>
+    <cmt>Clare%20list.htm#corofin%20museum</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Roughan%20Hill,%20Tau%20Cross,%20Killinaboy,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="54.07229" lon="-9.07827">
     <name>Corrower Ogham Stone</name>
     <cmt>Mayo%20list.htm#corrower</cmt>
@@ -3243,6 +3249,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Millltown%20Rock%20Art,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#rockart</sym>
   </wpt>
+  <wpt lat="52.13948" lon="-10.29464">
+    <name>Milltown Standing stone</name>
+    <cmt>Kerry%20list.htm#milltown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/The%20Milestone%20Millltown.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.14028" lon="-10.29472">
     <name>Milltown Stone Pair</name>
     <cmt>Kerry%20list.htm#milltown</cmt>
@@ -3704,12 +3716,6 @@
     <cmt>Kilkenny%20list.htm#kilkenny%20city</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Rothe%20House,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
-  </wpt>
-  <wpt lat="52.94556" lon="-9.06250">
-    <name>Corofin Museum Tau Cross</name>
-    <cmt>Clare%20list.htm#corofin%20museum</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Roughan%20Hill,%20Tau%20Cross,%20Killinaboy,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="53.55472" lon="-7.89333">
     <name>Saint's Island</name>
@@ -4522,16 +4528,10 @@
     <sym>subject#passagetombs</sym>
   </wpt>
   <wpt lat="53.15306" lon="-6.91417">
-    <name>The Grey abbey Kildare</name>
+    <name>The Grey Abbey Kildare</name>
     <cmt>Kildare%20list.htm#kildare</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Grey%20Abbey,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
-  </wpt>
-  <wpt lat="52.13948" lon="-10.29464">
-    <name>Milltown Standing stone</name>
-    <cmt>Kerry%20list.htm#milltown</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/The%20Milestone%20Millltown.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="53.71717" lon="-6.54316">
     <name>St Patrick's Church, Hill of Slane</name>

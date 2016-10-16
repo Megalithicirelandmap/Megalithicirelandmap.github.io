@@ -195,6 +195,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ardattin%20Bullaun%20Stone,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
   </wpt>
+  <wpt lat="54.61961" lon="-6.50478">
+    <name>Ardboe High Cross</name>
+    <cmt>Tyrone%20list.htm#ardboe</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Ardboe.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.85499" lon="-6.53636">
     <name>Ardee Castle</name>
     <cmt>Louth%20list.htm#ardee%20castle</cmt>

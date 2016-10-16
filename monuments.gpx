@@ -3219,12 +3219,6 @@
     <desc>&lt;a href="http://megalithicireland.com/Maynooth%20Castle,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
-  <wpt lat="54.34472" lon="-5.68333">
-    <name>St Patrick's Well Saul</name>
-    <cmt>Down%20list.htm#saul</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Mearing%20Well,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#bullauns</sym>
-  </wpt>
   <wpt lat="53.92167" lon="-9.02028">
     <name>Meelick Round Tower and Cross Slab</name>
     <cmt>Mayo%20list.htm#meelick</cmt>
@@ -4303,6 +4297,12 @@
     <name>St Patrick's Holy Well Bunduff</name>
     <cmt>Leitrim%20list.htm#bunduff</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Well%20Bunduff.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
+  <wpt lat="54.34472" lon="-5.68333">
+    <name>St Patrick's Holy Well Saul</name>
+    <cmt>Down%20list.htm#saul</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mearing%20Well,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.40806" lon="-7.99250">

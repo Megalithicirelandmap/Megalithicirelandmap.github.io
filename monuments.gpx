@@ -1731,6 +1731,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dunnamaggan%20Cross.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="54.06851" lon="-6.03254">
+    <name>Dunnaman Court Tomb</name>
+    <cmt>Down%20list.htm#dunnaman</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dunnaman.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="53.32570" lon="-7.51947">
     <name>Durrow High Cross</name>
     <cmt>Offaly%20list.htm#durrow</cmt>

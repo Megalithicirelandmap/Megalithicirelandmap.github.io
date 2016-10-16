@@ -555,6 +555,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballynarry%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="54.29056" lon="-5.72618">
+    <name>Ballynoe Stone Circle</name>
+    <cmt>Down%20list.htm#ballynoe</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballynoe.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="52.18389" lon="-6.58694">
     <name>Ballyteige Tower House</name>
     <cmt>Wexford%20%20list.htm#ballyteige</cmt>

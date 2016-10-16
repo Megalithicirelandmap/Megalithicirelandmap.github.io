@@ -3459,6 +3459,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Parknabinnia%20Wedge%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="53.50338" lon="-7.16321">
+    <name>Porterstown Standing Stone</name>
+    <cmt>Westmeath%20list.htm#porterstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Porterstown%20Westmeath.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="53.08667" lon="-8.22083">
     <name>Portumna Castle</name>
     <cmt>Galway%20list.htm#portumna</cmt>

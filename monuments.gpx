@@ -135,6 +135,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Altar%20Wedge%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="54.63595" lon="-7.10473">
+    <name>Altdrumman Portal Tomb</name>
+    <cmt>Tyrone%20list.htm#altdrumman</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Altdrumman.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="54.34194" lon="-5.80361">
     <name>Annadorn Dolmen</name>
     <cmt>Down%20list.htm#annadorn</cmt>

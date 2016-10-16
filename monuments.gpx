@@ -4041,6 +4041,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Dubhan's%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.68146" lon="-7.22855">
+    <name>St Feichin's Church</name>
+    <cmt>Westmeath%20list.htm#fore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Fore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.68528" lon="-6.78028">
     <name>St Finian's Church Myshall</name>
     <cmt>Carlow%20list.htm#myshall%203sites</cmt>

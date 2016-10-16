@@ -2589,6 +2589,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilgraney%20Portal%20Tomb,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="54.06649" lon="-6.00349">
+    <name>Kilkeel Portal Tomb</name>
+    <cmt>Down%20list.htm#kilkeel</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilkeel%20Portal%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="52.65028" lon="-7.24917">
     <name>Kilkenny Castle</name>
     <cmt>Kilkenny%20list.htm#kilkenny%20city</cmt>

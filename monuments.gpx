@@ -1443,6 +1443,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dingle%20Bullaun%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
   </wpt>
+  <wpt lat="53.68261" lon="-7.22747">
+    <name>Doaghfeighin Holy Well</name>
+    <cmt>Westmeath%20list.htm#fore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Fore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="54.10704" lon="-9.16580">
     <name>Dolmen of the Four Maols</name>
     <cmt>Mayo%20list.htm#ballina</cmt>

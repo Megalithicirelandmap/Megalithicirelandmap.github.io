@@ -4263,7 +4263,7 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Mullins%20Motte.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
-  <wpt lat="53.60108" lon="-7.26579">
+  <wpt lat="53.60096" lon="-7.26641">
     <name>St Munna's Church Taghmon</name>
     <cmt>Westmeath%20list.htm#taghmon</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Munna's%20%20Church,%20Taghmon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
@@ -4364,6 +4364,12 @@
     <cmt>Wexford%20%20list.htm#castle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Taghmon%20Tower%20House,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
+  </wpt>
+  <wpt lat="53.60097" lon="-7.26642">
+    <name>Taghmon Sheela na Gig</name>
+    <cmt>Westmeath%20list.htm#taghmon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Munna's%20%20Church,%20Taghmon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#sheelas</sym>
   </wpt>
   <wpt lat="53.92083" lon="-6.55000">
     <name>Tallanstown Motte</name>

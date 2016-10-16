@@ -1503,6 +1503,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Doonalt%20Cross%20Pillar.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.32778" lon="-5.72111">
+    <name>Downpatrick High Cross</name>
+    <cmt>Down%20list.htm#downpatrick</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Downpatrick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.70386" lon="-6.45053">
     <name>Dowth Passage Tomb</name>
     <cmt>Meath%20list.htm#dowth</cmt>
@@ -2198,12 +2204,6 @@
     <cmt>Tipperary%20list.htm#hore%20abbey</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Hore%20Abbey.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
-  </wpt>
-  <wpt lat="54.32778" lon="-5.72111">
-    <name>Downpatrick High Cross</name>
-    <cmt>Down%20list.htm#downpatrick</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Downpatrick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="52.90944" lon="-9.06667">
     <name>St Tola's High Cross Dysert O'Dea</name>
@@ -3706,7 +3706,7 @@
     <sym/>
   </wpt>
   <wpt lat="52.94556" lon="-9.06250">
-    <name>Corofin Museum</name>
+    <name>Corofin Museum Tau Cross</name>
     <cmt>Clare%20list.htm#corofin%20museum</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Roughan%20Hill,%20Tau%20Cross,%20Killinaboy,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
@@ -3934,7 +3934,7 @@
     <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="54.43056" lon="-8.45861">
-    <name>St Brigid's Well and Cross SlabCliffoney</name>
+    <name>St Brigid's Well and Cross Slab Cliffoney</name>
     <cmt>Sligo%20list.htm#cliffoney</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Brigid's%20Holy%20Well,%20Cliffoney.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
@@ -4647,12 +4647,6 @@
     <desc>&lt;a href="http://megalithicireland.com/Tobernalt%20Holy%20Well.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
-  <wpt lat="52.21556" lon="-6.49333">
-    <name>Tomhaggard Parish church</name>
-    <cmt>Wexford%20%20list.htm#parish%20church</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Tomhaggard%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#church</sym>
-  </wpt>
   <wpt lat="52.40861" lon="-7.99139">
     <name>St Peacaun's Cell Toureen</name>
     <cmt>Tipperary%20List.htm#cell%202</cmt>
@@ -4663,6 +4657,12 @@
     <name>St Peacaun's Church Toureen</name>
     <cmt>Tipperary%20List.htm#church%202</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Toureen%20Peacaun%20Church,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
+  <wpt lat="52.21556" lon="-6.49333">
+    <name>Tomhaggard Parish church</name>
+    <cmt>Wexford%20%20list.htm#parish%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tomhaggard%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.23528" lon="-9.65111">

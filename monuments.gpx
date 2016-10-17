@@ -1203,6 +1203,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cloghboola%20Beg.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="54.71174" lon="-7.03237">
+    <name>Cloghmore Court Tomb</name>
+    <cmt>Tyrone%20list.htm#cloghmore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cloghmore%20Court.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="55.26773" lon="-7.17409">
     <name>Clonca High Cross</name>
     <cmt>Donegal%20list.htm#clonca</cmt>

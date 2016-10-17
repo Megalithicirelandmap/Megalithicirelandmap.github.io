@@ -357,6 +357,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Balla%20Round%20Tower,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="54.14977" lon="-6.44553">
+    <name>Ballard Longstone</name>
+    <cmt>Armagh%20list.htm#ballard</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballard%20Longstone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="54.02611" lon="-8.33583">
     <name>Ballinafad Castle</name>
     <cmt>Sligo%20list.htm#ballinafad%20castle</cmt>

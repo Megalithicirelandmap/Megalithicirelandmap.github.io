@@ -555,6 +555,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballymacaldrack.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="54.15427" lon="-6.36980">
+    <name>Ballymacdermot Court Tomb</name>
+    <cmt>Armagh%20list.htm#ballymacdermot</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballymacdermot%20Court%20Tomb.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="52.69964" lon="-6.90524">
     <name>Ballymoon Castle</name>
     <cmt>Carlow%20list.htm#ballymoon</cmt>

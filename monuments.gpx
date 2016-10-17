@@ -1725,6 +1725,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dun%20an%20Oir,%20Smerwick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#promontoryforts</sym>
   </wpt>
+  <wpt lat="54.70509" lon="-7.03383">
+    <name>Dun Ruadh Ring Cairn</name>
+    <cmt>Tyrone%20list.htm#dun%20ruadh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dun%20Ruadh%20.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.10361" lon="-10.40861">
     <name>Dunbeg Promontory Fort</name>
     <cmt>Kerry%20list.htm#dunbeg</cmt>

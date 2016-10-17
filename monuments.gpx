@@ -1809,6 +1809,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dunnaman.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="54.67095" lon="-6.93821">
+    <name>Dunnamore Wedge Tomb</name>
+    <cmt>Tyrone%20list.htm#dunnamore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dunnamore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="53.32570" lon="-7.51947">
     <name>Durrow High Cross</name>
     <cmt>Offaly%20list.htm#durrow</cmt>

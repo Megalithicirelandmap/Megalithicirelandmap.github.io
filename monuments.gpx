@@ -819,6 +819,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Broadleas.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="54.70318" lon="-6.98759">
+    <name>Broughderg Stone Circles</name>
+    <cmt>Tyrone%20list.htm#broughderg</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Broughderg.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="52.83706" lon="-6.89436">
     <name>Brownes Hill Portal Tomb</name>
     <cmt>Carlow%20list.htm#brownes%20hill</cmt>

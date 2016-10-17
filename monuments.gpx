@@ -297,6 +297,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Artramon%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="54.58689" lon="-7.02671">
+    <name>Athenree Portal Tomb</name>
+    <cmt>Tyrone%20list.htm#athenree</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Athenree%20Portal%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="53.30028" lon="-8.74472">
     <name>Athenry Castle</name>
     <cmt>Galway%20list.htm#athenry</cmt>

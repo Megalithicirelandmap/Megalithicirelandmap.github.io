@@ -2187,6 +2187,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Glenroan%20Portal%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="54.79670" lon="-7.95852">
+    <name>Goles Stone Row</name>
+    <cmt>Tyrone%20list.htm#goles%20stone%20row</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Goles%20Stone%20Row.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonerows</sym>
+  </wpt>
   <wpt lat="52.67389" lon="-6.28667">
     <name>Gorey Standing Stone</name>
     <cmt>Wexford%20%20list.htm#gorey</cmt>

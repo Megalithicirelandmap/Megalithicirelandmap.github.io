@@ -2181,6 +2181,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Gleninsheen%20Wedge%20Tombs.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="54.76635" lon="-7.14940">
+    <name>Glenroan Portal Tomb</name>
+    <cmt>Tyrone%20list.htm#glenroan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glenroan%20Portal%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="52.67389" lon="-6.28667">
     <name>Gorey Standing Stone</name>
     <cmt>Wexford%20%20list.htm#gorey</cmt>

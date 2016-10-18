@@ -861,6 +861,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Burgatia%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+    <wpt lat="54.26636" lon="-7.88405">
+    <name>Burren Boulder Burial</name>
+    <cmt>Cavan%20list.htm#burren</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Burren%20Boulder%20Burial.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#rockart</sym>
+  </wpt>
   <wpt lat="54.13920" lon="-6.26519">
     <name>Burren Court Tomb</name>
     <cmt>Down%20list.htm#burren</cmt>

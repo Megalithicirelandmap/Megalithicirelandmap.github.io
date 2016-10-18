@@ -519,12 +519,6 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballykeel%20Dolmen,%20Armagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
-  <wpt lat="53.08556" lon="-9.16417">
-    <name>Ballykinvarga Cashel</name>
-    <cmt>Clare%20list.htm#ballykinvarga</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Ballykinvarga.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#ringforts</sym>
-  </wpt>
   <wpt lat="52.26667" lon="-6.76028">
     <name>Ballylannan Church</name>
     <cmt>Wexford%20%20list.htm#ballylannan</cmt>
@@ -902,6 +896,12 @@
     <cmt>Cork%20list.htm#buttevant%20abbey</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Buttevant%20Abbey,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
+  </wpt>
+  <wpt lat="52.99752" lon="-9.19181">
+    <name>Caherballykinvarga</name>
+    <cmt>Clare%20list.htm#ballykinvarga</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballykinvarga.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
   </wpt>
   <wpt lat="52.10167" lon="-10.42139">
     <name>Caher Conor</name>

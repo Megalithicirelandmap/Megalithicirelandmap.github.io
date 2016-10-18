@@ -1785,6 +1785,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dun%20an%20Oir,%20Smerwick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#promontoryforts</sym>
   </wpt>
+  <wpt lat="53.12709" lon="-9.69965.">
+    <name>Dun Eochla Stone Fort</name>
+    <cmt>Galway%20list.htm#dun%20eochla</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dun%20Eochla.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
+  </wpt>
   <wpt lat="54.70509" lon="-7.03383">
     <name>Dun Ruadh Ring Cairn</name>
     <cmt>Tyrone%20list.htm#dun%20ruadh</cmt>

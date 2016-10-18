@@ -1767,6 +1767,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Duleek%20Round%20Tower,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.12527" lon="-9.76694.">
+    <name>Dun Aengus Stone Fort</name>
+    <cmt>Galway%20list.htm#dun%20aengus</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dun%20Aengus.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
+  </wpt>
   <wpt lat="54.01389" lon="-6.43028">
     <name>Dun Dealgan</name>
     <cmt>Louth%20list.htm#dundalk</cmt>

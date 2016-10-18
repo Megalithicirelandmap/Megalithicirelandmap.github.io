@@ -4731,6 +4731,12 @@
     <desc>&lt;a href="http://megalithicireland.com/The%20Stone%20of%20the%20Tree.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.25201" lon="-8.53698">
+    <name>The Turoe Stone</name>
+    <cmt>Galway%20list.htm#turoe%20stone</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Turoe%20Stone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#rockart</sym>
+  </wpt>
   <wpt lat="54.91750" lon="-6.92083">
     <name>The Wart Well Dungiven</name>
     <cmt>Derry%20list.htm#dungiven-</cmt>

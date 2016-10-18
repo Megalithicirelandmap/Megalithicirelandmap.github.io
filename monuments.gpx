@@ -1341,6 +1341,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cloyne%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="54.05743" lon="-7.01817">
+    <name>Cohaw Court Tomb</name>
+    <cmt>Cavan%20list.htm#cohaw</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cohaw%20Court%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="53.54028" lon="-9.28694">
     <name>Cong abbey</name>
     <cmt>Mayo%20list.htm#cong%20abbey</cmt>

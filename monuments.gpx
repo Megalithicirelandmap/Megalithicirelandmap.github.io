@@ -4732,7 +4732,7 @@
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="51.48278" lon="-9.82944">
-    <name>Dunlough Three Castles</name>
+    <name>Three Castles Dunlough</name>
     <cmt>Cork%20list.htm#dunlough</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Three%20Castles,%20Dunlough,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
@@ -4850,6 +4850,12 @@
     <cmt>Kerry%20list.htm#tullygarran</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Tullygarran%20Ogham%20Stones%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
+  </wpt>
+  <wpt lat="54.26619" lon="-7.88639">
+    <name>Tullygobban Hill Wedge Tomb</name>
+    <cmt>Cavan%20list.htm#burren</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Burren%20Wedge%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
   </wpt>
   <wpt lat="54.28162" lon="-8.15508">
     <name>Tullyskeherny Court Tombs</name>

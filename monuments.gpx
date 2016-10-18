@@ -4569,6 +4569,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Tawnymucklagh%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.14592" lon="-9.77788.">
+    <name>Temple Brecan, The Seven Churches</name>
+    <cmt>Galway%20list.htm#temple%20brecan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Temple%20Brecan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.32639" lon="-7.98556">
     <name>Temple Ciaran -</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>

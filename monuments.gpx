@@ -3195,6 +3195,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Legananny.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="54.25481" lon="-7.89897">
+    <name>Legeelan Sweat House</name>
+    <cmt>Cavan%20list.htm#legeelan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Legeelan%20Sweat%20House.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+     <sym/> 
+  </wpt>
   <wpt lat="53.29304" lon="-7.74353">
     <name>Lemanaghan Church</name>
     <cmt>Offaly%20list.html#lemanaghan</cmt>

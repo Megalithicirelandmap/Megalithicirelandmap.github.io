@@ -1071,6 +1071,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Carrowkeel%20home.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
   <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="54.05428" lon="-8.37701">
+    <name>Carrowkeel Cairn K</name>
+    <cmt>Sligo%20list.htm#carrowkeel%207</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Carrowkeel%20home.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+  <sym>subject#passagetombs</sym>
+  </wpt
   <wpt lat="54.05451" lon="-8.36787">
     <name>Carrowkeel Cairn O</name>
     <cmt>Sligo%20list.htm#cairn%20o</cmt>

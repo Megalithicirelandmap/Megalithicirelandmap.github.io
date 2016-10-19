@@ -903,6 +903,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Buttevant%20Abbey,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="54.17329" lon="-8.67307">
+    <name>Cabragh Wedge Tomb</name>
+    <cmt>Sligo%20list.htm#cabragh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cabragh.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="52.99752" lon="-9.19181">
     <name>Caherballykinvarga</name>
     <cmt>Clare%20list.htm#ballykinvarga</cmt>

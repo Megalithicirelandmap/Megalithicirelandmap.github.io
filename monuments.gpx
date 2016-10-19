@@ -2373,6 +2373,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Hatch's%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="54.09509" lon="-8.34832">
+    <name>Heapstown Cairn</name>
+    <cmt>Sligo%20list.htm#heapstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Heapstown.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+</wpt>
   <wpt lat="52.51873" lon="-7.89803">
     <name>Hore Abbey</name>
     <cmt>Tipperary%20list.htm#hore%20abbey</cmt>

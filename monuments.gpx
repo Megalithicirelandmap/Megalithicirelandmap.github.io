@@ -3147,6 +3147,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knocknakilla%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="54.25871" lon="-8.57425">
+    <name>Knocknarea Cairn</name>
+    <cmt>Sligo%20list.htm#knocknarea</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knocknarea.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="54.25571" lon="-8.57166">
     <name>Knocknarea South Megalithic Tomb</name>
     <cmt>Sligo%20list.htm#knocknarea</cmt>

@@ -4593,6 +4593,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Struell%20Wells,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="54.27497" lon="-8.59842">
+    <name>Strandhill Court Tomb</name>
+    <cmt>Sligo%20list.htm#strandhill</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Strandhill.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="53.45944" lon="-6.22000">
     <name>Swords Castle</name>
     <cmt>Dublin%20list.htm#castle</cmt>

@@ -1059,17 +1059,17 @@
     <desc>&lt;a href="http://megalithicireland.com/Carrowkeel%20Cairn%20E.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
-  <wpt lat="54.05444" lon="-8.36778">
+  <wpt lat="54.04960" lon="-8.38701">
+    <name>Carrowkeel Cairn G</name>
+    <cmt>Sligo%20list.htm#carrowkeel%207</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Carrowkeel%20home.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+  <sym>subject#passagetombs</sym>
+  </wpt>
+  <wpt lat="54.75911" lon="-8.11774">
     <name>Carrowkeel Cairn O</name>
     <cmt>Sligo%20list.htm#cairn%20o</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Carrowkeel%20Cairn%20O.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
-  </wpt>
-  <wpt lat="54.05611" lon="-8.37750">
-    <name>Carrowkeel</name>
-    <cmt>Sligo%20list.htm#carrowkeel%207</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Carrowkeel%20home.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
   </wpt>
   <wpt lat="55.25593" lon="-7.18900">
     <name>Carrowmore Monastic Site</name>

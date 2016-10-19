@@ -3153,6 +3153,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knocknarea.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="54.25986" lon="-8.57434">
+    <name>Knocknarea North Passage Tomb</name>
+    <cmt>Sligo%20list.htm#knocknarea</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knocknarea%20North.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="54.25571" lon="-8.57166">
     <name>Knocknarea South Megalithic Tomb</name>
     <cmt>Sligo%20list.htm#knocknarea</cmt>

@@ -1467,7 +1467,7 @@
     <desc>&lt;a href="http://megalithicireland.com/Creevagh%20%20Wedge%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
-  <wpt lat="54.43871" lon="-8.43334.">
+  <wpt lat="54.43871" lon="-8.43334">
     <name>Creevykeel Court Tomb</name>
     <cmt>Sligo%20list.htm#creevykeel</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Creevykeel%20Court%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
@@ -1773,7 +1773,7 @@
     <desc>&lt;a href="http://megalithicireland.com/Duleek%20Round%20Tower,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
-  <wpt lat="53.12527" lon="-9.76694.">
+  <wpt lat="53.12527" lon="-9.76694">
     <name>Dun Aengus Stone Fort</name>
     <cmt>Galway%20list.htm#dun%20aengus</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Dun%20Aengus.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
@@ -1791,7 +1791,7 @@
     <desc>&lt;a href="http://megalithicireland.com/Dun%20an%20Oir,%20Smerwick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#promontoryforts</sym>
   </wpt>
-  <wpt lat="53.12709" lon="-9.69965.">
+  <wpt lat="53.12709" lon="-9.69965">
     <name>Dun Eochla Stone Fort</name>
     <cmt>Galway%20list.htm#dun%20eochla</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Dun%20Eochla.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
@@ -4581,13 +4581,13 @@
     <desc>&lt;a href="http://megalithicireland.com/Tawnymucklagh%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
-  <wpt lat="53.14592" lon="-9.77788.">
+  <wpt lat="53.14592" lon="-9.77788">
     <name>Temple Brecan, The Seven Churches</name>
     <cmt>Galway%20list.htm#temple%20brecan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Brecan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
-  <wpt lat="53.14591" lon="-9.77806.">
+  <wpt lat="53.14591" lon="-9.77806">
     <name>Temple Brecan, West Cross and Leacht</name>
     <cmt>Galway%20list.htm#temple%20brecan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Brecan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
@@ -4737,7 +4737,7 @@
     <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Slane.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
-  <wpt lat="54.09050" lon="-8.31266.">
+  <wpt lat="54.09050" lon="-8.31266">
     <name>The Labby Rock, Carrickglass</name>
     <cmt>Sligo%20list.htm#carrickglass</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Carrickglass.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>

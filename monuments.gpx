@@ -1671,6 +1671,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Doon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
   <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="53.96962" lon="-8.55859">
+    <name>Doon Standing Stone 1</name>
+    <cmt>Sligo%20list.htm#doon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Doon%20Standing%20Stones.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="54.70733" lon="-8.74610">
     <name>Doonalt Cross Pillar</name>
     <cmt>Donegal%20list.htm#doonalt</cmt>

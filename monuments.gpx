@@ -1173,6 +1173,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Carrowmore%20Complex.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="54.24990" lon="-8.51466">
+    <name>Carrowmore Tomb 18</name>
+    <cmt>Sligo%20list.htm#carrowmore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Carrowmore%20Complex.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="53.96722" lon="-8.57250">
     <name>Carrowntemple Cross Slabs</name>
     <cmt>Sligo%20list.htm#carrowntemple</cmt>

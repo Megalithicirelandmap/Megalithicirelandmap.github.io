@@ -795,8 +795,14 @@
     <desc>&lt;a href="http://megalithicireland.com/Bolton%20Hill%20Bullauns.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
   </wpt>
-  <wpt lat="54.96917" lon="-6.95833">
+  <wpt lat="54.96915" lon="-6.95823">
     <name>Bovevagh Church</name>
+    <cmt>Derry%20list.htm#bovevagh-</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Bovevagh%20Church,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
+  <wpt lat="54.96909" lon="-6.95851">
+    <name>Bovevagh Motuary House</name>
     <cmt>Derry%20list.htm#bovevagh-</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Bovevagh%20Church,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>

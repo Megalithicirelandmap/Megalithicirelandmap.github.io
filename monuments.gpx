@@ -1359,12 +1359,6 @@
     <desc>&lt;a href="http://megalithicireland.com/Clonca%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
-  <wpt lat="54.17946" lon="-7.23254.">
-    <name>Clones High Cross</name>
-    <cmt>Monaghan%20list.htm#high%20cross</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Clones.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#highcrosses</sym>
-  </wpt>
   <wpt lat="53.32194" lon="-6.39528">
     <name>Clondalkin Round Tower</name>
     <cmt>Dublin%20list.htm#clondalkin</cmt>
@@ -1395,6 +1389,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clonenagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.17946" lon="-7.23254.">
+    <name>Clones High Cross</name>
+    <cmt>Monaghan%20list.htm#high%20cross</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Clones.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt> 
   <wpt lat="54.17767" lon="-7.23299.">
     <name>Clones Round Tower</name>
     <cmt>Monaghan%20list.htm#round%20tower</cmt>

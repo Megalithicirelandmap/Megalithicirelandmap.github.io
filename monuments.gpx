@@ -651,9 +651,27 @@
     <desc>&lt;a href="http://megalithicireland.com/Baltinglass%20Abbey,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
-  <wpt lat="54.90250" lon="-6.94750">
+  <wpt lat="54.90253" lon="-6.94764">
     <name>Banagher Church</name>
-    <cmt>Derry%20list.htm#banagher-</cmt>
+    <cmt>Derry%20list.htm#banagher</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Banagher%20Church,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
+  <wpt lat="54.90301" lon="-6.94911">
+    <name>Banagher Cross 1</name>
+    <cmt>Derry%20list.htm#banagher</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Banagher%20Church,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
+  <wpt lat="54.90258" lon="-6.94717">
+    <name>Banagher Cross 2</name>
+    <cmt>Derry%20list.htm#banagher</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Banagher%20Church,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
+  <wpt lat="54.90249" lon="-6.94731">
+    <name>Banagher Mortuary House</name>
+    <cmt>Derry%20list.htm#banagher</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Banagher%20Church,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>

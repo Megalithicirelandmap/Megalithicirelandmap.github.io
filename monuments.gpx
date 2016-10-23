@@ -1389,13 +1389,13 @@
     <desc>&lt;a href="http://megalithicireland.com/Clonenagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
-  <wpt lat="54.17946" lon="-7.23254.">
+  <wpt lat="54.17946" lon="-7.23254">
     <name>Clones High Cross</name>
     <cmt>Monaghan%20list.htm#high%20cross</cmt>
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Clones.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt> 
-  <wpt lat="54.17767" lon="-7.23299.">
+  <wpt lat="54.17767" lon="-7.23299">
     <name>Clones Round Tower</name>
     <cmt>Monaghan%20list.htm#round%20tower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Clones%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
@@ -2067,6 +2067,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Enniscorthy%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="55.08191" lon="-7.45973">
+    <name>Fahan Mura Cross Slab</name>
+    <cmt>Donegal%20list.htm#fahan%20mura</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Fahan%20Mura.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="54.71545" lon="-8.72143">
     <name>Farranmacbride Court Tomb</name>
     <cmt>Donegal%20list.htm#farranmacbride</cmt>
@@ -2529,24 +2535,6 @@
     <desc>&lt;a href="http://megalithicireland.com/Hore%20Abbey.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
-  <wpt lat="52.90944" lon="-9.06667">
-    <name>St Tola's High Cross Dysert O'Dea</name>
-    <cmt>Clare%20list.htm#dysert%20o'dea</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Dysert%20O'Dea,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
-  </wpt>
-  <wpt lat="55.08191" lon="-7.45973">
-    <name>Fahan Mura Cross Slab</name>
-    <cmt>Donegal%20list.htm#fahan%20mura</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Fahan%20Mura.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
-  </wpt>
-  <wpt lat="52.99056" lon="-9.21667">
-    <name>Kilfenora High Crosses</name>
-    <cmt>Clare%20list.htm#kilfenora</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Kilfenora.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
-  </wpt>
   <wpt lat="52.21806" lon="-6.34694">
     <name>Hilltown Standing Stone</name>
     <cmt>Wexford%20%20list.htm#hilltown</cmt>
@@ -2870,6 +2858,12 @@
     <cmt>Down%20list.htm#kilfeaghan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilfeaghan.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
+  </wpt>
+  <wpt lat="52.99056" lon="-9.21667">
+    <name>Kilfenora High Crosses</name>
+    <cmt>Clare%20list.htm#kilfenora</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Kilfenora.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="52.35750" lon="-8.46750">
     <name>Kilfinnane Motte</name>
@@ -3453,7 +3447,7 @@
     <desc>&lt;a href="http://megalithicireland.com/Lios%20Stone%20Circle.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
-  <wpt lat="54.01330" lon="-6.89564.">
+  <wpt lat="54.01330" lon="-6.89564">
     <name>Lisnadarragh Wedge Tomb</name>
     <cmt>Monaghan%20list.htm#lisnadarragh</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Lisnadarragh.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
@@ -4695,7 +4689,7 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Saviour's%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
-  <wpt lat="54.17758" lon="-7.23257.">
+  <wpt lat="54.17758" lon="-7.23257">
     <name>St Tighernach's Tomb Shrine</name>
     <cmt>Monaghan%20list.htm#tomb%20shrine</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Clones%20Tomb%20Shrine.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
@@ -5072,6 +5066,12 @@
     <cmt>Tipperary%20List.htm#church%202</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Toureen%20Peacaun%20Church,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
+  </wpt>
+  <wpt lat="52.90944" lon="-9.06667">
+    <name>St Tola's High Cross Dysert O'Dea</name>
+    <cmt>Clare%20list.htm#dysert%20o'dea</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Dysert%20O'Dea,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="52.21556" lon="-6.49333">
     <name>Tomhaggard Parish church</name>

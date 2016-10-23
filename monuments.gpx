@@ -1389,6 +1389,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clonenagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.17767" lon="-7.23299.">
+    <name>Clones Round Tower</name>
+    <cmt>Monaghan%20list.htm#round%20tower</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clones%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#roundtowers</sym>
+  </wpt>
   <wpt lat="54.12389" lon="-6.40083">
     <name>Clonlum South Portal Tomb</name>
     <cmt>Armagh%20list.htm#clonlum%20south</cmt>

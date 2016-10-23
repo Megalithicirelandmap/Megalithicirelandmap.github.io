@@ -3441,6 +3441,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Lios%20Stone%20Circle.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="54.01330" lon="-689564.">
+    <name>Lisnadarragh Wedge Tomb</name>
+    <cmt>Monaghan%20list.htm#lisnadarragh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lisnadarragh.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="52.44444" lon="-9.48694">
     <name>Listowel Castle</name>
     <cmt>Kerry%20list.htm#listowel</cmt>

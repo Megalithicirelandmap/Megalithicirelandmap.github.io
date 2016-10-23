@@ -5025,6 +5025,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Tintern%20Holy%20Well,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="54.85626" lon="-6.69213">
+    <name>Tirnony Portal Tomb</name>
+    <cmt>Derry%20list.htm#tirnony</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tirnony.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="51.85861" lon="-10.37389">
     <name>Tobairin Hoy Well Coomanaspig</name>
     <cmt>Kerry%20list.htm#coomanaspig</cmt>

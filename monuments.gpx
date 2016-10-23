@@ -459,6 +459,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballybriest.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="54.73826" lon="-6.81767">
+    <name>Ballybriest Wedge Tomb</name>
+    <cmt>Derry%20list.htm#ballybriest-%202sites</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballybriest.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="52.51222" lon="-9.67750">
     <name>Ballybunion Castle</name>
     <cmt>Kerry%20list.htm#ballybunion</cmt>

@@ -2937,6 +2937,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Killadangan%20Megalithic%20Complex.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonerows</sym>
   </wpt>
+  <wpt lat="54.43397" lon="-7.68295">
+    <name>Killadeas, The Bishop's Stone</name>
+    <cmt>Fermanagh%20list.htm#killadeas</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killadeas.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/> 
+  </wpt>
   <wpt lat="53.18889" lon="-6.67222">
     <name>Killashee Round Tower</name>
     <cmt>Kildare%20list.htm#killashee</cmt>

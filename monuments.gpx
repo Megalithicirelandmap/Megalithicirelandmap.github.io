@@ -801,6 +801,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Boher.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#pilgrimagesites</sym>
   </wpt>
+  <wpt lat="54.36454" lon="-7.82105">
+    <name>Boho High Cross</name>
+    <cmt>Fermanagh%20list.htm#boho</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Boho.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="51.58056" lon="-8.99972">
     <name>Bohonagh Stone Circle</name>
     <cmt>Cork%20list.htm#bohonagh</cmt>
@@ -826,7 +832,7 @@
     <sym>subject#church</sym>
   </wpt>
   <wpt lat="54.96909" lon="-6.95851">
-    <name>Bovevagh Motuary House</name>
+    <name>Bovevagh Mortuary House</name>
     <cmt>Derry%20list.htm#bovevagh-</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Bovevagh%20Church,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>

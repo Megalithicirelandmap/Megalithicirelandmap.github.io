@@ -1719,14 +1719,32 @@
     <desc>&lt;a href="http://megalithicireland.com/Derrynane%20Beg%20Ogham%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
-  <wpt lat="54.37389" lon="-7.65611">
-    <name>Devenish Island Monastic Site</name>
+  <wpt lat="54.37075" lon="-7.65564">
+    <name>Devenish High Cross</name>
+    <cmt>Fermanagh%20list.htm#round%20tower</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Devenish%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
+  <wpt lat="54.37130" lon="-7.65478">
+    <name>Devenish St Molaise's House</name>
+    <cmt>Fermanagh%20list.htm#round%20tower</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Devenish%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#oratories</sym>
+  </wpt>
+  <wpt lat="54.37136" lon="-7.65450">
+    <name>Devenish Teampall Mór</name>
+    <cmt>Fermanagh%20list.htm#round%20tower</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Devenish%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
+  <wpt lat="54.37103" lon="-7.65627">
+    <name>Devenish Priory</name>
     <cmt>Fermanagh%20list.htm#monastic%20site%204</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Devenish%20Island.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
-  <wpt lat="54.37389" lon="-7.65611">
-    <name>Devenish Island Round Tower</name>
+  <wpt lat="54.37123" lon="-7.65538">
+    <name>Devenish Round Tower</name>
     <cmt>Fermanagh%20list.htm#round%20tower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Devenish%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>

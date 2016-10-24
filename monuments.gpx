@@ -5235,6 +5235,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Whites%20Castle,%20Athy.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="54.48816" lon="-7.73011">
+    <name>White Island Figures</name>
+    <cmt>Fermanagh%20list.htm#white%20island</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/White%20Island%20Figures.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#sheelas</sym>
+  </wpt>
   <wpt lat="54.74528" lon="-5.95417">
     <name>Wileys fort</name>
     <cmt>Antrim%20list.htm#wileys%20fort</cmt>

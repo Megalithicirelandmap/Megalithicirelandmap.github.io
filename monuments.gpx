@@ -1935,6 +1935,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilcashel.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.58443" lon="-7.69050">
+    <name>Drumskinny Stone Circle</name>
+    <cmt>Fermanagh%20list.htm#drumskinny</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Drumskinny.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="53.65537" lon="-6.41885">
     <name>Duleek High Cross</name>
     <cmt>Meath%20list.htm#duleek</cmt>

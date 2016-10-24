@@ -3567,6 +3567,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Loughmacrory%20Wedge%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="54.01934" lon="-7.96520">
+    <name>Loughscur Portal Tomb</name>
+    <cmt>Leitrim%20list.htm#loughscur</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Loughscur%20Portal%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="52.13583" lon="-10.13083">
     <name>Lugnagappul Ogham Stones</name>
     <cmt>Kerry%20list.htm#lugnagappul</cmt>

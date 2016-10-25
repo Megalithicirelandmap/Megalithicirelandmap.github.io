@@ -183,6 +183,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Annaghmare%20Court%20Tomb.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="53.88241" lon="-7.78597">
+    <name>Annaghmore Portal Tomb</name>
+    <cmt>Leitrim%20list.htm#annaghmore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Annaghmore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="52.13306" lon="-10.15833">
     <name>Ardamore Standing Stone</name>
     <cmt>Kerry%20list.htm#ardamore</cmt>

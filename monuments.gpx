@@ -5199,6 +5199,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Trinity%20Church,%20Glendalough.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="54.46861" lon="-8.32967">
+    <name>Tullaghan Cross</name>
+    <cmt>Leitrim%20list.htm#tullaghan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tullaghan%20Cross.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.57881" lon="-7.12808">
     <name>Tullaherin Church</name>
     <cmt>Kilkenny%20list.htm#the%20church</cmt>

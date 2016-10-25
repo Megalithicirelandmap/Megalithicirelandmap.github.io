@@ -825,6 +825,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Boher.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#pilgrimagesites</sym>
   </wpt>
+  <wpt lat="53.27424" lon="-6.43777">
+    <name>Boherboy Stone Pair</name>
+    <cmt>Dublin%20list.htm#boherboy</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Boherboy.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonepairs</sym>
+  </wpt>
   <wpt lat="54.36454" lon="-7.82105">
     <name>Boho High Cross</name>
     <cmt>Fermanagh%20list.htm#boho</cmt>

@@ -513,6 +513,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballycrovane%20Ogham%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="53.22904" lon="-6.22626">
+    <name>Ballyedmonduff</name>
+    <cmt>Dublin%20list.htm#ballyedmonduff</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballyedmonduff.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="52.16639" lon="-10.40611">
     <name>Ballyferriter Museum</name>
     <cmt>Kerry%20list.htm#ballyferriter</cmt>

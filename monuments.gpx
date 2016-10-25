@@ -2474,6 +2474,12 @@
     <cmt>Donegal%20list.htm#glencolmcille</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Glencolumbkille%20Station%2010.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
+  <wpt lat="53.21978" lon="-6.21738">
+    <name>Glencullen Standing Stone</name>
+    <cmt>Dublin%20list.htm#glencullen</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glencullen.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   </wpt>
   <wpt lat="53.01083" lon="-6.32778">
     <name>Glendalough Round Tower</name>

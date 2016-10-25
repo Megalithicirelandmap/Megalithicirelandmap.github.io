@@ -1497,6 +1497,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cloonlooaun%20Portal%20Tomb,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="53.81691" lon="-7.87460">
+    <name>Cloonmorris Ogham Stone</name>
+    <cmt>Leitrim%20list.htm#cloonmorris</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cloonmorris.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="54.29222" lon="-5.83667">
     <name>Clough Castle and Motte</name>
     <cmt>Down%20list.htm#clough</cmt>

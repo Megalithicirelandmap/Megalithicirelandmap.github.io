@@ -1641,6 +1641,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Creevagh%20%20Wedge%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="54.23114" lon="-8.30963">
+    <name>Creevelea Abbey</name>
+    <cmt>Leitrim%20list.htm#creevelea%20abbey</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Creevelea%20Abbey.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="54.43871" lon="-8.43334">
     <name>Creevykeel Court Tomb</name>
     <cmt>Sligo%20list.htm#creevykeel</cmt>

@@ -465,6 +465,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballyboher%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.24513" lon="-6.12231">
+    <name>Ballybrack Portal Tomb</name>
+    <cmt>Dublin%20list.htm#ballybrack</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballybrack%20Dolmen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="54.73917" lon="-6.81778">
     <name>Ballybriest Court Tomb</name>
     <cmt>Derry%20list.htm#ballybriest-%202sites</cmt>

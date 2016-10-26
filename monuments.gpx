@@ -885,6 +885,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Breastagh%20Wedge%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="53.25382" lon="-6.15873">
+    <name>Brenanstown Portal Tomb</name>
+    <cmt>Dublin%20list.htm#brenanstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Brenanstown%20Dolmen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="52.90111" lon="-6.07194">
     <name>Brittas Portal Tomb</name>
     <cmt>Wicklow%20list.htm#brittas</cmt>

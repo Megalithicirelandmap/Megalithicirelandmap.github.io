@@ -4611,6 +4611,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Declan's%20Oratory%20Ardmore.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="53.41518" lon="-6.17913">
+    <name>St Doulagh's Church and Baptistry</name>
+    <cmt>Dublin%20list.htm#st%20doulagh's</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Doulagh's%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.13417" lon="-6.92722">
     <name>St Dubhan's Parish Church of Hook</name>
     <cmt>Wexford%20%20list.htm#st%20dubhan's</cmt>

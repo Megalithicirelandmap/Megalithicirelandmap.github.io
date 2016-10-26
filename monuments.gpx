@@ -1317,6 +1317,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Castlekeeran.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="53.36826" lon="-6.36994">
+    <name>Castleknock Motte</name>
+    <cmt>Dublin%20list.htm#castleknock</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Castleknock%20Motte.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="52.99111" lon="-6.63667">
     <name>Castleruddery Stone Circle</name>
     <cmt>Wicklow%20list.htm#castleruddery</cmt>

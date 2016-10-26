@@ -675,6 +675,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Balrath%20Cross%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="53.58654" lon="-6.18992">
+    <name>Balrothery Church</name>
+    <cmt>Dublin%20list.htm#balrothery</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Balrothery.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.58746" lon="-6.18508">
     <name>Balrothery Standing Stone</name>
     <cmt>Dublin%20list.htm#balrothery</cmt>

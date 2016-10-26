@@ -3327,6 +3327,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilrush%20Church,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.23514" lon="-6.20213">
+    <name>Kiltiernan Church</name>
+    <cmt>Dublin%20list.htm#Kiltiernan%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kiltiernan%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.23889" lon="-6.20722">
     <name>Kiltiernan Portal Tomb</name>
     <cmt>Dublin%20list.htm#kiltiernan</cmt>

@@ -2673,6 +2673,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Holy%20Trinity%20Priory,%20%20Fethard,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.37967" lon="-6.08227">
+    <name>Howth Portal Tomb</name>
+    <cmt>Dublin%20list.htm#portal%20tomb</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Howth%20Dolmen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="54.33611" lon="-5.73139">
     <name>Inch Abbey</name>
     <cmt>Down%20list.htm#inch%20abbey</cmt>

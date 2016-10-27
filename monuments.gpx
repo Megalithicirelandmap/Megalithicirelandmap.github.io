@@ -4863,6 +4863,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Moling's%20Holy%20Well.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="54.13738" lon="-6.40934">
+    <name>St Moninna's Grave</name>
+    <cmt>Armagh%20list.htm#killeavy</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killeavy%20Churches.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#grave</sym>
+</wpt>
   <wpt lat="54.13515" lon="-6.41403">
     <name>St Moninna's Well</name>
     <cmt>Armagh%20list.htm#st%20moninna's%20well</cmt>

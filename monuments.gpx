@@ -3399,6 +3399,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knappoge%20Standing%20Stones.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.99591" lon="-6.53644">
+    <name>Knickeen Ogham Stone</name>
+    <cmt>Wicklow%20list.htm#knickeen</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knickeen%20home.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="51.64967" lon="-9.91783">
     <name>Knockaneroe Standing Stone</name>
     <cmt>Cork%20list.htm#knockaneroe</cmt>

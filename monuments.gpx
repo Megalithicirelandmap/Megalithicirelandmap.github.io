@@ -4161,6 +4161,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Rathmacknee%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.23288" lon="-6.14596">
+    <name>Rathmichael Church</name>
+    <cmt>Dublin%20list.htm#church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathmichael%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.23278" lon="-6.14639">
     <name>Rathmichael Round Tower</name>
     <cmt>Dublin%20list.htm#round%20tower</cmt>

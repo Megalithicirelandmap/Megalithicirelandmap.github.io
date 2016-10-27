@@ -4305,6 +4305,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Rothe%20House,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="53.06759" lon="-6.22347">
+    <name>Roundwood Bullaun Stone</name>
+    <cmt>Wicklow%20list.htm#roundwood</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Roundwood.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="53.55472" lon="-7.89333">
     <name>Saint's Island</name>
     <cmt>Longford%20List.htm#saint's%20island</cmt>

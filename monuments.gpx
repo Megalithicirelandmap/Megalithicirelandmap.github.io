@@ -1593,6 +1593,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cohaw%20Court%20Tomb.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="52.94556" lon="-6.63194">
+    <name>Colvinstown Upper Gates of Heaven</name>
+    <cmt>Wicklow%20list.htm#colvinstown%20upper</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gates%20of%20Heaven,%20Kilranelagh%20Graveyard.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="53.54028" lon="-9.28694">
     <name>Cong abbey</name>
     <cmt>Mayo%20list.htm#cong%20abbey</cmt>
@@ -2139,6 +2145,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dungiven%20Standing%20Stone,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.14222" lon="-8.92611">
+    <name> Dunguaire Castle Kinvara</name>
+    <cmt>Galway%20list.htm#kinvara</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kinvara%20Castle,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.05972" lon="-9.63389">
     <name>Dunloe Ogham Stones</name>
     <cmt>Kerry%20list.htm#dunloe</cmt>
@@ -2390,12 +2402,6 @@
     <cmt>Cavan%20list.htm#gartnanoul</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Gartnanoul.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
-  </wpt>
-  <wpt lat="52.94556" lon="-6.63194">
-    <name>Colvinstown Upper Gates of Heaven</name>
-    <cmt>Wicklow%20list.htm#colvinstown%20upper</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Gates%20of%20Heaven,%20Kilranelagh%20Graveyard.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
   </wpt>
   <wpt lat="52.38556" lon="-7.73417">
     <name>Giantsgrave Pillar Stone</name>
@@ -3398,12 +3404,6 @@
     <cmt>Offaly%20list.htm#kinnitty</cmt>
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Kinnitty.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
-  </wpt>
-  <wpt lat="53.14222" lon="-8.92611">
-    <name> Dunguaire Castle Kinvara</name>
-    <cmt>Galway%20list.htm#kinvara</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Kinvara%20Castle,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.79556" lon="-8.82778">
     <name>Knappoge Standing Stones</name>

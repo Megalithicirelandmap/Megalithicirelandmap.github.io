@@ -4191,6 +4191,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Rathfranpark%20Wedge%20Tomb.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="52.80220" lon="-6.66308">
+    <name>Rathgall Hillfort</name>
+    <cmt>Wicklow%20list.htm#rathgall</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathgall.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
+  </wpt>
   <wpt lat="54.29077" lon="-9.28143">
     <name>Rathlackan Court Tomb</name>
     <cmt>Mayo%20list.htm#rathlackan</cmt>

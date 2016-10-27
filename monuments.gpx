@@ -693,6 +693,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Baltinglass%20Abbey,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.06101" lon="-6.22885">
+    <name>Baltynanima Rock Art</name>
+    <cmt>Wicklow%20list.htm#baltynanima</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Baltynanima%20Rock%20Art.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="54.90253" lon="-6.94764">
     <name>Banagher Church</name>
     <cmt>Derry%20list.htm#banagher</cmt>

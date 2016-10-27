@@ -927,6 +927,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Broadleas.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.02803" lon="-6.62550">
+    <name>Broomfields</name>
+    <cmt>Wicklow%20list.htm#broomfields</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Broomfields.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="54.70318" lon="-6.98759">
     <name>Broughderg Stone Circles</name>
     <cmt>Tyrone%20list.htm#broughderg</cmt>

@@ -817,7 +817,13 @@
     <name>Blessington High Cross</name>
     <cmt>Wicklow%20list.htm#blessington</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Blessington%20Cross.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#crossslabs</sym>
+    <sym>subject#cross</sym>
+  </wpt>
+    <wpt lat="53.16156" lon="-6.54096">
+    <name>Blessington Ringed Cross</name>
+    <cmt>Wicklow%20list.htm#blessington</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Blessington%20Cross.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="54.50639" lon="-7.86944">
     <name>Boa Island Figures</name>

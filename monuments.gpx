@@ -3555,6 +3555,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Larch%20Hill.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="53.24714" lon="-6.23453">
+    <name>Laughanstown Cross</name>
+    <cmt>Dublin%20list.htm#laughanstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Laughanstown.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="51.95833" lon="-10.26194">
     <name>Leacanabuile Stone Fort</name>
     <cmt>Kerry%20list.htm#kimego%20west</cmt>

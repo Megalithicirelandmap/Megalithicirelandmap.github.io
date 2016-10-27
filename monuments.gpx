@@ -5343,6 +5343,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Tullowphelim%20Holy%20Well,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.24682" lon="-6.15226">
+    <name>Tully Church</name>
+    <cmt>Dublin%20list.htm#laughanstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Laughanstown.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.27583" lon="-9.64250">
     <name>Tullygarran Ogham Stones</name>
     <cmt>Kerry%20list.htm#tullygarran</cmt>

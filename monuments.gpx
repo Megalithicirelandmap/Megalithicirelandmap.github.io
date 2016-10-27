@@ -2235,6 +2235,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Farranmacbride%20Court%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="53.19597" lon="-6.14051">
+    <name>Fassaroe Cross</name>
+    <cmt>Wicklow%20list.htm#fassaroe</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Fassaroe%20Crosses.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="54.05222" lon="-6.38611">
     <name>Faughart Motte</name>
     <cmt>Louth%20list.htm#faughart</cmt>

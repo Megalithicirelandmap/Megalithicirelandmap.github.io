@@ -1869,6 +1869,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Donaghmore%20round%20tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.02155" lon="-6.61314">
+    <name>Donard</name>
+    <cmt>Wicklow%20list.htm#donard</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Donard%20Ogham%20Stone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="54.65500" lon="-8.11063">
     <name>Donegal Castle</name>
     <cmt>Donegal%20list.htm#donegal%20castle</cmt>

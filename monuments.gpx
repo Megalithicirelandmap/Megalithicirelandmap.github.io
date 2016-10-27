@@ -3339,6 +3339,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kiltiernan.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="53.23381" lon="-6.12368">
+    <name>Kiltuck Stone Cross</name>
+    <cmt>Dublin%20list.htm#kiltuck%20cross</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kiltuck%20Cross.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.98611" lon="-6.15528">
     <name>Kilwirra Church</name>
     <cmt>Louth%20list.htm#kilwirra%20church</cmt>

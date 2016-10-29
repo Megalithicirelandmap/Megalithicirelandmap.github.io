@@ -2415,6 +2415,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Gartnanoul.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="52.20570" lon="-7.21064">
+    <name>Gaulstown Portal Tomb</name>
+    <cmt>Waterford%20list.htm#gaulstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gaulstown%20Dolmen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="52.38556" lon="-7.73417">
     <name>Giantsgrave Pillar Stone</name>
     <cmt>Tipperary%20List.htm#giantsgrave</cmt>

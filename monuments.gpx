@@ -135,6 +135,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ahaglaslin%20Portal.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="52.41255" lon="-7.39340">
+    <name>Ahenny High Cross</name>
+    <cmt>Tipperary%20list.htm#ahenny</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Ahenny.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#highcross</sym>
+  </wpt>
   <wpt lat="54.59973" lon="-7.60111">
     <name>Ally Court Tomb</name>
     <cmt>Tyrone%20list.htm#ally</cmt>

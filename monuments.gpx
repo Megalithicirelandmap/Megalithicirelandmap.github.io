@@ -3453,6 +3453,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knockdrum%20Stone%20Fort.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="52.20751" lon="-7.15912">
+    <name>Knockeen Portal Tomb</name>
+    <cmt>Waterford%20list.htm#knockeen</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knockeen%20Dolmen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="52.41722" lon="-7.92917">
     <name>Knockgraffon Castle</name>
     <cmt>Tipperary%20List.htm#castle</cmt>

@@ -3903,6 +3903,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Misgaun%20Medb,%20Rathcroghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.94625" lon="-7.74806">
+    <name>Monaincha High Cross</name>
+    <cmt>Tipperary%20list.htm#monaincha</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Monaincha.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.77778" lon="-6.41806">
     <name>Monasterboice Round Tower</name>
     <cmt>Louth%20list.htm#round%20tower</cmt>

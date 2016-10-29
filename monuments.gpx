@@ -639,6 +639,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballynoe.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="52.31936" lon="-7.38289">
+    <name>Ballyquin Ogham Stone</name>
+    <cmt>Waterford%20list.htm#ballyquin%20ogham</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballyquin.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="54.33773" lon="-5.65372">
     <name>Ballystokes Rock Art</name>
     <cmt>Down%20list.htm#ballystokes</cmt>

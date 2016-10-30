@@ -3117,6 +3117,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilkenny%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.39779" lon="-7.38072">
+    <name>Kilkieran High Crosses</name>
+    <cmt>Kildare%20list.htm#kilkieran</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Kilkieran.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.78167" lon="-9.60250">
     <name>Killadangan Megalithic Complex</name>
     <cmt>Mayo%20list.htm#killadangan</cmt>

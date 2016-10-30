@@ -1707,6 +1707,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Craans%20Standing%20Stone,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.18944" lon="-6.63689">
+    <name>Craddockstown West Standing Stone</name>
+    <cmt>Kildare%20list.htm#craddockstown%20west</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Craddockstown%20West.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="54.99333" lon="-6.47889">
     <name>Craigs Lower Passage Tomb</name>
     <cmt>Antrim%20list.htm#craigs%20lower</cmt>

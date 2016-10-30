@@ -3119,7 +3119,7 @@
   </wpt>
   <wpt lat="52.39779" lon="-7.38072">
     <name>Kilkieran High Crosses</name>
-    <cmt>Kildare%20list.htm#kilkieran</cmt>
+    <cmt>Kilkenny%20list.htm#kilkieran</cmt>
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Kilkieran.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
@@ -3140,6 +3140,12 @@
     <cmt>Fermanagh%20list.htm#killadeas</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Killadeas.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
+  </wpt>
+  <wpt lat="52.47543" lon="-7.44603">
+    <name>Killamery High Cross + Cross slab</name>
+    <cmt>Kilkenny%20list.htm#killamery</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Killamery.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="53.18889" lon="-6.67222">
     <name>Killashee Round Tower</name>

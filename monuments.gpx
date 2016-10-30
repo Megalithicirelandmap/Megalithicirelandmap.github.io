@@ -3375,11 +3375,17 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilnasaggart.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+    <wpt lat="52.51803" lon="-7.2698">
+    <name>Kilree High Cross</name>
+    <cmt>Kilkenny%20list.htm#kilree</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20%Cross20Kilree.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.51823" lon="-7.26858">
-    <name>Kilree Monastic Site</name>
+    <name>Kilree Round Tower</name>
     <cmt>Kilkenny%20list.htm#kilree</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilree%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="54.06083" lon="-8.15806">
     <name>Kilronan Abbey</name>

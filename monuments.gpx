@@ -1689,6 +1689,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Corlea%20Trackway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="53.57834" lon="-6.61134">
+    <name>Cormac's House</name>
+    <cmt>Louth%20list.htm#hill%20of%20tara</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
+  </wpt>
   <wpt lat="52.94556" lon="-9.06250">
     <name>Corofin Museum Tau Cross</name>
     <cmt>Clare%20list.htm#corofin%20museum</cmt>

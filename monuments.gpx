@@ -711,6 +711,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Baltinglass%20Abbey,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.74075" lon="-6.26585">
+    <name>Baltray Stone Pair</name>
+    <cmt>Louth%20list.htm#baltray</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Baltray.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonepairs</sym>
+  </wpt>
   <wpt lat="53.06101" lon="-6.22885">
     <name>Baltynanima Rock Art</name>
     <cmt>Wicklow%20list.htm#baltynanima</cmt>

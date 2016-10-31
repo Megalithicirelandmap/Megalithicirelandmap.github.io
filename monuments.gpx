@@ -3963,6 +3963,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Monkstown%20Castle,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.97941" lon="-6.82524">
+    <name>Moone High Cross</name>
+    <cmt>Kildare%20list.htm#moone</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Moone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.39917" lon="-6.92861">
     <name>Morrissysland Bullaun Stones</name>
     <cmt>Wexford%20%20list.htm#morrissysland</cmt>

@@ -2007,6 +2007,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Drombeg.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.92194" lon="-6.39751">
+    <name>Dromiskin High Cross</name>
+    <cmt>Louth%20list.htm#high%cross</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Dromiskin.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.92194" lon="-6.39833">
     <name>Dromiskin Round Tower</name>
     <cmt>Louth%20list.htm#round%20tower</cmt>

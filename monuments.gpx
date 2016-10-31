@@ -5295,6 +5295,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Templetown%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.76145" lon="-6.27006">
+    <name>Termonfeckin High Cross</name>
+    <cmt>Louth%20list.htm#termonfeckin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Termonfeckin.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.91361" lon="-8.44889">
     <name>The bargaining stone Inishcealtra</name>
     <cmt>Clare%20list.htm#inishcealtra</cmt>

@@ -5025,6 +5025,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Mella's%20Cell%20Leamonaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="53.95341" lon="-6.54535">
+    <name>St Mochta's House</name>
+    <cmt>Louth%20list.htm#st%20mochta's%20house</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Mochta's%20House.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#oratories</sym>
+  </wpt>
   <wpt lat="52.59083" lon="-6.49194">
     <name>St Mogue's Holy well</name>
     <cmt>Wexford%20%20list.htm#holy%20well</cmt>

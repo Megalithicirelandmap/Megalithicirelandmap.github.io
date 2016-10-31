@@ -4119,6 +4119,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Old%20Cross%20of%20Kilbride.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="53.10788" lon="-6.76095">
+    <name>Old Kilcullen High Cross</name>
+    <cmt>Kildare%20list.htm#old%20kilcullen</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Old%20Kilcullen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.10778" lon="-6.76083">
     <name>Old Kilcullen Round Tower</name>
     <cmt>Kildare%20list.htm#old%20kilcullen</cmt>

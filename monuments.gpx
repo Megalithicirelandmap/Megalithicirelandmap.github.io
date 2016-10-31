@@ -4245,6 +4245,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Portumna%20Castle,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="54.03717" lon="-6.34828">
+    <name>Proleek Portal Tomb</name>
+    <cmt>Louth%20list.htm#proleek</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Proleek.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="53.19184" lon="-6.62837">
     <name>Punchestown Standing Stone</name>
     <cmt>Kildare%20list.htm#punchestown</cmt>

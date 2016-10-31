@@ -4248,8 +4248,14 @@
   <wpt lat="54.03717" lon="-6.34828">
     <name>Proleek Portal Tomb</name>
     <cmt>Louth%20list.htm#proleek</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Proleek.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <desc>&lt;a href="http://megalithicireland.com/proleek.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
+  </wpt>
+  <wpt lat="54.03688" lon="-6.34718">
+    <name>Proleek Portal Tomb</name>
+    <cmt>Louth%20list.htm#proleek</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/proleek.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
   </wpt>
   <wpt lat="53.19184" lon="-6.62837">
     <name>Punchestown Standing Stone</name>

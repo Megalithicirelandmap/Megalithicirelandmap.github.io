@@ -1691,7 +1691,7 @@
   </wpt>
   <wpt lat="53.57834" lon="-6.61134">
     <name>Cormac's House</name>
-    <cmt>Louth%20list.htm#hill%20of%20tara</cmt>
+    <cmt>Meath%20list.htm#hill%20of%20tara</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
@@ -4010,6 +4010,12 @@
     <cmt>Wexford%20%20list.htm#morrissysland</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Morrissysland%20Bullaun%20Stones,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
+  </wpt>
+  <wpt lat="53.57951" lon="-6.61170">
+    <name>Mound of the Hostages</name>
+    <cmt>Meath%20list.htm#hill%20of%20tara</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
   </wpt>
   <wpt lat="52.41194" lon="-6.93500">
     <name>Mountgarret Tower House</name>

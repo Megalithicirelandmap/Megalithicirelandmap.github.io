@@ -4011,6 +4011,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Mullagh%20Ogham%20Stone,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="53.00663" lon="-6.84941">
+    <name>Mullaghmast Standing Stone</name>
+    <cmt>Kildare%20list.htm#mullaghmast</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mullaghmast%20Long%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.63417" lon="-8.67556">
     <name>Mungret Church</name>
     <cmt>Limerick%20List.htm#mungret%20church</cmt>

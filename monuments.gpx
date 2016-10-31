@@ -4335,6 +4335,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Rath%20na%20tDarbh%20Rathcroghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="53.58033" lon="-6.61149">
+    <name>Rath of the Synods</name>
+    <cmt>Meath%20list.htm#hill%20of%20tara</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
+  </wpt>
   <wpt lat="52.16861" lon="-10.02833">
     <name>Rathduff Ogham Stones</name>
     <cmt>Kerry%20list.htm#rathduff</cmt>

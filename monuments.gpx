@@ -3969,7 +3969,13 @@
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Monaincha.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
-  <wpt lat="53.77778" lon="-6.41806">
+  <wpt lat="53.77761" lon="-6.41771">
+    <name>Monasterboice High Crosses</name>
+    <cmt>Louth%20list.htm#high%crosses</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Monasterboice.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
+  <wpt lat="53.77787" lon="-6.41820">
     <name>Monasterboice Round Tower</name>
     <cmt>Louth%20list.htm#round%20tower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Monasterboice%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>

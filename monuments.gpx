@@ -2787,6 +2787,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Howth%20Dolmen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="53.82868" lon="-6.56905">
+    <name>Hurlstone</name>
+    <cmt>Louth%20list.htm#hurlstone</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hurlstone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="54.33611" lon="-5.73139">
     <name>Inch Abbey</name>
     <cmt>Down%20list.htm#inch%20abbey</cmt>

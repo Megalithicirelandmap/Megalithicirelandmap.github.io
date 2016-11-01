@@ -5373,6 +5373,12 @@
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Termonfeckin.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="53.58199" lon="-6.61177">
+    <name>The Banqueting Hall, Cursus</name>
+    <cmt>Meath%20list.htm#hill%20of%20tara</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.91361" lon="-8.44889">
     <name>The bargaining stone Inishcealtra</name>
     <cmt>Clare%20list.htm#inishcealtra</cmt>

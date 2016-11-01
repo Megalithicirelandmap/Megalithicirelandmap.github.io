@@ -4875,6 +4875,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Columbkille's%20Well,%20Ratharney.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.72825" lon="-6.88078">
+    <name>St Columb's House, Kells</name>
+    <cmt>Meath%20list.htm#monastery%204</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kells%20Monastery,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#oratories</sym>
+</wpt>
   <wpt lat="52.89667" lon="-8.53972">
     <name>St Cronan's Church Tuamgraney</name>
     <cmt>Clare%20list.htm#tuamgraney</cmt>

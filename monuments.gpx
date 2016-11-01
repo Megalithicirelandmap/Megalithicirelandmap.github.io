@@ -5445,6 +5445,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Carrickglass.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="53.57863" lon="-6.61213">
+    <name>The Lia Fáil, Stone of Destiny</name>
+    <cmt>Meath%20list.htm#hill%20of%20tara</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="55.24988" lon="-7.27247">
     <name>The Marigold Stone, Carndonagh</name>
     <cmt>Donegal%20list.htm#carndonagh</cmt>

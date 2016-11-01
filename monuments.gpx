@@ -3519,6 +3519,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kimego%20East,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonepairs</sym>
   </wpt>
+  <wpt lat="53.76141" lon="-7.04059">
+    <name>Kings Mountain, Passage Tomb Art</name>
+    <cmt>Meath%20list.htm#kings%20mountain</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kings%20Mountain.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="53.10304" lon="-7.69740">
     <name>Kinnitty High Cross</name>
     <cmt>Offaly%20list.htm#kinnitty</cmt>

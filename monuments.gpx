@@ -2373,6 +2373,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Fethard%20Town%20Walls,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#walledtowns</sym>
   </wpt>
+  <wpt lat="53.58043" lon="-6.61077">
+    <name>Figure Carving, Tara</name>
+    <cmt>Meath%20list.htm#hill%20of%20tara</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#sheelas</sym>
+  </wpt>
   <wpt lat="53.68395" lon="-7.22715">
     <name>Fore Abbey</name>
     <cmt>Westmeath%20list.htm#fore</cmt>

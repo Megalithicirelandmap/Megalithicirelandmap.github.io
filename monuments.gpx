@@ -5469,8 +5469,14 @@
     <desc>&lt;a href="http://megalithicireland.com/The%20Nuns'%20Church%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.57875" lon="-6.61233">
+    <name>The Royal Seat, Tara</name>
+    <cmt>Meath%20list.htm#hill%20of%20tara</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="53.58320" lon="-6.61542">
-    <name>The Sloping Trenches</name>
+    <name>The Sloping Trenches, Tara</name>
     <cmt>Meath%20list.htm#hill%20of%20tara</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>

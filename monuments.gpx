@@ -3195,6 +3195,12 @@
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Killamery.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="53.78979" lon="-6.66619">
+    <name>Killary High Cross</name>
+    <cmt>Meath%20list.htm#killary</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Killary.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt> 
   <wpt lat="53.18889" lon="-6.67222">
     <name>Killashee Round Tower</name>
     <cmt>Kildare%20list.htm#killashee</cmt>

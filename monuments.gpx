@@ -5469,6 +5469,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Marigold%20Stone%20Carndonagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="53.72636" lon="-6.87119">
+    <name>The Market Cross, Kells</name>
+    <cmt>Meath%20list.htm#kells%20high%20crosses</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Kells.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="54.03981" lon="-6.18483">
     <name>The Mint Carlingford</name>
     <cmt>Louth%20list.htm#carlingford</cmt>

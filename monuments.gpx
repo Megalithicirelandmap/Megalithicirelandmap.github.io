@@ -5661,6 +5661,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Trawbaun%20Medieval%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.55527" lon="-6.78789">
+    <name>Trim Castle</name>
+    <cmt>Meath%20list.htm#trim</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Trim.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.01056" lon="-6.32028">
     <name>Trinity church Glendalough</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>

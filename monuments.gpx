@@ -5559,6 +5559,12 @@
     <desc>&lt;a href="http://megalithicireland.com/The%20Wart%20Well,%20Dungiven.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
   </wpt>
+  <wpt lat="53.55527" lon="-6.78789">
+    <name>The Yellow Steeple, Trim</name>
+    <cmt>Meath%20list.htm#trim</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Trim.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.10306" lon="-8.77472">
     <name>Thoor Ballylee Tower House</name>
     <cmt>Galway%20list.htm#thoor%20ballylee</cmt>
@@ -5661,7 +5667,7 @@
     <desc>&lt;a href="http://megalithicireland.com/Trawbaun%20Medieval%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
-  <wpt lat="53.55527" lon="-6.78789">
+  <wpt lat="53.55435" lon="-6.78974">
     <name>Trim Castle</name>
     <cmt>Meath%20list.htm#trim</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Trim.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>

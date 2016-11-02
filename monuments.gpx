@@ -3855,6 +3855,12 @@
     <desc>&lt;a href="http://megalithicireland.com/loughcrew.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="53.74497" lon="-7.11211">
+    <name>Loughcrew Cairn U</name>
+    <cmt>Meath%20list.htm#loughcrew</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/loughcrew.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="52.51262" lon="-8.52313">
     <name>Loughgur Wedge Tomb</name>
     <cmt>Limerick%20list.htm#loughgur</cmt>

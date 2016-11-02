@@ -5356,7 +5356,7 @@
     <sym>subject#cross</sym>
   </wpt>
   <wpt lat="53.32639" lon="-7.98556">
-    <name>Temple Ciaran -</name>
+    <name>Temple Ciaran</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Ciaran%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
@@ -5391,7 +5391,7 @@
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Dowling,%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
-  <wpt lat="53.32631" lon="-7.98478">
+  <wpt lat="53.32706" lon="-7.9878">
     <name>Temple Finghin</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Finghin,%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>

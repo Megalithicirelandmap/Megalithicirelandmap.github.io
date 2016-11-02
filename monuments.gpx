@@ -4707,6 +4707,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Sigginstown%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.58595" lon="-6.56307">
+    <name>Skreen Church and Cross</name>
+    <cmt>Meath%20list.htm#skreen</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Skreen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.13389" lon="-6.91083">
     <name>Slade Castle</name>
     <cmt>Wexford%20%20list.htm#slade</cmt>

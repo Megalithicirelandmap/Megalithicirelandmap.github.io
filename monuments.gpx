@@ -3567,6 +3567,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knockanyconor%20Portal%20Tomb,%20Roscommon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="52.19892" lon="-7.68096">
+    <name>Knockboy Stone Row</name>
+    <cmt>Waterford%20list.htm#knockboy%20stone%20row</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knockboy%20Stone%20Row,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonerows</sym>
+  </wpt>
   <wpt lat="53.55889" lon="-10.12917">
     <name>Knockbrack Megalithic Tomb</name>
     <cmt>Galway%20list.htm#knockbrack</cmt>

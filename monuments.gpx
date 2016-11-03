@@ -1389,6 +1389,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Castleruddery.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.58635" lon="-8.27173">
+    <name>Castlestrange Cult Stone</name>
+    <cmt>Roscommon%20list.htm#castlestrange</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Castlestrange.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#rockart</sym>
+  </wpt>
   <wpt lat="52.90461" lon="-6.07151">
     <name>Castletimon Ogham Stone</name>
     <cmt>Wicklow%20list.htm#castletimon</cmt>

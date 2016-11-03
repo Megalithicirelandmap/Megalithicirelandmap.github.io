@@ -4377,6 +4377,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Portumna%20Castle,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.04868" lon="-9.14002">
+    <name>Poulnabrone Portal Tomb</name>
+    <cmt>Clare%20list.htm#poulnabrone</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Poulnabrone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="54.03717" lon="-6.34828">
     <name>Proleek Portal Tomb</name>
     <cmt>Louth%20list.htm#proleek</cmt>

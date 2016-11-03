@@ -1393,7 +1393,7 @@
     <name>Castlestrange Cult Stone</name>
     <cmt>Roscommon%20list.htm#castlestrange</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Castlestrange.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#rockart</sym>
+    <sym>subject#cultstones</sym>
   </wpt>
   <wpt lat="52.90461" lon="-6.07151">
     <name>Castletimon Ogham Stone</name>

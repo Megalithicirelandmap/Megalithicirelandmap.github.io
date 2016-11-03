@@ -3861,6 +3861,12 @@
     <desc>&lt;a href="http://megalithicireland.com/loughcrewPage%202.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="53.74337" lon="-7.13452">
+    <name>Loughcrew Cairn J</name>
+    <cmt>Meath%20list.htm#loughcrew</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/loughcrewPage%202.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="53.74329" lon="-7.13398">
     <name>Loughcrew Cairn L</name>
     <cmt>Meath%20list.htm#loughcrew</cmt>

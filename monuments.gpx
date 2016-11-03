@@ -801,8 +801,14 @@
     <desc>&lt;a href="http://megalithicireland.com/Barryshall%20Stone%20Pair,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonepairs</sym>
   </wpt>
-  <wpt lat="53.04583" lon="-9.16750">
-    <name>Baur Wedge Tomb</name>
+  <wpt lat="53.04925" lon="-9.15941">
+    <name>Baur South Wedge Tomb 1</name>
+    <cmt>Clare%20list.htm#baur</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Baur.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
+  <wpt lat="53.04583" lon="-9.16756">
+    <name>Baur South Wedge Tomb 3</name>
     <cmt>Clare%20list.htm#baur</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Baur.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>

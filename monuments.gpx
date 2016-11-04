@@ -4468,10 +4468,16 @@
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.26694" lon="-9.68194">
-    <name>Ratass Church and Ogham Stone</name>
+    <name>Ratass Church</name>
     <cmt>Kerry%20list.htm#ratass</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ratass%20Church,%20Tralee,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+  <sym>subject#church</sym> 
+  </wpt>
+  <wpt lat="52.26695" lon="-9.68195">
+    <name>Ratass Ogham Stone</name>
+    <cmt>Kerry%20list.htm#ratass</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ratass%20Church,%20Tralee,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+  <sym>subject#church</sym> 
   </wpt>
   <wpt lat="53.80667" lon="-8.30806">
     <name>Rath Beag</name>

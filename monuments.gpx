@@ -1635,6 +1635,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cohaw%20Court%20Tomb.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="52.12677" lon="-10.30639">
+    <name>Colaiste Ide Ogham Stones</name>
+    <cmt>Kerry%20list.htm#colaiste%20ide</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Colaiste%20Ide.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="52.94556" lon="-6.63194">
     <name>Colvinstown Upper Gates of Heaven</name>
     <cmt>Wicklow%20list.htm#colvinstown%20upper</cmt>

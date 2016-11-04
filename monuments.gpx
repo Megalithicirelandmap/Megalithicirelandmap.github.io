@@ -1666,9 +1666,15 @@
     <sym>subject#wedgetombs</sym>
   </wpt>
   <wpt lat="51.90833" lon="-10.36306">
-    <name>Cool Ogham Stone</name>
+    <name>Cool East Ogham Stone 1</name>
     <cmt>Kerry%20list.htm#cool%20east</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Cool%20Ogham%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
+    <wpt lat="51.91140" lon="-10.35920">
+    <name>Cool East Ogham Stone 2</name>
+    <cmt>Kerry%20list.htm#cool%20east</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cool%20East%20Early%20Christian%20Site,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
   <wpt lat="52.23425" lon="-6.70443">

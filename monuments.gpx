@@ -4389,6 +4389,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Poulawack.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="53.03407" lon="-9.14373">
+    <name>Poulawack Souterrain</name>
+    <cmt>Clare%20list.htm#poulawack</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Poulawack.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>  
+  </wpt>
   <wpt lat="53.04868" lon="-9.14002">
     <name>Poulnabrone Portal Tomb</name>
     <cmt>Clare%20list.htm#poulnabrone</cmt>

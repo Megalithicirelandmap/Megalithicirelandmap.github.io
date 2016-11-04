@@ -4611,6 +4611,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Reanascreena.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="52.16752" lon="-10.38761">
+    <name>Reask Ecclesiastic Site</name>
+    <cmt>Kerry%20list.htm#reask</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Reask.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#oratories</sym>
+  </wpt>
   <wpt lat="53.60722" lon="-10.03000">
     <name>Renvyle Castle</name>
     <cmt>Galway%20list.htm#renvyle</cmt>

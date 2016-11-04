@@ -3250,7 +3250,7 @@
     <sym>subject#crossslabs</sym>
   </wpt>
   <wpt lat="51.84806" lon="-10.33194">
-    <name>Killemnagh Church and Rathkiernan Ogham Stone</name>
+    <name>Killemnagh Church</name>
     <cmt>Kerry%20list.htm#rathkieran</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Killemlagh%20Church,%20Rathkieran,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
@@ -4544,6 +4544,12 @@
     <cmt>Wicklow%20list.htm#rathgall</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Rathgall.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
+  </wpt>
+  <wpt lat="51.84808" lon="-10.33195">
+    <name>Rathkiernan Ogham Stone</name>
+    <cmt>Kerry%20list.htm#rathkieran</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killemlagh%20Church,%20Rathkieran,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
   </wpt>
   <wpt lat="54.29077" lon="-9.28143">
     <name>Rathlackan Court Tomb</name>

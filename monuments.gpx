@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+s<?xml version="1.0"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="http://purl.mro.name/megalithicireland2osm">
   <metadata>
     <name>Megalithicireland.com</name>
@@ -4269,6 +4269,12 @@
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Finglas.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="52.39250" lon="-6.93917">
+    <name>New Ross Town Walls</name>
+    <cmt>Wexford%20%20list.htm#town%20walls</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/New%20Ross%20Town%20Walls,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#walledtowns</sym>
+  </wpt>
   <wpt lat="52.33946" lon="-6.78312">
     <name>Newbawn Portal Tomb</name>
     <cmt>Wexford%20list.htm#newbawn</cmt>
@@ -5953,12 +5959,6 @@
     <name>Westgate Wexford</name>
     <cmt>Wexford%20%20list.htm#westgate</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Westgate,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#walledtowns</sym>
-  </wpt>
-  <wpt lat="52.39250" lon="-6.93917">
-    <name>Wexford Town Walls</name>
-    <cmt>Wexford%20%20list.htm#town%20walls</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/New%20Ross%20Town%20Walls,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#walledtowns</sym>
   </wpt>
   <wpt lat="52.31750" lon="-6.95722">

@@ -103,7 +103,13 @@
     <name>Aghaviller Round Tower</name>
     <cmt>Kilkenny%20list.htm#aghaviller</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Aghaviller%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
+    <sym>subject#roundtowers</sym>
+  </wpt>
+  <wpt lat="52.46596" lon="-7.26835">
+    <name>Aghaviller Church</name>
+    <cmt>Kilkenny%20list.htm#aghaviller</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Aghaviller%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="54.16647" lon="-6.43810">
     <name>Aghmakane Portal Tomb</name>

@@ -5679,6 +5679,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Slane.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.17707" lon="-6.36237">
+    <name>St Vogue's Church</name>
+    <cmt>Wexford%20list.htm#st%20vogue's</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Vogue's%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="54.09050" lon="-8.31266">
     <name>The Labby Rock, Carrickglass</name>
     <cmt>Sligo%20list.htm#carrickglass</cmt>

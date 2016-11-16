@@ -5979,6 +5979,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Wateresk.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="53.01111" lon="-6.32220">
+    <name>Wayside Cross Slab, Glendalough</name>
+    <cmt>Wicklow%20list.htm#glendalough</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Wayside%20Cross%20Slab,%20Glendalough.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="53.57917" lon="-6.60944">
     <name>Well of the White Cow Ancient Well</name>
     <cmt>Meath%20list.htm#well%20of%20the%20white%20cow</cmt>

@@ -2685,11 +2685,11 @@
     <desc>&lt;a href="http://megalithicireland.com/Glendalough%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
-  <wpt lat="53.00861" lon="-6.31944">
-    <name>St Kevin's Holy Well Glendalough</name>
+  <wpt lat="53.01045" lon="-6.32417">
+    <name>Glendalough Visitor Centre</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Glendalough%20St%20Kevins%20Well.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#holywells</sym>
+    <desc>&lt;a href="http://megalithicireland.com/Glendalough%20Monastic.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
   </wpt>
   <wpt lat="53.06472" lon="-9.14972">
     <name>Gleninsheen Wedge Tomb</name>
@@ -5228,6 +5228,12 @@
     <cmt>Wicklow%20list.htm#glendalough</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Kevin's%20Kitchen,%20Glendalough.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
+  </wpt>
+  <wpt lat="53.00861" lon="-6.31944">
+    <name>St Kevin's Holy Well Glendalough</name>
+    <cmt>Wicklow%20list.htm#glendalough</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glendalough%20St%20Kevins%20Well.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
   </wpt>
   <wpt lat="52.73611" lon="-7.02528">
     <name>St Laserian's Cathedral Old Leighlin</name>

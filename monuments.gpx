@@ -1431,6 +1431,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Castletown%20Standing%20Stone,%20Antrim.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.01054" lon="-6.32686">
+    <name>Cathedral of St Peter and St Paul, Glendalough</name>
+    <cmt>Wicklow%20list.htm#glendalough</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glendalough%20Monastic.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.86583" lon="-7.20056">
     <name>Cavan Museum</name>
     <cmt>Cavan%20list.htm#ballyjamesduff</cmt>

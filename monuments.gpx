@@ -2398,13 +2398,13 @@
     <sym>subject#roundtowers</sym>
   </wpt>
   <wpt lat="52.59000" lon="-6.49222">
-    <name> Ferns Monastery</name>
+    <name>Ferns Monastery</name>
     <cmt>Wexford%20%20list.htm#monastery%20-3</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ferns%20monastic%20site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
   <wpt lat="52.59056" lon="-6.49944">
-    <name> Ferns Castle</name>
+    <name>Ferns Castle</name>
     <cmt>Wexford%20%20list.htm#castle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ferns.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
@@ -3908,6 +3908,12 @@
     <cmt>Monaghan%20list.htm#lisnadarragh</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Lisnadarragh.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
+  </wpt>
+  <wpt lat="54.25270" lon="-7.44312">
+    <name>Lisnaskea High Cross</name>
+    <cmt>Fermanagh%20list.htm#lisnaskea</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Lisnaskea.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>  
   </wpt>
   <wpt lat="52.44444" lon="-9.48694">
     <name>Listowel Castle</name>

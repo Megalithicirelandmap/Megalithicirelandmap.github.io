@@ -4335,6 +4335,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Newbawn%20Portal%20Tomb,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="52.32090" lon="-6.77397">
+    <name>Newcastle Motte and Bailey</name>
+    <cmt>Wexford%20list.htm#newcastle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Newcastle%20Motte%20and%20Bailey,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="53.69450" lon="-6.47524">
     <name>Newgrange Passage Tomb</name>
     <cmt>Meath%20list.htm#newgrange</cmt>

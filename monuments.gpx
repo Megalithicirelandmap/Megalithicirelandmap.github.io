@@ -4263,6 +4263,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Mullaghmast%20Long%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.23421" lon="-6.54069">
+    <name>Mulrankin Castle</name>
+    <cmt>Wexford%20list.htm#mulrankin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mulrankin%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.63417" lon="-8.67556">
     <name>Mungret Church</name>
     <cmt>Limerick%20List.htm#mungret%20church</cmt>

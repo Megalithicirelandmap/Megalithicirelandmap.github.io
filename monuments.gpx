@@ -771,6 +771,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Banagher%20Standing%20Stone,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.21063" lon="-6.79412">
+    <name>Bannow Church</name>
+    <cmt>Wexford%20list.htm#bannow</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Bannow%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.24004" lon="-6.73224">
     <name>Bannow Romanesque Font</name>
     <cmt>Wexford%20list.htm#bannow</cmt>

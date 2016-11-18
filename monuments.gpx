@@ -4119,6 +4119,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Maumanorig,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="52.24787" lon="-6.51378">
+    <name>Mayglass Romanesque Church</name>
+    <cmt>Wexford%20list.htm#mayglass</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mayglass%20Romanesque%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.38083" lon="-6.59389">
     <name>Maynooth Castle</name>
     <cmt>Kildare%20list.htm#maynooth</cmt>

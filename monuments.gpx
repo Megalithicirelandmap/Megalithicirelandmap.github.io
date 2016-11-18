@@ -4665,6 +4665,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Rathnageeragh%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.29531" lon="-6.87450">
+    <name>Rathumney Castle</name>
+    <cmt>Wexford%20list.htm#rathumney</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathumney%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.50972" lon="-7.14722">
     <name>Rathwire Motte</name>
     <cmt>Westmeath%20list.htm#rathwire</cmt>

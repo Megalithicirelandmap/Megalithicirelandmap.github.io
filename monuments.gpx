@@ -321,6 +321,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ardscull%20Motte.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="52.37905" lon="-6.47858">
+    <name>Artramon Church</name>
+    <cmt>Wexford%20list.htm#artramon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Artramon%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.37750" lon="-6.47917">
     <name>Artramon Tower House</name>
     <cmt>Wexford%20%20list.htm#artramon</cmt>

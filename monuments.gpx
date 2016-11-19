@@ -1653,6 +1653,7 @@
     <desc>&lt;a href="http://megalithicireland.com/Cloonmorris.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+
   <wpt lat="54.29222" lon="-5.83667">
     <name>Clough Castle and Motte</name>
     <cmt>Down%20list.htm#clough</cmt>
@@ -1766,6 +1767,12 @@
     <cmt>Mayo%20list.htm#corrower</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Corrower.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
+  </wpt>
+  <wpt lat="52.21715" lon="-6.43181">
+    <name>Cotts Stone Pair</name>
+    <cmt>Wexford%20list.htm#cotts</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cotts%20Stone%20Pair,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonepairs</sym>
   </wpt>
   <wpt lat="52.11028" lon="-10.47306">
     <name>Coumeenoole Ogham Stone</name>

@@ -3784,6 +3784,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Labbamolaga%20Middle,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.08856" lon="-8.07386">
+    <name>Lackeen Castle</name>
+    <cmt>Tipperary%20list.htm#lackeen</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lackeen%20Castle,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="55.00806" lon="-7.91403">
     <name>Lacknacoo Rock Art</name>
     <cmt>Donegal%20list.htm#lacknacoo</cmt>

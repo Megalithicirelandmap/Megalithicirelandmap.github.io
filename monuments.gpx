@@ -3970,6 +3970,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Lorrha%20Bullaun%20Stones,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
   </wpt>
+  <wpt lat="53.09165" lon="-8.12088">
+    <name>Lorrha High Crosses</name>
+    <cmt>Tipperary%20list.htm#lorrha</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Lorrha.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>  
+  </wpt>
   <wpt lat="53.74246" lon="-7.13644">
     <name>Loughcrew Cairn D</name>
     <cmt>Meath%20list.htm#loughcrew</cmt>

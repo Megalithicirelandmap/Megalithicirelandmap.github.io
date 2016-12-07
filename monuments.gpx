@@ -2272,6 +2272,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kinvara%20Castle,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.15736" lon="-7.26333">
+    <name>Dunhill Castle</name>
+    <cmt>Waterford%20list.htm#dunhill</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dunhill%20Castle,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.16925" lon="-7.26292">
     <name>Dunhill Portal Tomb</name>
     <cmt>Waterford%20list.htm#dunhill</cmt>

@@ -5578,6 +5578,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Swords%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="54.04076" lon="-6.18641">
+    <name>Taaffes Castle, Carlingford</name>
+    <cmt>Louth%20list.htm#carlingford</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Taaffes,%20Castle,%20Carlingford,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.35333" lon="-6.61306">
     <name>Taghadoe Round Tower</name>
     <cmt>Kildare%20list.htm#taghadoe</cmt>

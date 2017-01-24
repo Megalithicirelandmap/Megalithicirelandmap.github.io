@@ -657,6 +657,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballynarry%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.46700" lon="-6.35997">
+    <name>Ballynellard Bullaun Stone</name>
+    <cmt>Wexford%20list.htm#ballynellard</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballynellard%20Bullaun%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#bullauns</sym>  
+  </wpt>
   <wpt lat="54.29056" lon="-5.72618">
     <name>Ballynoe Stone Circle</name>
     <cmt>Down%20list.htm#ballynoe</cmt>

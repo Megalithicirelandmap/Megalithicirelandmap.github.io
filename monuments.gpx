@@ -5158,6 +5158,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Canice's%20Cathedral,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.20318" lon="-6.43783">
+    <name>St Catherine's Church</name>
+    <cmt>Wexford%20list.htm#churchtown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Catherine's%20Church,%20Churchtown,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym> 
+  </wpt>
   <wpt lat="53.32083" lon="-7.99417">
     <name>St Ciaran's well</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>

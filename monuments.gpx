@@ -867,6 +867,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Belvelly%20Castle,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.98099" lon="-6.03079">
+    <name>Black Castle, Wicklow</name>
+    <cmt>Wicklow%20list.htm#wicklow</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Black%20Castle,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>  
+  </wpt>
   <wpt lat="51.92917" lon="-8.57083">
     <name>Blarney Castle</name>
     <cmt>Cork%20list.htm#blarney</cmt>

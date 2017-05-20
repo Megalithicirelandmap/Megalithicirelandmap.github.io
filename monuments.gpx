@@ -3424,6 +3424,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilmacannon%20Cross%20Slab.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="53.16209" lon="-6.13685">
+    <name>Kilmacanoge Standing Stone, Wicklow</name>
+    <cmt>Wicklow%20list.htm#kilmacanoge</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilmacanoge%20Standing%20Stone,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>  
+  </wpt>
   <wpt lat="53.04807" lon="-8.88806">
     <name>Kilmacduagh Cathedral</name>
     <cmt>Galway%20list.htm#cathedral</cmt>

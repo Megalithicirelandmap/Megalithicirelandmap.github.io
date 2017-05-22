@@ -3682,6 +3682,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knickeen%20home.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="53.76289" lon="-6.68038">
+    <name>Knock High Cross, Font and Bullaun</name>
+    <cmt>Meath%20list.htm#knock</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knock%20Stone%20Cross,%20Font%20and%20Bullaun%20Stone,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>  
+  </wpt>
   <wpt lat="51.64967" lon="-9.91783">
     <name>Knockaneroe Standing Stone</name>
     <cmt>Cork%20list.htm#knockaneroe</cmt>

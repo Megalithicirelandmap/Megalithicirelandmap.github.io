@@ -2368,6 +2368,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Eardownes%20Great%20Standing%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.85014" lon="-6.80883">
+    <name>Eden Bullaun Stone</name>
+    <cmt>Meath%20list.htm#eden</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Eden%20Bullaun%20Stone,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#bullauns</sym>  
+  </wpt>
   <wpt lat="52.46556" lon="-7.69417">
     <name>Edmond's Castle Fethard</name>
     <cmt>Tipperary%20List.htm#edmond's%20castle</cmt>

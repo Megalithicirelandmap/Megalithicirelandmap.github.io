@@ -5218,7 +5218,13 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Coelan's%20Holy%20Well,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
-    <wpt lat="53.32725" lon="-7.51827">
+  <wpt lat="53.61549" lon="-10.18878">
+    <name>St Colman's Monastery, Inishbofin</name>
+    <cmt>Tipperary%20list.htm#inishbofin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Colman's%20Monastery,%20Inishbofin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
+  <wpt lat="53.32725" lon="-7.51827">
     <name>St Colmcille's Well Durrow</name>
     <cmt>Offaly%20list.htm#durrow</cmt>
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Durrow.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>

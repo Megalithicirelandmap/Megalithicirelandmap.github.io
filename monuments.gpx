@@ -4414,6 +4414,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Newbawn%20Portal%20Tomb,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="53.84272" lon="-6.93242">
+    <name>Newcastle Font, Meath</name>
+    <cmt>Meath%20list.htm#newcastle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Newcastle%20Font,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>  
+  </wpt>
   <wpt lat="52.32090" lon="-6.77397">
     <name>Newcastle Motte and Bailey</name>
     <cmt>Wexford%20list.htm#newcastle</cmt>

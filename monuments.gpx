@@ -285,6 +285,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ardmore%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.67366" lon="-6.62701">
+    <name>Ardmulchan Church, Meath</name>
+    <cmt>Meath%20list.htm#ardmulchan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ardmulchan%20Church,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>  
+  </wpt>
   <wpt lat="53.60611" lon="-10.02806">
     <name>Ardnagreevagh Wedge Tomb</name>
     <cmt>Galway%20list.htm#ardnagreevagh</cmt>

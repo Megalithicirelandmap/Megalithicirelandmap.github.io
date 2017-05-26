@@ -5238,7 +5238,7 @@
   </wpt>
   <wpt lat="53.61549" lon="-10.18878">
     <name>St Colman's Monastery, Inishbofin</name>
-    <cmt>Tipperary%20list.htm#inishbofin</cmt>
+    <cmt>Galway%20list.htm#inishbofin</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20Colman's%20Monastery,%20Inishbofin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
@@ -5565,6 +5565,12 @@
     <cmt>Down%20list.htm#saul</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Mearing%20Well,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
+  </wpt>
+  <wpt lat="53.76322" lon="-9.76500">
+    <name>St Patrick's Rock, Kilgeever</name>
+    <cmt>Mayo%20list.htm#kilgeever</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Rock,%20Kilgeever,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>  
   </wpt>
   <wpt lat="52.40861" lon="-7.99139">
     <name>St Peacaun's Cell Toureen</name>

@@ -3118,6 +3118,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Jerpoint%20Abbey.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.63613" lon="-6.64831">
+    <name>Johnstown Fonts</name>
+    <cmt>Meath%20list.htm#johnstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Johnstown%20Fonts,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.70284" lon="-7.16806">
     <name>Johnswell Motte</name>
     <cmt>Kilkenny%20list.htm#johnswell</cmt>

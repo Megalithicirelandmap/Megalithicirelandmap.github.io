@@ -5386,6 +5386,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20James'%20Well,%20Muchgrange.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.72690" lon="-6.87255">
+    <name>St John's Cemetery, Kells</name>
+    <cmt>Meath%20list.htm#kells</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20John's%20Cemetery,%20Kells,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.12528" lon="-10.11194">
     <name>St John's Well Kilmurry</name>
     <cmt>Kerry%20list.htm#kilmurry</cmt>

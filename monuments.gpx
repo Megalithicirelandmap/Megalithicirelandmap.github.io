@@ -2218,6 +2218,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Drumskinny.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.75365" lon="-6.87844">
+    <name>Dulane Church, Meath</name>
+    <cmt>Meath%20list.htm#dulane</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dulane%20Church,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>  
+  </wpt>
   <wpt lat="53.65537" lon="-6.41885">
     <name>Duleek High Cross</name>
     <cmt>Meath%20list.htm#duleek</cmt>

@@ -363,6 +363,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Athgreany%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.65033" lon="-6.67495">
+    <name>Athlumney Castle, Meath</name>
+    <cmt>Meath%20list.htm#athlumney</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Athlumney%20Castle,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>  
+  </wpt>
   <wpt lat="53.65028" lon="-6.67648">
     <name>Athlumney Church, Meath</name>
     <cmt>Meath%20list.htm#athlumney</cmt>

@@ -2644,11 +2644,11 @@
     <desc>&lt;a href="http://megalithicireland.com/Glashare%20Castle,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
-  <wpt lat="52.55639" lon="-6.34917">
-    <name>Monamolin Standing Stone</name>
-    <cmt>Wexford%20%20list.htm#monamolin</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Glebe%20(Monamolin)%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#standingstones</sym>
+  <wpt lat="53.78013" lon="-9.65659">
+    <name>Glaspatrick Church, Mayo</name>
+    <cmt>Mayo%20list.htm#glaspatrick</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glaspatrick%20Church,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>  
   </wpt>
   <wpt lat="53.54806" lon="-9.26222">
     <name>Glebe North/East Circles</name>
@@ -4299,6 +4299,12 @@
     <cmt>Tipperary%20list.htm#monaincha</cmt>
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Monaincha.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
+  </wpt>
+  <wpt lat="52.55639" lon="-6.34917">
+    <name>Monamolin Standing Stone</name>
+    <cmt>Wexford%20%20list.htm#monamolin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glebe%20(Monamolin)%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="53.77761" lon="-6.41771">
     <name>Monasterboice High Crosses</name>

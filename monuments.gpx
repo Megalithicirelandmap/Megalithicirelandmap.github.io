@@ -1167,6 +1167,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Callahy%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.61852" lon="-6.66794">
+    <name>Cannistown Church, Meath</name>
+    <cmt>Meath%20list.htm#cannistown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cannistown%20Church,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>  
+  </wpt>
   <wpt lat="53.36167" lon="-6.96889">
     <name>Carbury Castle</name>
     <cmt>Kildare%20list.htm#carbury</cmt>

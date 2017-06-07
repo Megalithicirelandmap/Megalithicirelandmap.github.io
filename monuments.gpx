@@ -687,6 +687,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballynoe.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="52.54640" lon="-6.42268">
+    <name>Ballyorley Stone Cross</name>
+    <cmt>Wexford%20list.htm#ballyorley%20upper</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballyorley%20Upper%20Stone%20Cross,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.31936" lon="-7.38289">
     <name>Ballyquin Ogham Stone</name>
     <cmt>Waterford%20list.htm#ballyquin%20ogham</cmt>

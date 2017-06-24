@@ -4738,6 +4738,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ratass%20Church,%20Tralee,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
   <sym>subject#church</sym> 
   </wpt>
+  <wpt lat="53.69795" lon="-6.76036">
+    <name>Rath Airthir, Meath</name>
+    <cmt>Meath%20list.htm#rath%20airthir</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rath%20Airthir,%20Teltown,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>  
+  </wpt>
   <wpt lat="53.80667" lon="-8.30806">
     <name>Rath Beag</name>
     <cmt>Roscommon%20list.htm#rathcroghan</cmt>

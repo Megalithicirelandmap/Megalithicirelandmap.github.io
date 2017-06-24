@@ -3154,6 +3154,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Jerpoint%20Abbey.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="52.29397" lon="-6.50537">
+    <name>Johnstown Castle</name>
+    <cmt>Wexford%20list.htm#johnstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathlannan%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.63613" lon="-6.64831">
     <name>Johnstown Fonts</name>
     <cmt>Meath%20list.htm#johnstown</cmt>

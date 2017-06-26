@@ -1485,6 +1485,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Castletimon%20Standing%20Stone,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.78674" lon="-6.71448">
+    <name>Castletown Church and Cross Slab</name>
+    <cmt>Meath%20list.htm#castletown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Castletown%20Church,%20and%20Cross%20Slab,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="54.77833" lon="-5.92528">
     <name>Castletown Standing Stone</name>
     <cmt>Antrim%20list.htm#castletown</cmt>

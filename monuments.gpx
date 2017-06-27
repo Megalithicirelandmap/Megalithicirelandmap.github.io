@@ -4684,6 +4684,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Poulnabrone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="52.83671" lon="-6.39697">
+    <name>Preban Rock Art</name>
+    <cmt>Wicklow%20list.htm#preban</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Preban%20Graveyard%20Rock%20Art,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#rockart</sym>
+  </wpt>
   <wpt lat="54.03717" lon="-6.34828">
     <name>Proleek Portal Tomb</name>
     <cmt>Louth%20list.htm#proleek</cmt>

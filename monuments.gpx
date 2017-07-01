@@ -4090,6 +4090,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Loher%20Stone%20Fort.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="53.09192" lon="-8.12142">
+    <name>Lorrha Augustinian Abbey</name>
+    <cmt>Tipperary%20list.htm#lorrha</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lorrha%20Augustinian%20Abbey,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>  
+  </wpt>
   <wpt lat="53.09125" lon="-8.12602">
     <name>Lorrha Bullaun Stones</name>
     <cmt>Tipperary%20list.htm#lorra%20bullaun%20stones</cmt>

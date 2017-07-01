@@ -5710,6 +5710,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Saviour's%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.09146" lon="-8.12012">
+    <name>St Ruadhán's Church, Lorrha</name>
+    <cmt>Tipperary%20list.htm#lorrha</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Ruadhan's%20Church,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>  
+  </wpt>
   <wpt lat="54.17758" lon="-7.23257">
     <name>St Tighernach's Tomb Shrine</name>
     <cmt>Monaghan%20list.htm#tomb%20shrine</cmt>

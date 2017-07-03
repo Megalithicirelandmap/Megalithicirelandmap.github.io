@@ -3424,6 +3424,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Killegar%20Church,%20Slabs%20and%20Tau%20Cross,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="52.96374" lon="-6.80277">
+    <name>Killelan Fortified Church</name>
+    <cmt>Kildare%20list.htm#killelan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killelan%20Fortified%20Church,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>  
+  </wpt>
   <wpt lat="51.84806" lon="-10.33194">
     <name>Killemnagh Church</name>
     <cmt>Kerry%20list.htm#rathkieran</cmt>

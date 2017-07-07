@@ -1437,6 +1437,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Castle%20Roche,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.90859" lon="-6.83688">
+    <name>Castledermot Friary</name>
+    <cmt>Kildare%20list.htm#castledermot</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Castledermot%20Friary,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.91042" lon="-6.83498">
     <name>Castledermot Round tower</name>
     <cmt>Kildare%20list.htm#castledermot</cmt>

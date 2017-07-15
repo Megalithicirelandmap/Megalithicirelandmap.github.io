@@ -6178,6 +6178,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Tobar%20na%20Molt,%20Ardfert,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.76338" lon="-9.76498">
+    <name>Tobar Ri an Domhnaigh, Holy Well</name>
+    <cmt>Mayo%20list.htm#kilgeever</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tobar%20Ri%20an%20Domhnaigh,%20Kilgeever,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="54.24389" lon="-8.44583">
     <name>Tobernalt Holy Well</name>
     <cmt>Sligo%20list.htm#tobernalt</cmt>

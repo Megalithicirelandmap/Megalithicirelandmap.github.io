@@ -4654,6 +4654,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Owenea.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.39067" lon="-7.34051">
+    <name>Owning Portal Tomb</name>
+    <cmt>Kilkenny%20list.htm#owning</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Owning%20Portal%20Tomb,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>  
+  </wpt>
   <wpt lat="53.78671" lon="-6.40830">
     <name>Paddock Wedge Tomb</name>
     <cmt>Louth%20list.htm#paddock</cmt>

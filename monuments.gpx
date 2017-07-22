@@ -2932,6 +2932,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Greengraves.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="52.52114" lon="-7.12721">
+    <name>Grennan Castle</name>
+    <cmt>Kilkenny%20list.htm#thomastown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Grennan%20Castle,%20Thomastown,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>  
+  </wpt>
   <wpt lat="55.02378" lon="-7.42781">
     <name>Grianan of Aileach Stone Fort</name>
     <cmt>Donegal%20list.htm#grianan%20of%20aileach</cmt>

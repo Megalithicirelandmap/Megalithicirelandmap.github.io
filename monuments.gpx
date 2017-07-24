@@ -3982,6 +3982,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Lady's%20Well,%20Inishcealtra.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="52.44661" lon="-7.36595">
+    <name>Lamoge Ogham Stones</name>
+    <cmt>Kilkenny%20list.htm#lamoge</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lamoge%20Ogham%20Stones,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>  
+  </wpt>
   <wpt lat="53.25250" lon="-6.28184">
     <name>Larch Hill Portal Tomb</name>
     <cmt>Dublin%20list.htm#larch%20hill</cmt>

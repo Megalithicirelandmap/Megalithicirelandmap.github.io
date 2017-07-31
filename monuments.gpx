@@ -4678,6 +4678,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Owenea.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.38768" lon="-7.34274">
+    <name>Owning Parish Church</name>
+    <cmt>Kilkenny%20list.htm#owning</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Owning%20Parish%20Church,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>  
+  </wpt> 
   <wpt lat="52.39067" lon="-7.34051">
     <name>Owning Portal Tomb</name>
     <cmt>Kilkenny%20list.htm#owning</cmt>

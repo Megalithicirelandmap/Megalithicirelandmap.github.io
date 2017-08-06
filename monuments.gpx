@@ -3670,6 +3670,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilmashogue.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="52.60867" lon="-7.26564">
+    <name>Kilmog and Racecourse Bullaun Stone</name>
+    <cmt>Kilkenny%20list.htm#kilmog</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilmog%20Bullaun%20Stone,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#bullauns</sym>  
+  </wpt>
   <wpt lat="52.40361" lon="-7.26056">
     <name>Kilmogue Portal Tomb</name>
     <cmt>Kilkenny%20list.htm#kilmogue</cmt>

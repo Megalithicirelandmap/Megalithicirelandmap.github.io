@@ -5872,6 +5872,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Taaffes%20Castle,%20Carlingford,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.20879" lon="-6.42390">
+    <name>Tacumshane Windmill</name>
+    <cmt>Wexford%20list.htm#tacumshane</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tacumshane%20Windmill,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#windmill</sym>
+  </wpt>
   <wpt lat="53.35333" lon="-6.61306">
     <name>Taghadoe Round Tower</name>
     <cmt>Kildare%20list.htm#taghadoe</cmt>

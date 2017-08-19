@@ -5746,6 +5746,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Church,%20Patrickswell,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.69629" lon="-6.76010">
+    <name>St Patrick's Church, Donaghpatrick</name>
+    <cmt>Meath%20list.htm#donaghpatrick</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Church,%20Donaghpatrick,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.35750" lon="-7.75278">
     <name>St Patrick's Holy Well Patrickswell</name>
     <cmt>Tipperary%20List.htm#holy%20well%202</cmt>

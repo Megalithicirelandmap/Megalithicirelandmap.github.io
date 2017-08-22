@@ -5026,6 +5026,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Robertstown%20Castle,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.80273" lon="-6.81118">
+    <name>Robertstown Motte</name>
+    <cmt>Meath%20list.htm#robertstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Robertstown%20Castle,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="52.52028" lon="-7.89028">
     <name>Rock of Cashel Round Tower</name>
     <cmt>Tipperary%20List.htm#cashel</cmt>

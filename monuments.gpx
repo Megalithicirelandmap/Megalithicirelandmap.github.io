@@ -2548,6 +2548,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ferns.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.59056" lon="-6.49998">
+    <name>Ferns Visitor Centre</name>
+    <cmt>Wexford%20list.htm#ferns</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ferns%20Castle%20Visitor%20Centre,Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.35139" lon="-6.50944">
     <name>Ferrycarrig Tower House</name>
     <cmt>Wexford%20%20list.htm#ferrycarrig</cmt>

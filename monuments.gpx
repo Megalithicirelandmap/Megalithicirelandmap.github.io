@@ -1936,6 +1936,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Crehelp%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.61051" lon="-6.21652">
+    <name>Cromwell's Fort</name>
+    <cmt>Galway%20list.htm#inishbofin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cromwell's%20Fort,%20Inishbofin,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.71730" lon="-9.90180">
     <name>Cross Stone Pair</name>
     <cmt>Mayo%20list.htm#cross</cmt>

@@ -3400,6 +3400,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilfinnane%20Motte%20and%20Ring%20Fort,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="53.76293" lon="-9.76470">
+    <name>Kilgeever Church</name>
+    <cmt>Mayo%20list.htm#kilgeever</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilgeever%20Church,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.25649" lon="-6.21781">
     <name>Kilgobbin High Cross</name>
     <cmt>Dublin%20list.htm#kilgobbin</cmt>

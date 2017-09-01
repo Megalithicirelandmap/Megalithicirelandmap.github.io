@@ -3952,6 +3952,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knockroe%20Passage%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="52.57762" lon="-6.78158">
+    <name>Knockroe Rock Art</name>
+    <cmt>Carlow%20list.htm#knockroe</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knockroe%20Rock%20Art,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#megalith</sym>
+  </wpt>
   <wpt lat="52.48335" lon="-7.21535">
     <name>Knocktopher Church</name>
     <cmt>Kilkenny%20list.htm#knocktopher</cmt>

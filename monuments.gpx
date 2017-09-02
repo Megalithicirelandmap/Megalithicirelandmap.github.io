@@ -4948,6 +4948,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Rathgall.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="52.57163" lon="-6.83961">
+    <name>Rathgeran Standing Stone West</name>
+    <cmt>Carlow%20list.htm#rathgeran</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathgeran%20Standing%20Stone%20W,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="51.84808" lon="-10.33195">
     <name>Rathkiernan Ogham Stone</name>
     <cmt>Kerry%20list.htm#rathkieran</cmt>

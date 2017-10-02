@@ -4366,6 +4366,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Matthewstown.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="52.65264" lon="-7.24469">
+    <name>Maudlin Tower House</name>
+    <cmt>Kilkenny%20list.htm#maudlin%20tower</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Maudlin%20Tower%20House,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>  
+  </wpt>
   <wpt lat="51.64615" lon="-9.06489">
     <name>Maulatanvally Stone Circle</name>
     <cmt>Cork%20list.htm#maulatanvally</cmt>

@@ -1197,6 +1197,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Callahy%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.54584" lon="-7.38721">
+    <name>Callan Augustinian Friary</name>
+    <cmt>Kilkenny%20list.htm#callan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Callan%20Augustinian%20Friary,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>  
+  </wpt>
   <wpt lat="52.54523" lon="-7.38768">
     <name>Callan Holy Well</name>
     <cmt>Kilkenny%20list.htm#callan</cmt>

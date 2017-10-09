@@ -5308,6 +5308,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Shronebirrane%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.51956" lon="-9.08593">
+    <name>Shrule Castle</name>
+    <cmt>Mayo%20list.htm#shrule</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Shrule%20Castle,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.20528" lon="-6.44556">
     <name>Sigginstown Castle</name>
     <cmt>Wexford%20%20list.htm#sigginstown</cmt>

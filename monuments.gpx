@@ -1737,6 +1737,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clontygora.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="53.71364" lon="-9.88316">
+    <name>Cloonlaur, The Marigold Stone</name>
+    <cmt>Mayo%20list.htm#cloonlaur</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cloonlaur,%20The%20Marigold%20Stone,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="53.59278" lon="-10.01083">
     <name>Cloonlooaun Portal Tomb</name>
     <cmt>Galway%20list.htm#cloonlooaun</cmt>

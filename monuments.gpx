@@ -604,10 +604,10 @@
     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.46729" lon="-7.20153">
-    <name>Ballyhale Castle and Font</name>
+    <name>Ballyhale Church and Font</name>
     <cmt>Kilkenny%20list.htm#ballyhale</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Ballyhale%20Castle%20and%20Font,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#castles</sym>  
+    <desc>&lt;a href="http://megalithicireland.com/Ballyhale%20Church%20and%20Font,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>  
   </wpt>
   <wpt lat="52.19417" lon="-6.53250">
     <name>Ballyhealy Castle</name>

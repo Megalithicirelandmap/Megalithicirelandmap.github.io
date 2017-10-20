@@ -2422,6 +2422,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dunmoe%20Castle,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>  
   </wpt>
+  <wpt lat="53.67401" lon="-6.63738">
+    <name>Dunmoe Church</name>
+    <cmt>Meath%20list.htm#dunmoe</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dunmoe%20Church,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.50039" lon="-7.29531">
     <name>Dunnamaggan Church and Cross</name>
     <cmt>Kilkenny%20list.htm#dunnamaggan</cmt>

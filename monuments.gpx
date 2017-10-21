@@ -1966,6 +1966,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cross%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.80516" lon="-6.79254">
+    <name>Cruicetown Motte</name>
+    <cmt>Meath%20list.htm#cruicetown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cruicetown%20Motte,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="52.81611" lon="-7.47278">
     <name>Cullahill Castle</name>
     <cmt>Laois%20List.html#cullahill</cmt>

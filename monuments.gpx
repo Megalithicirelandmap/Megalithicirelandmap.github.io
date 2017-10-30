@@ -1972,6 +1972,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cruicetown%20Church%20and%20Effigial%20Tomb,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.80436" lon="-6.79355">
+    <name>Cruicetown Cross</name>
+    <cmt>Meath%20list.htm#cruicetown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cruicetown%20Graveyard%20Cross,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.80516" lon="-6.79254">
     <name>Cruicetown Motte</name>
     <cmt>Meath%20list.htm#cruicetown</cmt>

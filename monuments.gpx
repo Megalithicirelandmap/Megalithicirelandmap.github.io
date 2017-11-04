@@ -6478,6 +6478,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Tullyskeherny%20Court%20Tombs.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="53.77839" lon="-8.25381">
+    <name>Tulsk Tower House</name>
+    <cmt>Roscommon%20list.htm#tulsk</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tulsk%20Tower%20House,%20Roscommon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.88861" lon="-9.20833">
     <name>Turlough Round Tower</name>
     <cmt>Mayo%20list.htm#turlough</cmt>

@@ -6040,6 +6040,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Munna's%20%20Church,%20Taghmon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#sheelas</sym>
   </wpt>
+  <wpt lat="52.64800" lon="-7.25267">
+    <name>Talbot's Tower, Town Walls</name>
+    <cmt>Kilkenny%20list.htm#kilkenny</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilkenny%20Town%20Walls.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#citywalls</sym>  
+  </wpt>
   <wpt lat="53.92083" lon="-6.55000">
     <name>Tallanstown Motte</name>
     <cmt>Louth%20list.htm#tallanstown</cmt>

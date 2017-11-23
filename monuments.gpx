@@ -5116,6 +5116,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Reask.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="52.26049" lon="-7.10531">
+    <name>Reginald's Tower, Waterford</name>
+    <cmt>Waterford%20list.htm#waterford%20city</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Reginald's%20Tower,Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.60722" lon="-10.03000">
     <name>Renvyle Castle</name>
     <cmt>Galway%20list.htm#renvyle</cmt>

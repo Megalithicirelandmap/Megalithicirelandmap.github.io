@@ -931,7 +931,7 @@
     <name>Black Freren Gate, Town Walls</name>
     <cmt>Kilkenny%20list.htm#kilkenny</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilkenny%20Town%20Walls.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#citywalls</sym>  
+    <sym>subject#walledtowns</sym>  
   </wpt>
   <wpt lat="51.92917" lon="-8.57083">
     <name>Blarney Castle</name>

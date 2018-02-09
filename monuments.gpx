@@ -4990,6 +4990,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="53.28191" lon="-6.46378">
+    <name>Rathcoole Cross Slab</name>
+    <cmt>Dublin%20list.htm#rathcoole</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathcoole%20Cross%20Slab,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="52.16861" lon="-10.02833">
     <name>Rathduff Ogham Stones</name>
     <cmt>Kerry%20list.htm#rathduff</cmt>

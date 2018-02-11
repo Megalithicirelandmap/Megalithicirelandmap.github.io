@@ -849,6 +849,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Banoge%20Standing%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.32242" lon="-6.60879">
+    <name>Barberstown Castle</name>
+    <cmt>Kildare%20list.htm#barberstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Barberstown%20Castle,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="55.06724" lon="-7.83225">
     <name>Barnes Lower Rock Art</name>
     <cmt>Donegal%20list.htm#barnes%20lower</cmt>

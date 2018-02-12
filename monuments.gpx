@@ -4216,6 +4216,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Lios%20Stone%20Circle.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.66920" lon="-6.73054">
+    <name>Liscartan Church, Meath</name>
+    <cmt>Meath%20list.htm#liscartan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Liscartan%20Church,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="54.01330" lon="-6.89564">
     <name>Lisnadarragh Wedge Tomb</name>
     <cmt>Monaghan%20list.htm#lisnadarragh</cmt>

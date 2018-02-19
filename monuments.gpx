@@ -4690,6 +4690,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Newcastle%20Motte%20and%20Bailey,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="53.29804" lon="-6.50767">
+    <name>Newcastle South Tower House</name>
+    <cmt>Dublin%20list.htm#newcastle%20south</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Newcastle%20South,%20Tower%20House,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.69450" lon="-6.47524">
     <name>Newgrange Passage Tomb</name>
     <cmt>Meath%20list.htm#newgrange</cmt>

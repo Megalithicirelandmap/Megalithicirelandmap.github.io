@@ -5794,6 +5794,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Lua's%20Oratory,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="53.28911" lon="-6.36458">
+    <name>St Maelruan's Font, Tallaght</name>
+    <cmt>Dublin%20list.htm#st%20maelruan's</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Maelruan's%20Font,%20Tallaght.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="53.29259" lon="-7.74279">
     <name>St Manchan's  Well and Bullaun Lemanaghan</name>
     <cmt>Offaly%20list.html#lemanaghan</cmt>

@@ -3340,6 +3340,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilbeg%20Upper,%20%20Cross%20Slab,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="53.78007" lon="-6.82361">
+    <name>Kilbeg Upper Motte and Bailey</name>
+    <cmt>Meath%20list.htm#kilbeg%20upper</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilbeg%20Upper,%20%20Motte%20and%20Bailey,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="53.53889" lon="-8.89194">
     <name>Kilbennan Round Tower</name>
     <cmt>Galway%20list.htm#kilbennan</cmt>

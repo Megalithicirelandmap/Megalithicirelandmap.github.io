@@ -5206,6 +5206,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Rockmarshall%20Court%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="53.12764" lon="-6.73554">
+    <name>Roland Eustace Effigy, New Abbey</name>
+    <cmt>Kildare%20list.htm#new%20abbey</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Roland%20Eustace%20Tomb%20Effigy,%20New%20Abbey,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#grave</sym>
+  </wpt>
   <wpt lat="53.87222" lon="-6.48667">
     <name>Roodstown Castle</name>
     <cmt>Louth%20list.htm#roodstown</cmt>

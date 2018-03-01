@@ -3442,6 +3442,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kildare%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.88090" lon="-9.94587">
+    <name>Kildavnet Castle, Mayo</name>
+    <cmt>Mayo%20list.htm#kildavnet</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kildavnet%20Castle,%20Achill,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.83583" lon="-6.52056">
     <name>Kildemock Church</name>
     <cmt>Louth%20list.htm#kildemock</cmt>

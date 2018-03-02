@@ -6058,6 +6058,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Struell%20Wells,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.79328" lon="-9.98860">
+    <name>Strake Cross Inscribed Pillar, Mayo</name>
+    <cmt>Mayo%20list.htm#clare%20island</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Strake%20Cross%20Inscribed%20Pillar,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crosslabs</sym>
+  </wpt>
   <wpt lat="54.27497" lon="-8.59842">
     <name>Strandhill Court Tomb</name>
     <cmt>Sligo%20list.htm#strandhill</cmt>

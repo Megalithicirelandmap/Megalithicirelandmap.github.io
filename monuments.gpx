@@ -1581,6 +1581,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clare%20Abbey,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.79328" lon="-9.98860">
+    <name>Clare Island Cross Pillar, Mayo</name>
+    <cmt>Mayo%20list.htm#clare%20island</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clare%20Island,%20Cross%20Inscribed%20Pillar,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="53.34694" lon="-8.94389">
     <name>Claregalway Friary</name>
     <cmt>Galway%20list.htm#claregalway</cmt>
@@ -6057,12 +6063,6 @@
     <cmt>Down%20list.htm#struell%20wells</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Struell%20Wells,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
-  </wpt>
-  <wpt lat="53.79328" lon="-9.98860">
-    <name>Strake Cross Inscribed Pillar, Mayo</name>
-    <cmt>Mayo%20list.htm#clare%20island</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Strake%20Cross%20Inscribed%20Pillar,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#crossslabs</sym>
   </wpt>
   <wpt lat="54.27497" lon="-8.59842">
     <name>Strandhill Court Tomb</name>

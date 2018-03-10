@@ -5824,6 +5824,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Lua's%20Oratory,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="53.28915" lon="-6.36491">
+    <name>St Maelruan's Church, Tallaght</name>
+    <cmt>Dublin%20list.htm#st%20maelruan's</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Maelruan's%20Church,%20Tallaght.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.28894" lon="-6.36483">
     <name>St Maelruan's Cross, Tallaght</name>
     <cmt>Dublin%20list.htm#st%20maelruan's</cmt>

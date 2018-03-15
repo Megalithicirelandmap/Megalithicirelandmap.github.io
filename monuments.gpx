@@ -5728,6 +5728,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Finian's,%20Myshall.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.29758" lon="-6.51190">
+    <name>St Finian's Holy Well, Newcastle</name>
+    <cmt>Dublin%20list.htm#newcastle%20farm</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Finian's%20Holy%20Well,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="52.80611" lon="-8.43917">
     <name>St Flannan's Cathedral Killaloe</name>
     <cmt>Clare%20list.htm#killaloe</cmt>

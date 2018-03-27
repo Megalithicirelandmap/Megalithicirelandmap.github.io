@@ -5290,6 +5290,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Roscrea%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.13558" lon="-7.40838">
+    <name>Rosenallis Cross Slabs, Laois</name>
+    <cmt>Laois%20list.htm#rosenallis</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rosenallis%20Cross%20Slabs,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="52.04139" lon="-9.53139">
     <name>Ross Castle</name>
     <cmt>Kerry%20list.htm#ross%20castle</cmt>

@@ -1653,6 +1653,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cloghmore%20Court.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="53.14990" lon="-7.52583">
+    <name>Clonaslee Cross Slabs, Laois</name>
+    <cmt>Laois%20list.htm#clonaslee</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clonaslee%20Cross%20Slabs,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="55.26773" lon="-7.17409">
     <name>Clonca High Cross</name>
     <cmt>Donegal%20list.htm#clonca</cmt>

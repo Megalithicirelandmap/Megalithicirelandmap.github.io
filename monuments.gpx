@@ -1485,6 +1485,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Castle%20Roche,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.15133" lon="-7.58020">
+    <name>Castlecuffe Fortified House, Laois</name>
+    <cmt>Laois%20list.htm#castlecuffe</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Castlecuffe%20Fortified%20House,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.90859" lon="-6.83688">
     <name>Castledermot Friary</name>
     <cmt>Kildare%20list.htm#castledermot</cmt>

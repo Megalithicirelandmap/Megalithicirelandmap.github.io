@@ -1137,6 +1137,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cabragh.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="53.12745" lon="-7.65973">
+    <name>Cadamstown Architectural Fragments</name>
+    <cmt>Offaly%20list.htm#cadamstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cadamstown%20Fragments,%20Offaly.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.99752" lon="-9.19181">
     <name>Caherballykinvarga</name>
     <cmt>Clare%20list.htm#ballykinvarga</cmt>

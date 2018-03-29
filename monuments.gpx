@@ -6670,6 +6670,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Uragh%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="52.25648" lon="-7.11194">
+    <name>Watch Tower, Town Walls</name>
+    <cmt>Waterford%20list.htm#waterford%20city</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Waterford%20Town%20Walls.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#walledtowns</sym>
+  </wpt>
   <wpt lat="54.23944" lon="-5.86306">
     <name>Wateresk Portal Tomb</name>
     <cmt>Down%20list.htm#wateresk</cmt>

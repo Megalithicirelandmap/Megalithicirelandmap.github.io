@@ -669,6 +669,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballymoon%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.13151" lon="-6.60655">
+    <name>Ballymore Eustace High Crosses</name>
+    <cmt>Kildare%20list.htm#ballymore%20eustace</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballymore%20Eustace%20High%20Crosses,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="55.15982" lon="-7.92203">
     <name>Ballymore Lower Portal Tomb</name>
     <cmt>Donegal%20list.htm#ballymore%20lower</cmt>

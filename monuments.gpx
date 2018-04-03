@@ -4756,6 +4756,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Newcastle%20South,%20Tower%20House,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.30012" lon="-6.50593">
+    <name>Newcastle Stone Cross</name>
+    <cmt>Dublin%20list.htm#newcastle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Newcastle%20Stone%20Cross,%20%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.69450" lon="-6.47524">
     <name>Newgrange Passage Tomb</name>
     <cmt>Meath%20list.htm#newgrange</cmt>

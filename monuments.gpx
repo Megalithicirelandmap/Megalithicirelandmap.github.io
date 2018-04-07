@@ -4432,6 +4432,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Lusk%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.29749" lon="-6.53843">
+    <name>Lyons Gatehouse, Kildare</name>
+    <cmt>Kildare%20list.htm#lyons</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lyons%20Gatehouse,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.29784" lon="-6.53830">
     <name>Lyons Parish Church, Kildare</name>
     <cmt>Kildare%20list.htm#lyons</cmt>

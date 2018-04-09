@@ -3730,6 +3730,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilmacduagh,%20The%20Glebe%20House,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="52.70931" lon="-6.17667">
+    <name>Kilgorman Graveslab</name>
+    <cmt>Wexford%20list.htm#kilgorman</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilgorman%20Graveslab,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.85156" lon="-6.81053">
     <name>Kilmainhamwood Old Graveyard, Meath</name>
     <cmt>Meath%20list.htm#kilmainhamwood</cmt>

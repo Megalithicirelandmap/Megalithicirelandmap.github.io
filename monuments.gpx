@@ -3904,6 +3904,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilrush%20Church,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.36047" lon="-7.57788">
+    <name>Kilsheelan Church</name>
+    <cmt>Tipperary%20list.htm#kilsheelan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilsheelan%20Church,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.36094" lon="-7.58021">
     <name>Kilsheelan Motte</name>
     <cmt>Tipperary%20list.htm#kilsheelan</cmt>

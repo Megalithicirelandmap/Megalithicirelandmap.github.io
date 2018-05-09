@@ -4780,6 +4780,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Newcastle%20Font,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>  
   </wpt>
+  <wpt lat="53.30024" lon="-6.50682">
+    <name>Newcastle Motte</name>
+    <cmt>Dublin%20list.htm#newcastle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Finian's%20Church,%20Newcastle,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="52.32090" lon="-6.77397">
     <name>Newcastle Motte and Bailey</name>
     <cmt>Wexford%20list.htm#newcastle</cmt>

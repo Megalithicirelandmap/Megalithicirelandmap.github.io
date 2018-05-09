@@ -5824,6 +5824,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Finian's,%20Myshall.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.30034" lon="-6.50594">
+    <name>St Finian's Church, Newcastle</name>
+    <cmt>Dublin%20list.htm#newcastle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Finian's%20Church,%20Newcastle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.29758" lon="-6.51190">
     <name>St Finian's Holy Well, Newcastle</name>
     <cmt>Dublin%20list.htm#newcastle%20farm</cmt>

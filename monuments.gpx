@@ -2836,6 +2836,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Glebe%20South%20Stone%20Circle,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.29995" lon="-6.50530">
+    <name>Old Glebe Tower House</name>
+    <cmt>Dublin%20list.htm#newcastle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glebe%20Tower%20House,%20Newcastle,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.54778" lon="-9.26472">
     <name>Glebe West Circle</name>
     <cmt>Mayo%20list.htm#west%20circle</cmt>
@@ -3735,12 +3741,6 @@
     <cmt>Galway%20list.htm#glebe%20house</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilmacduagh,%20The%20Glebe%20House,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
-  </wpt>
-  <wpt lat="53.29995" lon="-6.50530">
-    <name>Old Glebe Tower House</name>
-    <cmt>Dublin%20list.htm#newcastle</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Glebe%20Tower%20House,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.70931" lon="-6.17667">
     <name>Kilgorman Graveslab</name>

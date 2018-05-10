@@ -4660,6 +4660,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Morrissysland%20Bullaun%20Stones,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>
   </wpt>
+  <wpt lat="52.29852" lon="-7.41845">
+    <name>Mothel Abbey, Waterford</name>
+    <cmt>Waterford%20list.htm#mothel</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mothel%20Abbey,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.29749" lon="-7.41786">
     <name>Mothel Cross Inscribed Pillar</name>
     <cmt>Waterford%20list.htm#mothel</cmt>

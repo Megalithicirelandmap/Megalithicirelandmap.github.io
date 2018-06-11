@@ -4858,6 +4858,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Nobber%20Graveyard,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>  
   </wpt>
+  <wpt lat="52.75261" lon="-6.91301">
+    <name>Nurney High Cross, Carlow</name>
+    <cmt>Carlow%20list.htm#nurney</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Nurney%20High%20Cross,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.89694" lon="-8.54000">
     <name>O'Grady's Castle Tuamgraney</name>
     <cmt>Clare%20list.htm#tuamgraney</cmt>

@@ -5842,6 +5842,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Fore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="51.84627" lon="-10.33830">
+    <name>St Finan's Holy Well</name>
+    <cmt>Kerry%20list.htm#rathkieran</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Finan's%20Holy%20Well,%20Rathkieran,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="52.68528" lon="-6.78028">
     <name>St Finian's Church Myshall</name>
     <cmt>Carlow%20list.htm#myshall%203sites</cmt>

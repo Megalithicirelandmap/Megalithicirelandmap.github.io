@@ -6622,6 +6622,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Tobar%20Bhride,%20Myshall.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="52.31134" lon="-7.39618">
+    <name>Tobar Chuain, Mothel Holy Well</name>
+    <cmt>Waterford%20list.htm#mothel</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tobar%20Chuain,%20Mothel,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="52.70289" lon="-7.16957">
     <name>Tobar Eoin Holy Well</name>
     <cmt>Kilkenny%20list.htm#johnswell</cmt>

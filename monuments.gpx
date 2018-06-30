@@ -6304,6 +6304,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Ciaran%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="51.84784" lon="-10.36750">
+    <name>Temple Cashel, Ballynabloun</name>
+    <cmt>Kerry%20list.htm#ballynabloun</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Templecashel,%20Ballynabloun,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#oratories</sym>
+  </wpt>
   <wpt lat="54.66470" lon="-8.79068">
     <name>Temple Cavan</name>
     <cmt>Donegal%20list.htm#malin%20beg</cmt>

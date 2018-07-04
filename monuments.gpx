@@ -4714,6 +4714,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Mountgarret,%20Tower%20House,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.08104" lon="-8.62653">
+    <name>Mourne Abbey, Cork</name>
+    <cmt>Cork%20list.htm#mourne%20abbey</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mourne%20Abbey,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="54.07028" lon="-6.38556">
     <name>Moyry Castle</name>
     <cmt>Armagh%20list.htm#moyry%20castle</cmt>

@@ -1497,6 +1497,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cashleen%20Church%20of%20the%20Seven%20Daughters.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.08421" lon="-8.64240">
+    <name>Castle Barrett, Cork</name>
+    <cmt>Cork%20list.htm#castlebarrett</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Castle%20Barrett,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="54.04639" lon="-6.48833">
     <name>Castle Roche</name>
     <cmt>Louth%20list.htm#castle%20roche</cmt>

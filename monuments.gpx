@@ -2740,11 +2740,11 @@
     <desc>&lt;a href="http://megalithicireland.com/Fore%20Abbey,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
-  <wpt lat="53.68000" lon="-7.22629">
-    <name>Fore Stone Cross</name>
+  <wpt lat="53.68000" lon="-7.22625">
+    <name>Fore Wayside Cross</name>
     <cmt>Westmeath%20list.htm#fore</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Fore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym/>
+    <desc>&lt;a href="http://megalithicireland.com/Fore%20Wayside%20Crosses,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="53.59658" lon="-6.32646">
     <name>Fourknocks Passage Tomb</name>

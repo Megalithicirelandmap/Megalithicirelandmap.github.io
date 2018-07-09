@@ -6898,4 +6898,10 @@
     <desc>&lt;a href="http://megalithicireland.com/Wileys%20Fort.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="53.67768" lon="-7.22233">
+    <name>Windtown Wayside Cross</name>
+    <cmt>Westmeath%20list.htm#fore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Fore%20Wayside%20Crosses,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
 </gpx>

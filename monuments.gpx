@@ -6688,6 +6688,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Tobar%20Ri%20an%20Domhnaigh,%20Kilgeever,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.68224" lon="-7.22844">
+    <name>Tobernacogany Holy Well</name>
+    <cmt>Westmeath%20list.htm#fore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tobernacogany%20Holy%20Well,%20Fore,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="54.24389" lon="-8.44583">
     <name>Tobernalt Holy Well</name>
     <cmt>Sligo%20list.htm#tobernalt</cmt>

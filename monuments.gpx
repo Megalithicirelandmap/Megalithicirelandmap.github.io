@@ -2750,7 +2750,7 @@
     <name>Fore Town Walls, South Gate</name>
     <cmt>Westmeath%20list.htm#fore</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Fore%20Town%20Walls,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#townwalls</sym>
+    <sym>subject#walledtowns</sym>
   </wpt>
   <wpt lat="53.68000" lon="-7.22625">
     <name>Fore Wayside Cross</name>

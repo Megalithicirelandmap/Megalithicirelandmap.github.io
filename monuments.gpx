@@ -2096,7 +2096,7 @@
     <name>Delvin Castle</name>
     <cmt>Westmeath%20list.htm#delvin</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Delvin%20Castle,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#tcastles</sym>
+    <sym>subject#castles</sym>
   </wpt>
   <wpt lat="51.65389" lon="-9.92889">
     <name>Dereenataggart West Stone Circle</name>

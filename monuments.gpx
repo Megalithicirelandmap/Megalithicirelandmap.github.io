@@ -909,6 +909,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Baur.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="52.26109" lon="-7.11375">
+    <name>Beach Tower, Town Walls</name>
+    <cmt>Waterford%20list.htm#waterford%20city</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Waterford%20Town%20Walls.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#walledtowns</sym>
+  </wpt>
   <wpt lat="54.70155" lon="-6.93821">
     <name>Beaghmore Stone Circles</name>
     <cmt>Tyrone%20list.htm#beaghmore</cmt>

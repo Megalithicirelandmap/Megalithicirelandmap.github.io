@@ -2020,6 +2020,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Creggandevesky%20Court%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="52.32712" lon="-7.38564">
+    <name>Crehanagh Ogham Stone</name>
+    <cmt>Waterford%20list.htm#crehanagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Crehanagh%20Ogham%20Stone,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="53.07222" lon="-6.62972">
     <name>Crehelp Standing Stone</name>
     <cmt>Wicklow%20list.htm#crehelp</cmt>

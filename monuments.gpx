@@ -2776,6 +2776,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Fourknocks.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="52.25726" lon="-7.11424">
+    <name>French Tower, Town Walls</name>
+    <cmt>Waterford%20list.htm#waterford%20city</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Waterford%20Town%20Walls.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#walledtowns</sym>
+  </wpt>
   <wpt lat="52.73278" lon="-7.39806">
     <name>Freshford Romanesque Doorway</name>
     <cmt>Kilkenny%20list.htm#freshford</cmt>

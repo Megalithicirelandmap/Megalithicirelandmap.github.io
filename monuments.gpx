@@ -5608,6 +5608,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Selskar%20Abbey,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="52.25963" lon="-7.11458">
+    <name>Semi-Lunar Tower, Town Walls</name>
+    <cmt>Waterford%20list.htm#waterford%20city</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Waterford%20Town%20Walls.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#walledtowns</sym>
+  </wpt>
   <wpt lat="52.19556" lon="-7.68583">
     <name>Seskinan Church and Ogham Stones Knockboy</name>
     <cmt>Waterford%20list.htm#church%202</cmt>

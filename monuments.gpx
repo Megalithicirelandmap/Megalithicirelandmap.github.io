@@ -5104,6 +5104,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Poulnabrone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="52.22534" lon="-7.23675">
+    <name>Powersknock Standing Stone</name>
+    <cmt>Waterford%20list.htm#powersknock</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Powersknock%20Standing%20Stone,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.83671" lon="-6.39697">
     <name>Preban Rock Art</name>
     <cmt>Wicklow%20list.htm#preban</cmt>

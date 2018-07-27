@@ -6910,6 +6910,12 @@
     <desc>&lt;a href="http://megalithicireland.com/White%20Island%20Figures.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#sheelas</sym>
   </wpt>
+  <wpt lat="52.22487" lon="-7.21075">
+    <name>The Harp Stone, Whitfield North</name>
+    <cmt>Waterford%20list.htm#whitfield north</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Whitfield%20North%20Standing%20Stone,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.98128" lon="-6.04630">
     <name>Wicklow Abbey</name>
     <cmt>Wicklow%20list.htm#wicklow</cmt>

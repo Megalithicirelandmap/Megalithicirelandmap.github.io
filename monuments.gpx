@@ -2254,6 +2254,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Doonalt%20Cross%20Pillar.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="52.25674" lon="-7.11274">
+    <name>Double Tower, Town Walls</name>
+    <cmt>Waterford%20list.htm#waterford%20city</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Waterford%20Town%20Walls.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#walledtowns</sym>
+  </wpt>
   <wpt lat="54.32778" lon="-5.72111">
     <name>Downpatrick High Cross</name>
     <cmt>Down%20list.htm#downpatrick</cmt>

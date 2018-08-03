@@ -6238,6 +6238,12 @@
     <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Church,%20Donaghpatrick,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.26034" lon="-7.11422">
+    <name>St Patrick's Church, Ringed Cross</name>
+    <cmt>Waterford%20list.htm#waterford%20city</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Church,%20Ringed%20Cross%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.31143" lon="-6.61060">
     <name>St Patrick's Church, Straffan</name>
     <cmt>Kildare%20list.htm#straffan</cmt>

@@ -3232,6 +3232,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Howth%20Dolmen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="52.69148" lon="-6.64654">
+    <name>Huntington Bullaun Stone</name>
+    <cmt>Carlow%20list.htm#huntington</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Huntington%20Bullaun%20Stone,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#bullauns</sym>
+  </wpt>
   <wpt lat="53.82868" lon="-6.56905">
     <name>Hurlstone</name>
     <cmt>Louth%20list.htm#hurlstone</cmt>

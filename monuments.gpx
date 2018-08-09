@@ -1617,6 +1617,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Churchclara,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.28912" lon="-6.68296">
+    <name>Clane Abbey, Kildare</name>
+    <cmt>Kildare%20list.htm#clane</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clane%20Abbey,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.66944" lon="-7.15222">
     <name>Clara Castle</name>
     <cmt>Kilkenny%20list.htm#clara%20castle</cmt>

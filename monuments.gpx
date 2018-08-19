@@ -45,6 +45,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Adare%20Ogham%20Stones.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="52.92223" lon="-7.51403">
+    <name>Aghaboe Abbey</name>
+    <cmt>Laois%20list.htm#aghaboe</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Aghaboe%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.12917" lon="-10.17333">
     <name>Aghacarrible Rock Art</name>
     <cmt>Kerry%20list.htm#aghacarrible</cmt>

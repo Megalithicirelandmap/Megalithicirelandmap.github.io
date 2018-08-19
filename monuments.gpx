@@ -3064,6 +3064,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Gorey%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.92601" lon="-7.46433">
+    <name>Gortnaclea Castle</name>
+    <cmt>Laois%20list.htm#gortnaclea</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gortnaclea%20Castle,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="51.98750" lon="-10.08417">
     <name>Gortnagulla Stone Row</name>
     <cmt>Kerry%20list.htm#gortnagulla</cmt>

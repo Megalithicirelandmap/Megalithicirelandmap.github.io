@@ -4174,6 +4174,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knockmahon%20Ogham%20Stones,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="53.35094" lon="-6.34074">
+    <name>Knockmaroon Cist, Phoenix Park</name>
+    <cmt>Dublin%20list.htm#knockmaroon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knockmaroon%20Phoenix%20Park.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="52.00625" lon="-9.02401">
     <name>Knocknakilla Stone Circle</name>
     <cmt>Cork%20list.htm#knocknakilla</cmt>

@@ -435,6 +435,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Balla%20Round%20Tower,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="52.85211" lon="-7.67279">
+    <name>Ballagharahin Wayside Cross</name>
+    <cmt>Laois%20list.htm#ballagharahin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballagharahin%20Wayside%20Cross,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.95951" lon="-7.70698">
     <name>Ballaghmore Castle</name>
     <cmt>Laois%20list.htm#ballaghmore</cmt>

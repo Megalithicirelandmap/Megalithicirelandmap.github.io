@@ -597,6 +597,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballyedmonduff.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="52.62967" lon="-6.96534">
+    <name>Ballyellen and Tomdarragh Standing Stone</name>
+    <cmt>Carlow%20list.htm#ballyellen</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballyellen%20and%20Tomdarragh%20Standing%20Stone,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.16639" lon="-10.40611">
     <name>Ballyferriter Museum</name>
     <cmt>Kerry%20list.htm#ballyferriter</cmt>

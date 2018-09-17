@@ -5590,6 +5590,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Saints%20Island%20Abbey,%20Longford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.65396" lon="-6.25758">
+    <name>Sarsfield Wayside Cross (E)</name>
+    <cmt>Meath%20list.htm#sarsfield</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Sarsfield%20Wayside%20Crosses,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="54.34361" lon="-5.67944">
     <name>Saul Mortuary House</name>
     <cmt>Down%20list.htm#saul</cmt>

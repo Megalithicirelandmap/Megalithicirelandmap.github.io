@@ -3118,6 +3118,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Goward%20Dolmen.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="52.62463" lon="-7.06783">
+    <name>Gowran Castle</name>
+    <cmt>Kilkenny%20list.htm#gowran</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gowran%20Castle,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>  
+  </wpt>
   <wpt lat="52.13611" lon="-10.14528">
     <name>Graigue Standing Stone</name>
     <cmt>Kerry%20list.htm#graigue</cmt>

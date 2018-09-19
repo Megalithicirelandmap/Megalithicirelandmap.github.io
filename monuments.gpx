@@ -4924,6 +4924,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Murrisk%20Standing%20Stones%202,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.60653" lon="-7.05442">
+    <name>Neigham Castle</name>
+    <cmt>Kilkenny%20list.htm#neigham</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Neigham%20Castle,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>  
+  </wpt>
   <wpt lat="54.49833" lon="-5.64806">
     <name>Nendrum Monastery</name>
     <cmt>Down%20list.htm#nendrum</cmt>

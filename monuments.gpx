@@ -5560,6 +5560,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Roscommon%20Friary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="52.95256" lon="-7.79969">
+    <name>Roscrea Friary</name>
+    <cmt>Tipperary%20list.htm#roscrea</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Roscrea%20Friary,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.95583" lon="-7.79611">
     <name>Roscrea Round tower</name>
     <cmt>Tipperary%20List.htm#round%20tower</cmt>

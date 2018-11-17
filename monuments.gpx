@@ -4822,6 +4822,13 @@
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Moone.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="53.65396" lon="-6.25758">
+    <name>Moorechurch Wall Plaque</name>
+    <cmt>Meath%20list.htm#moorechurch</cmt>
+    <desc>&lt;a
+href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.39917" lon="-6.92861">
     <name>Morrissysland Bullaun Stones</name>
     <cmt>Wexford%20%20list.htm#morrissysland</cmt>

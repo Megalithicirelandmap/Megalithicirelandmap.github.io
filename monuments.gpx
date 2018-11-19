@@ -6137,6 +6137,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20John's%20Well,%20Kilmurry,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="52.85299" lon="-7.67204">
+    <name>St Kieran's Church, Errill</name>
+    <cmt>Laois%20list.htm#errill</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Kieran's%20Church,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.01000" lon="-6.32750">
     <name>St Kevin's Church Glendalogh</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>

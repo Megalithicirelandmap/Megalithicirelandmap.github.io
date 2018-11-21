@@ -6275,6 +6275,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Moling's%20Holy%20Well.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="52.96045" lon="-7.69457">
+    <name>St Molua's Trough, Ballinla</name>
+    <cmt>Laois%20list.htm#ballinla</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Molua's%20Trough,%20Ballinla,%20County%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="54.13738" lon="-6.40934">
     <name>St Moninna's Grave</name>
     <cmt>Armagh%20list.htm#killeavy</cmt>

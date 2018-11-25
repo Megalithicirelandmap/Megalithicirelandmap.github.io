@@ -2302,6 +2302,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dowth%20Hall%20Passage%20Tombs,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="53.70355" lon="-6.44747">
+    <name>Dowth Medieval Church</name>
+    <cmt>Meath%20list.htm#dowth</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dowth%20Medieval%20Church,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.70386" lon="-6.45053">
     <name>Dowth Passage Tomb</name>
     <cmt>Meath%20list.htm#dowth</cmt>

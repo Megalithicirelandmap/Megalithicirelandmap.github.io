@@ -69,7 +69,9 @@
   var markerClusters = new L.MarkerClusterGroup({maxClusterRadius: 50, chunkedLoading: true, polygonOptions: {stroke: false}});
 
   // https://github.com/mpetazzoni/leaflet-gpx
-  new L.GPX('./monuments.gpx', {
+  // https://raw.githubusercontent.com/Megalithicirelandmap/Megalithicirelandmap.github.io/master/monuments.gpx
+  // ./monuments.gpx
+  new L.GPX('https://raw.githubusercontent.com/Megalithicirelandmap/Megalithicirelandmap.github.io/master/monuments.gpx', {
     async: true,
     gpx_options: { parseElements: ['waypoint'] },
     marker_options: {

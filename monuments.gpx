@@ -5579,6 +5579,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Roscommon%20Friary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="52.95493" lon="-7.79793">
+    <name>Roscrea Castle</name>
+    <cmt>Tipperary%20list.htm#roscrea</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Roscrea%20Castle,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.95256" lon="-7.79969">
     <name>Roscrea Friary</name>
     <cmt>Tipperary%20list.htm#roscrea</cmt>

@@ -2368,6 +2368,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dromiskin%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="51.84887" lon="-10.11174">
+    <name>Dromkeare Ogham Stone</name>
+    <cmt>Kerry%20list.htm#dromkeare</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dromkeare%20Ogham%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="51.84933" lon="-10.11834">
     <name>Dromkeare Stone Row</name>
     <cmt>Kerry%20list.htm#dromkeare</cmt>

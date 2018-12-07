@@ -603,6 +603,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballyellin%20and%20Tomdarragh%20Standing%20Stone,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.63269" lon="-6.98109">
+    <name>Ballyellin Parish Church</name>
+    <cmt>Carlow%20list.htm#ballyellin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballyellin%20Parish%20Church,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.16639" lon="-10.40611">
     <name>Ballyferriter Museum</name>
     <cmt>Kerry%20list.htm#ballyferriter</cmt>

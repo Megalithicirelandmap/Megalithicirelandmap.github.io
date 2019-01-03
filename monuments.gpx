@@ -5645,6 +5645,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Saints%20Island%20Abbey,%20Longford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.65384" lon="-6.26214">
+    <name>Sarsfieldstown Cross</name>
+    <cmt>Meath%20list.htm#sarsfieldstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Sarsfieldstown%20Wayside%20Crosses,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.65396" lon="-6.25758">
     <name>Barnewall Wayside Cross</name>
     <cmt>Meath%20list.htm#sarsfieldstown</cmt>

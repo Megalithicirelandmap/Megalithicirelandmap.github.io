@@ -2608,6 +2608,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dunluce%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.54113" lon="-6.95482">
+    <name>Duiske Abbey</name>
+    <cmt>Kilkenny%20list.htm#graiguenamanagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Duiske%20Abbey,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="53.67411" lon="-6.63691">
     <name>Dunmoe Castle, Meath</name>
     <cmt>Meath%20list.htm#dunmoe</cmt>

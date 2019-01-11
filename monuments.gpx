@@ -6863,6 +6863,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Timahoe%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="52.53753" lon="-6.95726">
+    <name>Tinnahinch Castle</name>
+    <cmt>Carlow%20list.htm#tinnahinch</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tinnahinch%20Castle,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.23694" lon="-6.83806">
     <name>Tintern Abbey</name>
     <cmt>Wexford%20%20list.htm#abbey</cmt>

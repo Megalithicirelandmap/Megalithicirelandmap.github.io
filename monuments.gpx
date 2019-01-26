@@ -2836,6 +2836,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Fore%20Abbey,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="53.68136" lon="-7.22824">
+    <name>Fore High Cross</name>
+    <cmt>Westmeath%20list.htm#fore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Fore%20High%20Cross,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.68225" lon="-7.22995">
     <name>Fore Town Walls, North Gate</name>
     <cmt>Westmeath%20list.htm#fore</cmt>

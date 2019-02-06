@@ -6531,7 +6531,7 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <name>Sweetman's Castle</name>
     <cmt>Kilkenny%20list.htm#thomastown</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Sweetman's%20Castle,%20Thomastown,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
+    <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.45944" lon="-6.22000">
     <name>Swords Castle</name>
@@ -6868,6 +6868,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <cmt>Meath%20list.htm#trim</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Trim.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
+  </wpt>
+  <wpt lat="52.52600" lon="-7.13919">
+    <name>Thomastown High Cross</name>
+    <cmt>Kilkenny%20list.htm#thomastown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Thomastown%20High%20Cross,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="53.10306" lon="-8.77472">
     <name>Thoor Ballylee Tower House</name>

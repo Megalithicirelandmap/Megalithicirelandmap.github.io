@@ -6527,6 +6527,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Strandhill.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="52.52429" lon="-7.13833">
+    <name>Sweetman's Castle</name>
+    <cmt>Kilkenny%20list.htm#thomastown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Sweetman's%20Castle,%20Thomastown,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.45944" lon="-6.22000">
     <name>Swords Castle</name>
     <cmt>Dublin%20list.htm#castle</cmt>

@@ -3484,12 +3484,11 @@
     <desc>&lt;a href="http://megalithicireland.com/Irish%20Heritage%20Park,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>  
-  </wpt> <wpt lat="52.48911" lon="-7.06560">
+  <wpt lat="52.48911" lon="-7.06560">
     <name>Inistioge Priory </name>
     <cmt>Kilkenny%20list.htm#inistioge</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Inistioge%20Priory,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
-  </wpt> 
   </wpt>
   <wpt lat="52.06769" lon="-8.57960">
     <name>Island Wedge Tomb</name>

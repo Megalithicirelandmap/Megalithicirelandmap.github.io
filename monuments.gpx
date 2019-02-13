@@ -3483,7 +3483,13 @@
     <cmt>Wexford%20list.htm#heritage%20park</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Irish%20Heritage%20Park,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
-  </wpt>  
+  </wpt>
+  <wpt lat="52.48837" lon="-7.06719">
+    <name>Inistioge Motte</name>
+    <cmt>Kilkenny%20list.htm#inistioge</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inistioge%20Norman%20Motte,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="52.48911" lon="-7.06560">
     <name>Inistioge Priory </name>
     <cmt>Kilkenny%20list.htm#inistioge</cmt>

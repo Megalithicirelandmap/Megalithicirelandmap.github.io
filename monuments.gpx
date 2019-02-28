@@ -3790,6 +3790,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Killadeas.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.20348" lon="-6.59809">
+     <name>Killag Church</name>
+     <cmt>Wexford%20list.htm#killag</cmt>
+     <desc>&lt;a href="http://megalithicireland.com/Ballymagir%20or%20Killag%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+     <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.47543" lon="-7.44603">
     <name>Killamery High Cross + Cross slab</name>
     <cmt>Kilkenny%20list.htm#killamery</cmt>

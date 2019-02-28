@@ -908,6 +908,12 @@
     <cmt>Down%20list.htm#barnmeen</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Barnmeen%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
+  </wpt> 
+  <wpt lat="52.33746" lon="-6.53259">
+     <name>Barntown Tower House</name>
+     <cmt>Wexford%20list.htm#barntown</cmt>
+     <desc>&lt;a href="http://megalithicireland.com/Barntown%20Tower%20House,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+     <sym>subject#castles</sym>
   </wpt>
   <wpt lat="51.90444" lon="-8.25917">
     <name>Barryscourt Castle</name>

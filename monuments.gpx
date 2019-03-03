@@ -4048,6 +4048,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilmanman%20Church,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.28121" lon="-6.57735">
+     <name>Kilmannan Fortified Church</name>
+     <cmt>Wexford%20list.htm#kilmannan</cmt>
+     <desc>&lt;a href="http://megalithicireland.com/Kilmannan%20Fortified%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+     <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.25745" lon="-6.27613">
     <name>Kilmashogue Wedge Tomb</name>
     <cmt>Dublin%20list.htm#kilmashogue</cmt>

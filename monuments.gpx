@@ -3298,6 +3298,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Hook%20Lighthouse.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="52.23004" lon="-6.59673">
+     <name>Hooks Bullaun Stone</name>
+     <cmt>Wexford%20list.htm#hooks</cmt>
+     <desc>&lt;a href="http://megalithicireland.com/Kilcowan%20Church%20and%20Hooks%20Bullaun%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+     <sym>subject#bullauns</sym>
+  </wpt>
   <wpt lat="52.51873" lon="-7.89803">
     <name>Hore Abbey</name>
     <cmt>Tipperary%20list.htm#hore%20abbey</cmt>

@@ -4955,6 +4955,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Mourne%20Abbey,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.87195" lon="-6.95039">
+    <name>Moybologue Church, Cavan</name>
+    <cmt>Cavan%20list.htm#moybologue</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Moybologue%20Church,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="54.07028" lon="-6.38556">
     <name>Moyry Castle</name>
     <cmt>Armagh%20list.htm#moyry%20castle</cmt>

@@ -6017,6 +6017,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Brigid's%20Holy%20Well,%20Kilcullenbridge,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.84909" lon="-7.04571">
+    <name>St Brigid's Holy Well, Raffony</name>
+    <cmt>Cavan%20list.htm#raffony</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Brigid's%20Holy%20Well,%20Raffony,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="53.14278" lon="-6.90799">
     <name>St Brigid's Well Kildare</name>
     <cmt>Kildare%20list.htm#st%20brigid's%20well</cmt>

@@ -1990,6 +1990,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Roughan%20Hill,%20Tau%20Cross,%20Killinaboy,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="53.90303" lon="-6.90634">
+    <name>Corraweelis Cairn, Loughanleagh</name>
+    <cmt>Cavan%20list.htm#loughanleagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Loughanleagh%20Cairns,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="54.07229" lon="-9.07827">
     <name>Corrower Ogham Stone</name>
     <cmt>Mayo%20list.htm#corrower</cmt>

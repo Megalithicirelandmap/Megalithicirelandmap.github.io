@@ -6545,6 +6545,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Dysert%20O'Dea,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="53.88575" lon="-7.08432">
+    <name>St Ultan's Church, Gallon</name>
+    <cmt>Cavan%20list.htm#gallon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Ultan's%20Church,%20Gallon,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.77609" lon="-6.79237">
     <name>Staholmog Church and Sculpture, Meath</name>
     <cmt>Meath%20list.htm#stahalmog</cmt>

@@ -6401,6 +6401,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Mochta's%20House.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="52.82755" lon="-6.57035">
+     <name>St Mogue's High Cross, Clonmore</name>
+     <cmt>Carlow%20list.htm#clonmore</cmt>
+     <desc>&lt;a href="http://megalithicireland.com/Clonmore%20High%20Crosses,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+     <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.59083" lon="-6.49194">
     <name>St Mogue's Holy well</name>
     <cmt>Wexford%20%20list.htm#holy%20well</cmt>

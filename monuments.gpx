@@ -5489,6 +5489,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Rathgeran%20Standing%20Stone%20W,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.69475" lon="-7.43266">
+     <name>Rathealy, Ringfort</name>
+     <cmt>Kilkenny%20list.htm#rathealy</cmt>
+     <desc>&lt;a href="http://megalithicireland.com/Rathealy%20Ringfort,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+     <sym>subject#ringforts</sym>
+  </wpt>
   <wpt lat="51.84808" lon="-10.33195">
     <name>Rathkiernan Ogham Stone</name>
     <cmt>Kerry%20list.htm#rathkieran</cmt>

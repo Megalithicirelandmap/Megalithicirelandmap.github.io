@@ -7133,6 +7133,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Tullaherin%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="52.66211" lon="-7.43810">
+    <name>Tullaroan Wayside Crosses</name>
+    <cmt>Kilkenny%20list.htm#tullaroan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tullaroan%20Wayside%20Crosses,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.80583" lon="-6.74278">
     <name>Tullowphelim Holy Well</name>
     <cmt>Carlow%20list.htm#tullowphelim</cmt>

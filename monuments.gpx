@@ -1743,6 +1743,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cloghmore%20Court.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="52.72423" lon="-7.48481">
+    <name>Clomantagh Church</name>
+    <cmt>Kilkenny%20list.htm#clomantagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clomantagh%20Church,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.14990" lon="-7.52583">
     <name>Clonaslee Cross Slabs, Laois</name>
     <cmt>Laois%20list.htm#clonaslee</cmt>

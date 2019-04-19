@@ -3310,6 +3310,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Heapstown.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="53.09142" lon="-6.59538">
+    <name>Hollywood Medieval Graveslabs</name>
+    <cmt>Wicklow%20list.htm#hollywood</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hollywood%20Graveslabs,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="52.12367" lon="-6.92919">
     <name>Hook Lighthouse</name>
     <cmt>Wexford%20list.htm#hook%20lighthouse</cmt>

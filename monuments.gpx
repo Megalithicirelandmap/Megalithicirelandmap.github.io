@@ -5465,6 +5465,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Rathduff,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="52.69433" lon="-7.42566">
+    <name>Rathealy Standing Stone</name>
+    <cmt>Kilkenny%20list.htm#rathealy</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathealy%20Standing%20Stone,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="53.59194" lon="-6.48639">
     <name>Rathfeigh Motte</name>
     <cmt>Meath%20list.htm#rathfeigh</cmt>

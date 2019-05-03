@@ -3214,6 +3214,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Granard%20Motte,%20Longford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="52.19693" lon="-6.56460">
+    <name>Grange Church</name>
+    <cmt>Wexford%20list.htm#grange</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Grange%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.51542" lon="-8.54157">
     <name>Grange North Stone Circle</name>
     <cmt>Limerick%20list.htm#grange</cmt>

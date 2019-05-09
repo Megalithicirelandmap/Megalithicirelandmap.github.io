@@ -3532,6 +3532,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Inistioge%20fortified%20houses,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.48829" lon="-7.06593">
+    <name>Inistioge Fortified House</name>
+    <cmt>Kilkenny%20list.htm#inistioge</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inistioge%20fortified%20houses,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.48837" lon="-7.06719">
     <name>Inistioge Motte</name>
     <cmt>Kilkenny%20list.htm#inistioge</cmt>

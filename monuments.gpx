@@ -993,18 +993,6 @@
     <desc>&lt;a href="http://megalithicireland.com/Blarney%20Castle,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
-  <wpt lat="53.16139" lon="-6.54139">
-    <name>Blessington High Cross</name>
-    <cmt>Wicklow%20list.htm#blessington</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Blessington%20Cross.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
-  </wpt>
-    <wpt lat="53.16156" lon="-6.54096">
-    <name>Blessington Ringed Cross</name>
-    <cmt>Wicklow%20list.htm#blessington</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Blessington%20Cross.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
-  </wpt>
   <wpt lat="54.50639" lon="-7.86944">
     <name>Boa Island Figures</name>
     <cmt>Fermanagh%20list.htm#boa%20island</cmt>
@@ -1130,6 +1118,12 @@
     <cmt>Clare%20list.htm#bunratty</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Bunratty%20Castle,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
+  </wpt>
+  <wpt lat="53.16283" lon="-6.53988">
+    <name>Burgage More, Hollywood slab</name>
+    <cmt>Wicklow%20list.htm#burgage%20more</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Mark's%20High%20Cross,Burgage%20More,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="51.57333" lon="-9.01750">
     <name>Burgatia Standing Stone</name>

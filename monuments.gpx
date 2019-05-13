@@ -6371,6 +6371,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Manchan's%20Well%20Lemanaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.16150" lon="-6.54135">
+    <name>St Mark's High Cross</name>
+    <cmt>Wicklow%20list.htm#burgage%20more</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Mark's%20High%20Cross,%20Burgage%20More,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.38750" lon="-6.06611">
     <name>St Mary's Abbey Howth</name>
     <cmt>Dublin%20list.htm#howth</cmt>

@@ -1851,6 +1851,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clonmore%20Monastic%20Site.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="52.82731" lon="-6.56986">
+    <name>Clonmore Ogham Stone</name>
+    <cmt>Carlow%20list.htm#clonmore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clonmore%20Ogham%20Stone,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="53.28250" lon="-8.21556">
     <name>Clontuskert Abbey</name>
     <cmt>Galway%20list.htm#clontuskert</cmt>

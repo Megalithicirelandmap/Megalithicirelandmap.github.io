@@ -987,6 +987,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilkenny%20Town%20Walls.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#walledtowns</sym>  
   </wpt>
+  <wpt lat="53.06384" lon="-6.81049">
+    <name>Blackhall Castle, Kildare</name>
+    <cmt>Kildare%20list.htm#blackhall%20castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Blackhall%20Castle,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="51.92917" lon="-8.57083">
     <name>Blarney Castle</name>
     <cmt>Cork%20list.htm#blarney</cmt>

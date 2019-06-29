@@ -39,6 +39,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Abbeyshrule,%20Longford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="52.40118" lon="-6.72316">
+    <name>Adamstown Castle</name>
+    <cmt>Wexford%20list.htm#adamstown%20tower%20house</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Adamstown%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.56250" lon="-8.77889">
     <name>Adare Ogham Stones</name>
     <cmt>Limerick%20List.htm#adare</cmt>

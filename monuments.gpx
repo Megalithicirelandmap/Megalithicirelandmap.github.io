@@ -5975,6 +5975,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Sleaty%20Crosses,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="52.39507" lon="-6.83286">
+    <name>Springpark Motte, Old Ross</name>
+    <cmt>Wexford%20list.htm#old%20ross</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Springpark%20Motte,%20Old%20Ross,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="53.70608" lon="-9.82491">
     <name>Srahwee Wedge Tomb</name>
     <cmt>Mayo%20list.htm#srahwee</cmt>

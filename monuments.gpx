@@ -3766,6 +3766,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilcorkey%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.43406" lon="-6.64853">
+    <name>Kilcowanmore Parish Church</name>
+    <cmt>Wexford%20list.htm#ballybrennan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilcowanmore%20Parish%20Church,%20Ballybrennan,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="54.27787" lon="-9.21037">
     <name>Kilcummin Holy Well</name>
     <cmt>Mayo%20list.htm#kilcummin</cmt>

@@ -6208,7 +6208,13 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <cmt>Meath%20list.htm#monastery%204</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kells%20Monastery,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
-</wpt>
+  </wpt>
+  <wpt lat="52.43361" lon="-6.64942">
+    <name>St Cowan's Well, Ballybrennan</name>
+    <cmt>Wexford%20list.htm#ballybrennan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Cowan's%20Well,%20Ballybrennan,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="52.89667" lon="-8.53972">
     <name>St Cronan's Church Tuamgraney</name>
     <cmt>Clare%20list.htm#tuamgraney</cmt>

@@ -2122,6 +2122,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Crehelp%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.77489" lon="-6.31514">
+    <name>Croghan Middle Standing Stone (N)</name>
+    <cmt>Wexford%20list.htm#croghan%20middle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Croghan%20Middle%20Standing%20Stones,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="53.61051" lon="-10.21652">
     <name>Cromwell's Fort, Inishbofin</name>
     <cmt>Galway%20list.htm#inishbofin</cmt>

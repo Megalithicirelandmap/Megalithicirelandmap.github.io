@@ -7187,6 +7187,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Tobernandeochaun,%20Aghagower,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="52.79272" lon="-6.39902">
+    <name>Toberpatrick Holy Well</name>
+    <cmt>Wicklow%20list.htm#toberpatrick</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Toberpatrick%20Holy%20Well,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="52.21556" lon="-6.49333">
     <name>Tomhaggard Parish church</name>
     <cmt>Wexford%20%20list.htm#parish%20church</cmt>

@@ -2200,6 +2200,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Darrara%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.38838" lon="-6.55863">
+    <name>Deeps Castle</name>
+    <cmt>Wexford%20list.htm#deeps</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Deeps%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.61124" lon="-7.09356">
     <name>Delvin Castle</name>
     <cmt>Westmeath%20list.htm#delvin</cmt>

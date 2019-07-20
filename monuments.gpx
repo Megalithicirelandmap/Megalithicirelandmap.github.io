@@ -2752,6 +2752,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Edergole%20Court%20Tomb,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="52.45374" lon="-6.55183">
+    <name> Edermine Standing Stone</name>
+    <cmt>Wexford%20list.htm#edermine</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glebe%20(Edermine)%20Standing%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.46556" lon="-7.69417">
     <name>Edmond's Castle Fethard</name>
     <cmt>Tipperary%20List.htm#edmond's%20castle</cmt>

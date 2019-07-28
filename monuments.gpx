@@ -5531,6 +5531,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="52.29247" lon="-6.50384">
+    <name>Rathaspick Romanesque Font</name>
+    <cmt>Wexford%20list.htm#rathaspick</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathaspick%20Romanesque%20Font,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="53.28191" lon="-6.46378">
     <name>Rathcoole Cross Slab</name>
     <cmt>Dublin%20list.htm#rathcoole</cmt>

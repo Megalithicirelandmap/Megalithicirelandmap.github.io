@@ -6923,6 +6923,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Templenaboe.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.29436" lon="-6.31940">
+    <name>Templeogue Church and Graveslab</name>
+    <cmt>Dublin%20list.htm#templeogue</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Templeogue%20Church%20and%20Hollywood%20Graveslab,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.17944" lon="-6.89528">
     <name>Templetown Church</name>
     <cmt>Wexford%20%20list.htm#templetown</cmt>

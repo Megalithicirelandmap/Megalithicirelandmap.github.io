@@ -543,6 +543,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballyboher%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.22007" lon="-6.46087">
+    <name>Ballyboher Standing Stone</name>
+    <cmt>Wexford%20list.htm#ballyboher</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballyboher%20Standing%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.47005" lon="-7.22259">
     <name>Ballyboodan Ogham Stone</name>
     <cmt>Kilkenny%20list.htm#ballyboodan</cmt>

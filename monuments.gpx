@@ -1275,6 +1275,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cahermacnaghten.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="52.37953" lon="-7.92847">
+    <name>Cahir Abbey</name>
+    <cmt>Tipperary%20list.htm#cahir</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cahir%20Abbey,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.37472" lon="-7.92694">
     <name>Cahir Castle</name>
     <cmt>Tipperary%20List.htm#cahir</cmt>

@@ -4396,6 +4396,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Knockmahon%20Ogham%20Stones,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="54.44857" lon="-7.15773">
+    <name>Knockmany Passage Tomb</name>
+    <cmt>Tyrone%20list.htm#knockmany</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Knockmany%20Passage%20Tomb,%20Tyrone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="53.35094" lon="-6.34074">
     <name>Knockmaroon Cist, Phoenix Park</name>
     <cmt>Dublin%20list.htm#knockmaroon</cmt>

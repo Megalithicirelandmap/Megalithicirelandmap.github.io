@@ -3664,6 +3664,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kealkil%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="52.51678" lon="-7.88757">
+    <name>Kearney's Castle, Cashel</name>
+    <cmt>Tipperary%20list.htm#cashel</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kearney's%20Castle,%20Cashel,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.99994" lon="-10.06012">
     <name>Keel East</name>
     <cmt>Mayo%20list.htm#keel%20east</cmt>

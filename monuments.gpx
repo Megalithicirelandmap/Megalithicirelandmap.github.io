@@ -4690,6 +4690,12 @@
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Lisnaskea.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>  
   </wpt>
+  <wpt lat="52.41584" lon="-7.70289">
+    <name>Lisronagh Tower House</name>
+    <cmt>Tipperary%20list.htm#lisronagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lisronagh%20Tower%20House,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.44444" lon="-9.48694">
     <name>Listowel Castle</name>
     <cmt>Kerry%20list.htm#listowel</cmt>

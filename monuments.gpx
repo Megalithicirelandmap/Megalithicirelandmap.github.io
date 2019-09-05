@@ -5087,6 +5087,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="52.18731" lon="-7.85622">
+    <name>Mount Melleray Ogham Stones</name>
+    <cmt>Waterford%20list.htm#mount%20melleray</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mount%20Melleray%20Ogham%20Stones,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="52.41194" lon="-6.93500">
     <name>Mountgarret Tower House</name>
     <cmt>Wexford%20%20list.htm#mountgarret</cmt>

@@ -6245,6 +6245,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Canice's%20Cathedral,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.13590" lon="-7.93030">
+    <name>St Carthage's Cathedral, Lismore</name>
+    <cmt>Waterford%20list.htm#lismore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Carthage's%20Cathedral,%20Lismore,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.20318" lon="-6.43783">
     <name>St Catherine's Church</name>
     <cmt>Wexford%20list.htm#churchtown</cmt>

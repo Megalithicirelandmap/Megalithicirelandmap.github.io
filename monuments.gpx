@@ -369,6 +369,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ashtown%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.47926" lon="-7.98324">
+    <name>Athassel Priory</name>
+    <cmt>Tipperary%20list.htm#athassel%20abbey</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Athassel%20Priory,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="54.58689" lon="-7.02671">
     <name>Athenree Portal Tomb</name>
     <cmt>Tyrone%20list.htm#athenree</cmt>

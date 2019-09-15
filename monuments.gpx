@@ -1911,6 +1911,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clonmore%20Ogham%20Stone,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="53.23590" lon="-7.92285">
+    <name>Clonony Castle</name>
+    <cmt>Offaly%20list.htm#clonony</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clonony%20Castle,%20Offaly.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.28250" lon="-8.21556">
     <name>Clontuskert Abbey</name>
     <cmt>Galway%20list.htm#clontuskert</cmt>

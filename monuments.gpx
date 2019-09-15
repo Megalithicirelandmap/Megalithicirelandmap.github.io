@@ -3010,6 +3010,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Gallarus%20Oratory.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="53.26480" lon="-7.82399">
+    <name>Gallen Priory</name>
+    <cmt>Offaly%20list.htm#gallen%20priory</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gallen%20Priory,%20Offaly.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="52.90546" lon="-8.34583">
     <name>Garrykennedy Castle</name>
     <cmt>Tipperary%20List.htm#garrykennedy</cmt>

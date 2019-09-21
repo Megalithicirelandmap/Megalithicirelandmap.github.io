@@ -4300,6 +4300,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilrossanty%20Holy%20Well.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="52.09471" lon="-7.64051">
+    <name>Kilrush Bullaun Stone</name>
+    <cmt>Waterford%20list.htm#dungarvan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilrush%20Bullaun%20Stone,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#bullauns</sym>
+  </wpt>
   <wpt lat="52.66083" lon="-8.65500">
     <name>Kilrush Church</name>
     <cmt>Limerick%20List.htm#kilrush%20church</cmt>

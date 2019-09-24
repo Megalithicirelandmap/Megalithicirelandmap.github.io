@@ -5405,6 +5405,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Oughterard%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="51.95734" lon="-7.85451">
+    <name>Our Lady of Graces Friary</name>
+    <cmt>Cork%20list.htm#youghal</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Our%20Lady%20of%20Graces%20Friary,%20Youghal.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.20722" lon="-6.37528">
     <name>Our Lady's Well Eardownes Great </name>
     <cmt>Wexford%20%20list.htm#holy%20well</cmt>

@@ -7571,4 +7571,10 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Fore%20Wayside%20Crosses,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="51.95287" lon="-7.85108">
+    <name>Youghal Town Walls</name>
+    <cmt>Cork%20list.htm#youghal</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Youghal%20Town%20Walls,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#walledtowns</sym>
+  </wpt>
 </gpx>

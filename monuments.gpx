@@ -6520,9 +6520,14 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <cmt>Meath%20list.htm#kells</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20John's%20Cemetery,%20Kells,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
-  </wpt>
+  </wpt<wpt lat="51.95436" lon="-7.84865">
+    <name>St John's Priory, Youghal</name>
+    <cmt>Cork%20list.htm#youghal</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Benedictine%20Priory%20of%20St%20John,%20Youghal.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>>
   <wpt lat="52.25708" lon="-7.11220">
-    <name>St John's Priory</name>
+    <name>St John's Priory, Waterford</name>
     <cmt>Waterford%20list.htm#waterford%20city</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20John's%20Priory,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>

@@ -6653,6 +6653,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Church,%20New%20Ross,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="51.95510" lon="-7.85349">
+    <name>St Mary's Collegiate Church</name>
+    <cmt>Cork%20list.htm#youghal</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Collegiate%20Church,%20Youghal.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.95344" lon="-6.54404">
     <name>St Mary's Priory Lough</name>
     <cmt>Louth%20list.htm#louth</cmt>

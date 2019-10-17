@@ -3136,6 +3136,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Glebe%20West%20Stone%20Circle,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="51.99611" lon="-7.69482">
+    <name>Glen William Standing Stone</name>
+    <cmt>Waterford%20list.htm#glen%20william</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glen%20William%20Standing%20Stone,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="54.71056" lon="-8.72309">
     <name>Glencolmcille Turas Station 1</name>
     <cmt>Donegal%20list.htm#glencolmcille</cmt>

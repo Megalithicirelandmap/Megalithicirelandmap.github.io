@@ -2662,6 +2662,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dundrum%20Castle,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.08788" lon="-7.61058">
+    <name>Dungarvan Abbey</name>
+    <cmt>Waterford%20list.htm#dungarvan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dungarvan%20Abbey,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="54.91722" lon="-6.92167">
     <name>Dungiven Priory</name>
     <cmt>Derry%20list.htm#dungiven-</cmt>

@@ -2356,6 +2356,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Donaghpatrick%20Standing%20Stone,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.02138" lon="-6.61443">
+    <name>Donard Church and Hollywood Slabs</name>
+    <cmt>Wicklow%20list.htm#donard%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Donard%20Church%20and%20Graveslabs,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.02155" lon="-6.61314">
     <name>Donard Ogham Stone</name>
     <cmt>Wicklow%20list.htm#donard</cmt>

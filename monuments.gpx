@@ -1167,7 +1167,13 @@
     <desc>&lt;a href="http://megalithicireland.com/Burgatia%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
-    <wpt lat="54.26636" lon="-7.88405">
+  <wpt lat="52.57598" lon="-7.29743">
+    <name>Burnchurch Castle</name>
+    <cmt>Kilkenny%20list.htm#burnchurch</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Burnchurch%20Castle,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
+  <wpt lat="54.26636" lon="-7.88405">
     <name>Burren Boulder Burial</name>
     <cmt>Cavan%20list.htm#burren</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Burren%20Boulder%20Burial.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>

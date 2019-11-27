@@ -585,6 +585,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballybunion%20Castle,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.59351" lon="-7.29892">
+    <name>Ballybur Castle</name>
+    <cmt>Kilkenny%20list.htm#ballybur</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballybur%20Castle,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.60917" lon="-6.30444">
     <name>Ballycanew Bullaun</name>
     <cmt>Wexford%20%20list.htm#ballycanew</cmt>

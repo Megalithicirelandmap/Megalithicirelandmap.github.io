@@ -6785,6 +6785,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Nessan's%20%20Church,%20Mungret,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="54.39096" lon="-7.08081">
+    <name>St Patrick's Chair, Altadaven</name>
+    <cmt>Tyrone%20list.htm#altadaven</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Patrick's%20Chair,%20Altadaven,%20Tyrone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.35750" lon="-7.75250">
     <name>St Patrick's Church</name>
     <cmt>Tipperary%20List.htm#church</cmt>

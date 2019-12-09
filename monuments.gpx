@@ -5753,6 +5753,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Rathmacknee%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.26898" lon="-6.49062">
+    <name>Rathmacknee medieval graveslabs</name>
+    <cmt>Wexford%20list.htm#rathmacknee</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathmacknee%20medieval%20graveslabs,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="53.23288" lon="-6.14596">
     <name>Rathmichael Church</name>
     <cmt>Dublin%20list.htm#church</cmt>

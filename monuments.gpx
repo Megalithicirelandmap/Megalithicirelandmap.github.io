@@ -7001,6 +7001,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Tallanstown%20Motte.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="52.69910" lon="-6.21775">
+    <name>Tara Hill Cairn</name>
+    <cmt>Wexford%20list.htm#tara%20hill</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tara%20Hill%20Cairn,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="53.93889" lon="-8.50472">
     <name>Tawnymucklagh Standing Stone</name>
     <cmt>Sligo%20list.htm#tawnymucklagh</cmt>

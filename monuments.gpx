@@ -3838,6 +3838,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilcavan%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.70314" lon="-6.22420">
+    <name>Kilcavan Upper Standing Stone</name>
+    <cmt>Wexford%20list.htm#kilcavan%20upper</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilcavan%20Upper%20Standing%20Stone,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.18972" lon="-6.88975">
     <name>Kilcloggan Castle</name>
     <cmt>Wexford%20list.htm#kilcloggan</cmt>

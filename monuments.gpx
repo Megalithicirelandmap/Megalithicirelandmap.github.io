@@ -7553,6 +7553,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Tyrrellspass%20Tower%20House.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="51.95590" lon="-7.85022">
+    <name>Tynte's Castle</name>
+    <cmt>Cork%20list.htm#youghal</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tynte's%20Castle,%20Youghal,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.58028" lon="-6.93306">
     <name>Ullard Church</name>
     <cmt>Kilkenny%20list.htm#ullard</cmt>

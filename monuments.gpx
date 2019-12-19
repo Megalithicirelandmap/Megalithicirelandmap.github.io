@@ -1329,6 +1329,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Callan%20Holy%20Well,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>  
   </wpt>
+  <wpt lat="52.54672" lon="-7.39204">
+    <name>Callan Motte</name>
+    <cmt>Kilkenny%20list.htm#callan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Callan%20Motte,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="53.61852" lon="-6.66794">
     <name>Cannistown Church, Meath</name>
     <cmt>Meath%20list.htm#cannistown</cmt>

@@ -1587,6 +1587,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cashel%20Mayo.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="52.51529" lon="-7.88440">
+    <name>Cashel Town Walls</name>
+    <cmt>Tipperary%20list.htm#cashel%20town%20walls</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cashel%20Town%20Walls,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#townwalls</sym>
+  </wpt>
   <wpt lat="53.60444" lon="-10.03389">
     <name>Cashleen Church of the Seven Daughters</name>
     <cmt>Galway%20list.htm#cashleen</cmt>

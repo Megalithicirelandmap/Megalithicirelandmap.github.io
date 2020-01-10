@@ -1591,7 +1591,7 @@
     <name>Cashel Town Walls</name>
     <cmt>Tipperary%20list.htm#cashel%20town%20walls</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Cashel%20Town%20Walls,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#townwalls</sym>
+    <sym>subject#walledtowns</sym>
   </wpt>
   <wpt lat="53.60444" lon="-10.03389">
     <name>Cashleen Church of the Seven Daughters</name>

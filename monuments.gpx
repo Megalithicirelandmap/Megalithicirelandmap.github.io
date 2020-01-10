@@ -1641,6 +1641,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Castleknock%20Motte.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="52.49796" lon="-7.98941">
+    <name>Castlepark Castle</name>
+    <cmt>Tipperary%20list.htm#golden%20castlepark</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Castlepark%20Castle,%20Golden,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.99111" lon="-6.63667">
     <name>Castleruddery Stone Circle</name>
     <cmt>Wicklow%20list.htm#castleruddery</cmt>

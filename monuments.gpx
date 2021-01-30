@@ -6707,6 +6707,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Abbey,%20Duleek.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="52.37562" lon="-7.92261">
+    <name>St Mary's Medieval Church Cahir</name>
+    <cmt>Tipperary%20list.htm#st%20mary's%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20medieval%20parish%20church,%20Cahir,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+     <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.01056" lon="-6.32944">
     <name>St Mary's Church Glendalough</name>
     <cmt>Wicklow%20list.htm#glendalough</cmt>

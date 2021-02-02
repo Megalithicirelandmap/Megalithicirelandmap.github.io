@@ -3682,6 +3682,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Innisfallen%20Oratory,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="52.34525" lon="-7.74260">
+    <name>Inishlounaght Abbey</name>
+    <cmt>Tipperary%20list.htm#inishlounaght</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inishlounaght%20Abbey,%20Clonmel,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.34822" lon="-6.51717">
     <name>Irish National Heritage Park</name>
     <cmt>Wexford%20list.htm#heritage%20park</cmt>

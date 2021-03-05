@@ -6731,6 +6731,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Church%20Glendalough.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.35422" lon="-7.70695">
+    <name>St Mary's Church</name>
+    <cmt>Tipperary%20list.htm#clonmel%20st%20mary's</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Mary's%20Church,%20Clonmel,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.62889" lon="-7.06472">
     <name>St Mary's Church Gowran</name>
     <cmt>Kilkenny%20list.htm#gowran</cmt>

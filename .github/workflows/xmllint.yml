@@ -1,0 +1,18 @@
+name: Validate Xml
+on: push
+
+jobs:
+  validate:
+    strategy:
+      fail-fast: true
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Validate
+      run: |
+        sudo apt-get install libxml2-utils
+        sh tools/gpxlint --noout monuments.gpx

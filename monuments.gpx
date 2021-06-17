@@ -5861,6 +5861,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Reask.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="52.18541" lon="-10.30279">
+    <name>Reenconnell High Cross</name>
+    <cmt>Kerry%20list.htm#reenconnell</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Reenconnell%20High%20Cross,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#highcross</sym>
+  </wpt>
   <wpt lat="53.30687" lon="-6.56352">
     <name>Reeves Castle, Kildare</name>
     <cmt>Kildare%20list.htm#reeves</cmt>

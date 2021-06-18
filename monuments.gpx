@@ -6593,6 +6593,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Gobnait's%20Grave,,%20Ballyvourney.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="52.13625" lon="-10.46714">
+    <name>St Gobnait's Holy Well</name>
+    <cmt>Kerry%20list.htm#dunquin%20holy%20well</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Gobnait's%20holy%20well,%20Dunquin,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="51.93833" lon="-9.16806">
     <name>St Gobnait's House and Holy Well  Ballyvourney</name>
     <cmt>Cork%20list.htm#ballyvourney</cmt>

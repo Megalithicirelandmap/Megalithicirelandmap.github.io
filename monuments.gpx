@@ -825,6 +825,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballyvourney%20Cross%20Slab.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="52.16029" lon="-10.39435">
+    <name>Ballywiheen Medieval Church</name>
+    <cmt>Kerry%20list.htm#ballywiheen%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballywiheen%20Church,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt> 
   <wpt lat="52.15861" lon="-10.40722">
     <name>Ballywiheen Early Christian Site</name>
     <cmt>Kerry%20list.htm#ballywiheen</cmt>

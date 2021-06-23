@@ -4456,6 +4456,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kiltuck%20Cross.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="52.11197" lon="-10.39844">
+    <name>Kilvickadownig Cross Slab</name>
+    <cmt>Kerry%20list.htm#kilvickadownig%20early%20christian</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilvickadownig%20Early%20Christian%20Site,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="53.98611" lon="-6.15528">
     <name>Kilwirra Church</name>
     <cmt>Louth%20list.htm#kilwirra%20church</cmt>

@@ -4468,6 +4468,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilvickadownig%20standing%20stones,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.11479" lon="-10.39753">
+    <name>Kilvickadownig Standing Stone N</name>
+    <cmt>Kerry%20list.htm#kilvickadownig%20standing%20stones</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilvickadownig%20standing%20stones,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="53.98611" lon="-6.15528">
     <name>Kilwirra Church</name>
     <cmt>Louth%20list.htm#kilwirra%20church</cmt>

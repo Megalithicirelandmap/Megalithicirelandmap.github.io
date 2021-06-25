@@ -3082,6 +3082,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Freshford%20Romanesque%20Doorway,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.17595" lon="-10.35591">
+    <name>Gallarus Castle</name>
+    <cmt>Kerry%20list.htm#gallarus%20castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gallarus%20Castle,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.17278" lon="-10.34944">
     <name>Gallarus Oratory</name>
     <cmt>Kerry%20list.htm#gallarus</cmt>

@@ -4463,10 +4463,16 @@
     <sym>subject#cross</sym>
   </wpt>
   <wpt lat="52.11197" lon="-10.39844">
-    <name>Kilvickadownig Cross Slab</name>
+    <name>Kilvickadownig Cross Slabs</name>
     <cmt>Kerry%20list.htm#kilvickadownig%20early%20christian</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilvickadownig%20Early%20Christian%20Site,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
+  </wpt>
+  <wpt lat="52.10859" lon="-10.39418">
+    <name>Kilvickadownig Ringfort</name>
+    <cmt>Kerry%20list.htm#kilvickadownig%20ringfort</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilvickadownig%20ringfort,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
   </wpt>
   <wpt lat="52.11276" lon="-10.39597">
     <name>Kilvickadownig Standing Stone E</name>

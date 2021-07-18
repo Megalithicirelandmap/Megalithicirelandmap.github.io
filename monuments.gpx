@@ -2482,6 +2482,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Doonalt%20Cross%20Pillar.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="52.12728" lon="-10.15404">
+    <name>Doonmanagh Wedge Tomb</name>
+    <cmt>Kerry%20list.htm#doonmanagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Doonmanagh%20Wedge%20Tomb,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="52.25674" lon="-7.11274">
     <name>Double Tower, Town Walls</name>
     <cmt>Waterford%20list.htm#waterford%20city</cmt>

@@ -5176,6 +5176,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Minard%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.12954" lon="-10.15133">
+    <name>Minard West Wedge Tomb</name>
+    <cmt>Kerry%20list.htm#minard%20west</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Minard%20West%20Wedge%20Tomb,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="53.80361" lon="-8.30361">
     <name>Misgaun Medb Standing Stone</name>
     <cmt>Roscommon%20list.htm#rathcroghan</cmt>

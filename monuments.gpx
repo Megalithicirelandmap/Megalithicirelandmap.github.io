@@ -3826,6 +3826,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Keel%20East.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="52.16565" lon="-9.77771">
+    <name>Keel Ogham Stone</name>
+    <cmt>Kerry%20list.htm#keel</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Keel%20Ogham%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="53.72772" lon="-6.87965">
     <name>Kells Monastery</name>
     <cmt>Meath%20list.htm#monastery%204</cmt>

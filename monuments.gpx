@@ -159,6 +159,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Aghowle%20Church%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="52.13603" lon="-10.13776">
+    <name>Aglish Ogham Stone</name>
+    <cmt>Kerry%20list.htm#aglish</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Aglish%20Ogham%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="51.57514" lon="-9.00117">
     <name>Ahaglaslin Portal Tomb</name>
     <cmt>Cork%20list.htm#ahaglaslin</cmt>

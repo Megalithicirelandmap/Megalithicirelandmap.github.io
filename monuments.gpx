@@ -1741,13 +1741,13 @@
     <name>Church Island, Lough Currane</name>
     <cmt>Kerry%20list.htm#church%20island</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Church%20Island,%20Lough%20Currane,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
+    <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="51.93762" lon="-10.28325">
     <name>Church Island, Valentia Harbour</name>
     <cmt>Kerry%20list.htm#church%20island</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Church%20Island,%20Valentia%20Harbour,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
+    <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="52.91556" lon="-8.44806">
     <name>Church of the Wounded Men</name>
@@ -3590,13 +3590,13 @@
     <name>Illaunloughan Early Christian site</name>
     <cmt>Kerry%20list.htm#illaunloughan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Illaunloughan%20Early%20Christian%20site,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
+    <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="52.32641" lon="-10.02006">
     <name>Illauntannig, Early Christian site</name>
     <cmt>Kerry%20list.htm#illauntannig</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Illauntannig%20Early%20Christian%20Site,%20the%20Maharees,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#cross</sym>
+    <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="54.33611" lon="-5.73139">
     <name>Inch Abbey</name>
@@ -4449,6 +4449,12 @@
     <cmt>Limerick%20List.htm#kilrush%20church</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kilrush%20Church,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
+  </wpt>
+  <wpt lat="52.31016" lon="-10.01646">
+    <name>Kilshannig Church and Cross slab</name>
+    <cmt>Kerry%20list.htm#kilshannig</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilshannig%20Church%20and%20Cross%20slab,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#oratories</sym>
   </wpt>
   <wpt lat="52.36047" lon="-7.57788">
     <name>Kilsheelan Church</name>

@@ -4456,6 +4456,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilshannig%20Church%20and%20Cross%20slab,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="52.30205" lon="-10.02750">
+    <name>Kilshannig Standing Stone</name>
+    <cmt>Kerry%20list.htm#kilshannig</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilshannig%20Standing%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.36047" lon="-7.57788">
     <name>Kilsheelan Church</name>
     <cmt>Tipperary%20list.htm#kilsheelan</cmt>

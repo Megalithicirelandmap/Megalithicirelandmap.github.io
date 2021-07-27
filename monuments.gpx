@@ -3604,6 +3604,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Inch%20Abbey,%20Downpatrick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="52.14477" lon="-9.99937">
+    <name>Inch West, Holy well and Cross slab</name>
+    <cmt>Kerry%20list.htm#inch%20west</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inch%20West%20Cross%20slab,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="53.48580" lon="-9.31633">
     <name>Inchagoill Cross Pillar</name>
     <cmt>Galway%20list.htm#inchagoill</cmt>

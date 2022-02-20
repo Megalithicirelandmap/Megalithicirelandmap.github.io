@@ -5170,6 +5170,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Markree%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.25454" lon="-10.02167">
+    <name>Martramane Bullaun Stone</name>
+    <cmt>Kerry%20list.htm#martramane</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Martramane%20Bullaun%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#bullauns</sym>
+  </wpt>
   <wpt lat="52.17591" lon="-7.22721">
     <name>Matthewstown Passage Tomb</name>
     <cmt>Waterford%20list.htm#matthewstown</cmt>

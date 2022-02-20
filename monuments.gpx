@@ -1371,6 +1371,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Callan%20Motte,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="52.21461" lon="-9.90541">
+    <name>Camp Ogham Stone</name>
+    <cmt>Kerry%20list.htm#camp</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Camp%20Ogham%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="53.61852" lon="-6.66794">
     <name>Cannistown Church, Meath</name>
     <cmt>Meath%20list.htm#cannistown</cmt>

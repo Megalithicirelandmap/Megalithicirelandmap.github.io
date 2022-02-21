@@ -1269,6 +1269,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cadamstown%20Fragments,%20Offaly.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="52.13837" lon="-10.35073">
+    <name>Caherard Wedge Tomb</name>
+    <cmt>Kerry%20list.htm#caherard</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Caherard%20Wedge%20Tomb,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="52.99752" lon="-9.19181">
     <name>Caherballykinvarga</name>
     <cmt>Clare%20list.htm#ballykinvarga</cmt>

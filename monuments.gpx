@@ -7637,6 +7637,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Tobar%20Ri%20an%20Domhnaigh,%20Kilgeever,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="52.15929" lon="-10.40060">
+    <name>Tobermalogga, St Malachy's Well</name>
+    <cmt>Kerry%20list.htm#tobermalogga</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tobermalogga%20(St%20Malachy's%20Holy%20Well)%20Ballywiheen,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt>
   <wpt lat="53.68224" lon="-7.22844">
     <name>Tobernacogany Holy Well</name>
     <cmt>Westmeath%20list.htm#fore</cmt>

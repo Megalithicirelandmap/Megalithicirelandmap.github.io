@@ -1863,6 +1863,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clochafarmore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.10364" lon="-10.42876">
+    <name>Clochan Dubh, Glanfahan</name>
+    <cmt>Kerry%20list.htm#clochan%20dubh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clochan%20Dubh,%20Glanfahan,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="53.60461" lon="-10.27114">
     <name>Clochan Leo, Inishshark</name>
     <cmt>Galway%20list.htm#inishshark</cmt>

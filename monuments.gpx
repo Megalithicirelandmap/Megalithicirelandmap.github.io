@@ -4066,6 +4066,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kildreelig%20Early%20Christian%20Site,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="52.18391" lon="-9.99683">
+    <name>Kilduff Cross slab</name>
+    <cmt>Kerry%20list.htm#kilduff</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilduff%20Cross%20Slab,%20Dingle,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="52.55402" lon="-7.11825">
     <name>Kilfane Church</name>
     <cmt>Kilkenny%20list.htm#kilfane</cmt>

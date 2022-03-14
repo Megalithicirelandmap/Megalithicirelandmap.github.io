@@ -3160,6 +3160,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Gallen%20Priory,%20Offaly.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.17797" lon="-7.08674">
+    <name>Garran Portal Tomb</name>
+    <cmt>Monaghan%20list.htm#garran</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Garran%20Portal%20Tomb,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="52.90546" lon="-8.34583">
     <name>Garrykennedy Castle</name>
     <cmt>Tipperary%20List.htm#garrykennedy</cmt>

@@ -4930,6 +4930,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Lemanaghan%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="54.15294" lon="-6.86023">
+    <name>Lennan Portal Tomb</name>
+    <cmt>Monaghan%20list.htm#lennan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lennan%20Portal%20Tomb,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="53.50611" lon="-10.04056">
     <name>Letterdeen Standing Stone</name>
     <cmt>Galway%20list.htm#letterdeen</cmt>

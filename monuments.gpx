@@ -483,6 +483,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballinakill%20Medieval%20Church,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.22628" lon="-10.29797">
+    <name>Cathair Fionnurach, Ballynavenooragh</name>
+    <cmt>Kerry%20list.htm#ballynavenooragh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cathair%20Fionnurach,%20Ballynavenooragh,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ringforts</sym>
+  </wpt>
   <wpt lat="52.62972" lon="-6.39444">
     <name>Ballinclare Church</name>
     <cmt>Wexford%20%20list.htm#ballinclare</cmt>

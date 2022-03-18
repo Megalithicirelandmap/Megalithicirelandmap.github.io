@@ -2908,6 +2908,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dunnamore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="52.17110" lon="-10.42478">
+    <name>Dunurlin Church, Gortadoo</name>
+    <cmt>Kerry%20list.htm#gortadoo</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dunurlin%20Church,%20Gortadoo,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.32570" lon="-7.51947">
     <name>Durrow High Cross</name>
     <cmt>Offaly%20list.htm#durrow</cmt>
@@ -3939,6 +3945,12 @@
     <cmt>Carlow%20list.htm#kernanstown</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Kernanstown%20(Brownshill)%20Portal%20Tomb,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
+  </wpt>
+  <wpt lat="52.16988" lon="-10.43971">
+    <name>Kilbeg and Kilmore, Ballincolla</name>
+    <cmt>Kerry%20list.htm#ballincolla</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballincolla,%20Kilbeg%20and%20Kilmore%20Ecclesiastic%20sites,%20Dingle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
   </wpt>
   <wpt lat="53.78030" lon="-6.82207">
     <name>Kilbeg Upper Cross Slab</name>

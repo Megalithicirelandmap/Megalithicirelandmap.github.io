@@ -1149,6 +1149,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Boyle%20Abbey,%20Roscommon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="52.15068" lon="-10.04392">
+    <name>Brackloon standing stone</name>
+    <cmt>Kerry%20list.htm#brackloon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Brackloon%20standing%20stone%20and%20Rock%20art,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="54.24653" lon="-9.25366">
     <name>Breastagh Ogham Stone</name>
     <cmt>Mayo%20list.htm#breastagh</cmt>

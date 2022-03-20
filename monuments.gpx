@@ -2218,6 +2218,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cotts%20Stone%20Pair,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonepairs</sym>
   </wpt>
+     <wpt lat="52.16786" lon="-10.07634">
+    <name>Coumduff Cross slab</name>
+    <cmt>Kerry%20list.htm#coumduff</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Coumduff%20Cross%20slab,%20Dingle,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#crossslabs</sym>
+  </wpt>
   <wpt lat="52.11028" lon="-10.47306">
     <name>Coumeenoole Ogham Stone</name>
     <cmt>Kerry%20list.htm#coumeenoole</cmt>

@@ -3009,6 +3009,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Eightercua%20Stone%20Row.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonerows</sym>
   </wpt>
+  <wpt lat="52.13159" lon="-10.21623">
+    <name>Emlagh East Ogham Stone</name>
+    <cmt>Kerry%20list.htm#emlagh%20east</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Emlagh%20East%20Ogham%20Stone,%20Dingle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt>
   <wpt lat="52.50139" lon="-6.56722">
     <name>Enniscorthy Castle</name>
     <cmt>Wexford%20%20list.htm#enniscorthy</cmt>

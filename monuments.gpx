@@ -1671,6 +1671,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cashel%20Town%20Walls,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#walledtowns</sym>
   </wpt>
+  <wpt lat="51.75709" lon="-9.81374">
+    <name>Cashelkeelty Megalithic Complex</name>
+    <cmt>Kerry%20list.htm#cashelkeelty</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cashelkeelty%20Megalithic%20Complex,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="53.60444" lon="-10.03389">
     <name>Cashleen Church of the Seven Daughters</name>
     <cmt>Galway%20list.htm#cashleen</cmt>

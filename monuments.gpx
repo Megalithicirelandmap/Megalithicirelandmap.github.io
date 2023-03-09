@@ -4383,6 +4383,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilmacduagh,%20The%20Glebe%20House,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="51.68161" lon="-9.90837">
+    <name>Kilmackowen Wedge Tomb</name>
+    <cmt>Cork%20list.htm#kilmackowen</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilmackowen%20Wedge%20Tomb,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="52.70931" lon="-6.17667">
     <name>Kilgorman Graveslab</name>
     <cmt>Wexford%20list.htm#kilgorman</cmt>

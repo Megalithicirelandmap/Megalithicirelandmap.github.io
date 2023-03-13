@@ -6484,6 +6484,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Sleaty%20Crosses,%20Laois.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="54.12914" lon="-6.43855">
+    <name>Slieve Gullion North Cairn</name>
+    <cmt>Armagh%20list.htm#north%20cairn</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Slieve%20Gullion%20North%20Cairn,%20Armagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt>
   <wpt lat="54.12184" lon="-6.43345">
     <name>Slieve Gullion Passage Tomb</name>
     <cmt>Armagh%20list.htm#slieve%20gullion</cmt>

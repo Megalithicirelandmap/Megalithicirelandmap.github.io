@@ -1478,6 +1478,12 @@
     <cmt>Kildare%20list.htm#carrickoris</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Carrickoris%20Castle,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
+  </wpt>  
+  <wpt lat="52.56994" lon="-9.49405">
+    <name>Carrigafoyle Castle, Kerry</name>
+    <cmt>Kerry%20list.htm#carrigafoyle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Carrigafoyle%20Tower%20House,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
   </wpt>
   <wpt lat="52.60000" lon="-9.69944">
     <name>Carrigaholt Castle</name>

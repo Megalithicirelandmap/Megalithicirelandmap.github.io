@@ -7557,6 +7557,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <cmt>Clare%20list.htm#inishcealtra</cmt>
     <desc>&lt;a href="http://megalithicireland.com/The%20Confessional,%20Inishcealtra.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
+  </wpt>  
+  <wpt lat="52.16604" lon="-10.39844">
+    <name>The Gate of the Cow, Ballineanig-Castlequarter</name>
+    <cmt>Kerry%20list.htm#ballineanig</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballineanig-Castlequarter%20Stone%20Pair,%20Dingle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
   </wpt>
   <wpt lat="54.54083" lon="-5.94861">
     <name>The Giant's Ring Ballynahatty</name>

@@ -2271,6 +2271,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Craddockstown%20West.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="54.99579" lon="-6.47067">
+    <name>Craigs Court Tomb</name>
+    <cmt>Antrim%20list.htm#craigs</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Craigs%20Court%20Tomb,%20Antrim.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="54.99333" lon="-6.47889">
     <name>Craigs Lower Passage Tomb</name>
     <cmt>Antrim%20list.htm#craigs%20lower</cmt>

@@ -3987,6 +3987,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kernanstown%20(Brownshill)%20Portal%20Tomb,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="55.22942" lon="-6.29142">
+    <name>Kilbane Castle</name>
+    <cmt>Antrim%20list.htm#kilbane</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilbane%20Castle,%20Antrim.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="52.16988" lon="-10.43971">
     <name>Kilbeg and Kilmore, Ballincolla</name>
     <cmt>Kerry%20list.htm#ballincolla</cmt>

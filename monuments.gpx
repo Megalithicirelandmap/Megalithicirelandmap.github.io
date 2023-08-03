@@ -3459,6 +3459,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Glendalough%20Monastic.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="53.13772" lon="-9.20591">
+    <name>Gleninagh North Tower House, Clare</name>
+    <cmt>Clare%20list.htm#gleninagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gleninagh%20North%20Castle,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.06472" lon="-9.14972">
     <name>Gleninsheen Wedge Tomb</name>
     <cmt>Clare%20list.htm#gleninsheen</cmt>

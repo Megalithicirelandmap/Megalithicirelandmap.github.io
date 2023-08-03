@@ -5698,6 +5698,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Nobber%20Graveyard,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>  
   </wpt>
+  <wpt lat="53.01584" lon="-9.18039">
+    <name>St Mogua's Church and Cross, Noughaval, Clare</name>
+    <cmt>Clare%20list.htm#noughaval</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Noughaval%20Church%20and%20Cross,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.75261" lon="-6.91301">
     <name>Nurney High Cross, Carlow</name>
     <cmt>Carlow%20list.htm#nurney</cmt>

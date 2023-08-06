@@ -6945,6 +6945,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <cmt>Meath%20list.htm#kells</cmt>
     <desc>&lt;a href="http://megalithicireland.com/St%20John's%20Cemetery,%20Kells,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
+  </wpt>   
+  <wpt lat="54.23091" lon="-5.65736">
+    <name>St John's Point Church and Holy Well</name>
+    <cmt>Down%20list.htm#st%20john's%20point</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20John's%20Point%20Church,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="51.95436" lon="-7.84865">
     <name>St John's Priory, Youghal</name>

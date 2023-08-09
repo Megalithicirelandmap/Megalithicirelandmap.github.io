@@ -6586,6 +6586,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Bartholomews%20Holy%20Well,%20Kinsalebeg,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.27266" lon="-6.08543">
+    <name>St Begnet's Church, Dalkey Island</name>
+    <cmt>Dublin%20list.htm#st%20dalkey%20island</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Begnet's%20Church,%20Dalkey%20Island.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.40972" lon="-8.07528">
     <name>St Berriherts Well</name>
     <cmt>Tipperary%20List.htm#st%20berriherts%20well</cmt>

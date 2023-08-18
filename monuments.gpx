@@ -3039,12 +3039,7 @@
     <desc>&lt;a href="http://megalithicireland.com/Emlagh%20East%20Ogham%20Stone,%20Dingle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
-  <wpt lat="52.84601" lon="-8.98166">
-    <name>Ennis Friary, Clare</name>
-    <cmt>Clare%20list.htm#ennis%20friary</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Ennis%20Friary,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#abbeys</sym>
-  </wpt>
+
   <wpt lat="52.50139" lon="-6.56722">
     <name>Enniscorthy Castle</name>
     <cmt>Wexford%20%20list.htm#enniscorthy</cmt>

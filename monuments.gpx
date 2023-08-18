@@ -3039,6 +3039,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Emlagh%20East%20Ogham%20Stone,%20Dingle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="52.84601" lon="-8.98166">
+    <name>Ennis Friary, Clare</name>
+    <cmt>Clare%20list.htm#Ennis%20Friary</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ennis%20Friary,%20%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.50139" lon="-6.56722">
     <name>Enniscorthy Castle</name>
     <cmt>Wexford%20%20list.htm#enniscorthy</cmt>
@@ -5685,6 +5691,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <cmt>Kilkenny%20list.htm#newmarket</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Newmarket%20Portal%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
+  </wpt>
+  <wpt lat="53.10378" lon="-9.16913">
+    <name>Newtown Tower House, Clare</name>
+    <cmt>Clare%20list.htm#newtown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Newtown%20Tower%20House,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.55563" lon="-6.77249">
     <name>The Cathedral Newtown Trim</name>

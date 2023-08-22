@@ -4437,6 +4437,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilmackowen%20Wedge%20Tomb,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#wedgetombs</sym>
   </wpt>
+  <wpt lat="52.94365" lon="-9.37561">
+    <name>Kilmacrehy Church, Laghcloon, Clare</name>
+    <cmt>Clare%20list.htm#laghcloon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilmacrehy%20Church,%20Laghcloon,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.70931" lon="-6.17667">
     <name>Kilgorman Graveslab</name>
     <cmt>Wexford%20list.htm#kilgorman</cmt>

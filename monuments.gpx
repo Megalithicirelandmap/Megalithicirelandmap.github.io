@@ -129,6 +129,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Aghaviller%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.88316" lon="-7.33576">
+    <name>Aghawee Portal Tomb, Cavan</name>
+    <cmt>Cavan%20list.htm#aghawee</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Aghawee%20Portal%20Tomb,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="54.16647" lon="-6.43810">
     <name>Aghmakane Portal Tomb</name>
     <cmt>Armagh%20list.htm#aghmakane</cmt>

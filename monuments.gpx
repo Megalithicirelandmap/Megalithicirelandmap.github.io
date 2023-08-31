@@ -5121,6 +5121,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Lios%20Stone%20Circle.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="52.93544" lon="-9.39410">
+    <name>Liscannor Castle, Clare</name>
+    <cmt>Clare%20list.htm#liscannor</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Liscannor%20Castle,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.66920" lon="-6.73054">
     <name>Liscartan Church, Meath</name>
     <cmt>Meath%20list.htm#liscartan</cmt>

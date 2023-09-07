@@ -3699,6 +3699,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Holy%20Trinity%20Church,%20%20Fethard,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="54.64310" lon="-5.83135">
+    <name>Holywood Priory, Down</name>
+    <cmt>Down%20list.htm#holywood</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Holywood%20Priory,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.12367" lon="-6.92919">
     <name>Hook Lighthouse</name>
     <cmt>Wexford%20list.htm#hook%20lighthouse</cmt>

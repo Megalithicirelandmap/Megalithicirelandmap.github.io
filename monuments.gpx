@@ -357,6 +357,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ardristan.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="55.12251" lon="-8.15836">
+  <name>Ards Beg Portal Tomb</name>
+  <cmt>Donegal%20list.htm#ards%20beg</cmt>
+  <desc>&lt;a href="http://megalithicireland.com/Ards%20Beg%20Portal%20Tomb,%20Donegal.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+  <sym>subject#portaltombs</sym>
+  </wpt> 
   <wpt lat="53.02500" lon="-6.91500">
     <name>Ardscull Motte</name>
     <cmt>Kildare%20list.htm#ardscull</cmt>

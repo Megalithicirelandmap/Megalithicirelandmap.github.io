@@ -2547,6 +2547,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Fore%20Abbey,%20Westmeath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="55.13502" lon="-7.86419">
+    <name>Doe Castle, Donegal </name>
+    <cmt>Donegal%20list.htm#doe%20castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Doe%20Castle,%20Donegal.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="54.10704" lon="-9.16580">
     <name>Dolmen of the Four Maols</name>
     <cmt>Mayo%20list.htm#ballina</cmt>

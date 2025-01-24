@@ -2673,6 +2673,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Drakestown%20Cross%20Slab,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>  
   </wpt>
+  <wpt lat="53.32494" lon="-6.33262">
+   <name>Drimnagh Castle, Dublin</name>
+   <cmt>Dublin%20list.htm#drimnagh%20castle</cmt>
+   <desc>&lt;a href="http://megalithicireland.com/Drimnagh%20Castle,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+   <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="51.83235" lon="-9.51266">
     <name> Dromagorteen Bullaun Stone</name>
     <cmt>Kerry%20list.htm#bonane</cmt>

@@ -3105,6 +3105,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Enniscorthy%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="55.15468" lon="-8.05932">
+    <name>Errarooey Beg Portal Tomb</name>
+    <cmt>Donegal%20list.htm#errarooey%20beg</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Errarooey%20Beg%20Portal%20Tomb,%20Donegal.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="54.45867" lon="-7.09798">
     <name>Errigal Keerogue Church</name>
     <cmt>Tyrone%20list.htm#errigal%20keerogue</cmt>

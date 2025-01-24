@@ -2439,6 +2439,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cullenstown%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.21809" lon="-6.32844">
+    <name>Cunard Portal Tomb, Dublin </name>
+    <cmt>Dublin%20list.htm#cunard</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cunard%20Portal%20Tomb,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="53.79361" lon="-8.30278">
     <name>Daithi's Stone</name>
     <cmt>Roscommon%20list.htm#rathcroghan</cmt>

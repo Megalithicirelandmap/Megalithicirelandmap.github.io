@@ -7978,6 +7978,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Tomhaggard%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="55.26430" lon="-8.22856">
+    <name>Tory Island Round Tower, Donegal </name>
+    <cmt>Donegal%20list.htm#round%20tower</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tory%20Island%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#roundtowers</sym>
+  </wpt>
   <wpt lat="53.72120" lon="-6.45121">
     <name>Townleyhall Passage Tomb</name>
     <cmt>Louth%20list.htm#townleyhall</cmt>

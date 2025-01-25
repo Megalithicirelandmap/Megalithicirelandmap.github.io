@@ -6256,6 +6256,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Ratoo%20Round%20Tower,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="55.14736" lon="-8.07068">
+    <name>Ray Church and High Cross, Donegal </name>
+    <cmt>Donegal%20list.htm#ray%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ray%20Church,%20Donegal.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="51.61778" lon="-9.06333">
     <name>Reanascreena Stone Circle</name>
     <cmt>Cork%20list.htm#reanascreena</cmt>

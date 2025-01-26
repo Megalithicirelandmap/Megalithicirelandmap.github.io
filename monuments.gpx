@@ -7612,6 +7612,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Temple%20Finghin,%20Clonmacnoise.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.13085" lon="-9.75892">
+    <name>Temple MacDuagh, Inishmore </name>
+    <cmt>Galway%20list.htm#temple%20macduagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Temple%20MacDuagh,%20Inishmore,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.32619" lon="-7.98529">
     <name>Temple Melaghlin</name>
     <cmt>Offaly%20list.html#clonmacnoise</cmt>

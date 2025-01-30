@@ -3171,6 +3171,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Feartagar%20Castle,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="54.01801" lon="-7.83503">
+    <name>Fenagh Medieval Church, Leitrim</name>
+    <cmt>Leitrim%20list.htm#fenagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Fenagh%20Churches,%20Leitrim.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt> 
   <wpt lat="52.20889" lon="-6.42278">
     <name>Fence Bullaun Stone</name>
     <cmt>Wexford%20%20list.htm#fence</cmt>

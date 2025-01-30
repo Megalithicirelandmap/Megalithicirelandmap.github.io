@@ -4605,6 +4605,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilmallock%20Town%20Walls,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#walledtowns</sym>
   </wpt>
+  <wpt lat="54.17302" lon="-7.15846">
+    <name>Killeevan Standing Stone, Monaghan </name>
+    <cmt>Monaghan%20list.htm#killeevan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killeevan%20Glebe%20Standing%20Stone,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt> 
   <wpt lat="55.01145" lon="-7.60914">
     <name>Killydonnell Friary</name>
     <cmt>Donegal%20list.htm#killydonnell</cmt>

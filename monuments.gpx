@@ -2186,6 +2186,12 @@
     <cmt>Leitrim%20list.htm#court%20tomb</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Commons%20Court%20Tomb,%20Leitrim.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
+  </wpt>
+  <wpt lat="54.02040" lon="-7.83640">
+    <name>Commons Standing Stone, Leitrim</name>
+    <cmt>Leitrim%20list.htm#standing%20stone</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Commons%20Standing%20Stone,%20Leitrim.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
   </wpt> 
   <wpt lat="53.54028" lon="-9.28694">
     <name>Cong abbey</name>

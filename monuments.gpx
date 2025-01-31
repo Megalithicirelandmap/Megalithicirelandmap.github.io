@@ -2739,6 +2739,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Drombeg.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.84438" lon="-6.43554">
+    <name>Dromin Church and Motte, Louth</name>
+    <cmt>Louth%20list.htm#dromin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dromin%20Church,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.92194" lon="-6.39751">
     <name>Dromiskin High Cross</name>
     <cmt>Louth%20list.htm#high%20cross</cmt>

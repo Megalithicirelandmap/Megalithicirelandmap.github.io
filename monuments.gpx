@@ -699,6 +699,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballyhale%20Church%20and%20Font,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>  
   </wpt>
+  <wpt lat="52.32817" lon="-8.65949">
+    <name>Ballyhay Church, Cork </name>
+    <cmt>Cork%20list.htm#ballyhay</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballyhay%20Church,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.16739" lon="-10.28743">
     <name>Ballyheabought Ringfort</name>
     <cmt>Kerry%20list.htm#ballyheabought</cmt>

@@ -7726,6 +7726,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/The%20Bargaining%20Stone,%20Inishcealtra.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="52.56775" lon="-8.78483">
+    <name>The Black Abbey, Adare</name>
+    <cmt>Limerick%20list.htm#black%20abbey</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Adare%20Augustinian%20Friary,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="53.14528" lon="-6.90389">
     <name> The Black Abbey Kildare</name>
     <cmt>Kildare%20list.htm#kildare</cmt>

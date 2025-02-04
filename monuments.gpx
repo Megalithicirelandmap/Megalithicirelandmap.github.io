@@ -819,6 +819,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballynalackan%20Castle,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="51.70526" lon="-9.67284">
+    <name>Ballynahown Wedge Tomb, Cork</name>
+    <cmt>Cork%20list.htm#ballynahown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballynahown%20Wedge%20Tomb,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt> 
   <wpt lat="54.77389" lon="-5.87528">
     <name>Ballynarry Standing Stone</name>
     <cmt>Antrim%20list.htm#ballynarry</cmt>

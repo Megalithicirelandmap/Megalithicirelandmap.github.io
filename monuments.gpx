@@ -1479,6 +1479,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Carlow%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="54.17950" lon="-7.06589">
+    <name>Carn Court Tomb, Monaghan </name>
+    <cmt>Monaghan%20list.htm#carn</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Carn%20Court%20Tomb,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="54.89583" lon="-6.95500">
     <name>Carnanbane Court Tomb</name>
     <cmt>Derry%20list.htm#carnanbane</cmt>

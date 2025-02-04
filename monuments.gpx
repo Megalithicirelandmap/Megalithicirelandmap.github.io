@@ -6334,6 +6334,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Reginald's%20Tower,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.87287" lon="-6.95213">
+    <name>Relagh Beg Motte and Bailey, Cavan </name>
+    <cmt>Cavan%20list.htm#relagh%20beg</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Relagh%20Beg%20Motte,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt> 
   <wpt lat="53.60722" lon="-10.03000">
     <name>Renvyle Castle</name>
     <cmt>Galway%20list.htm#renvyle</cmt>

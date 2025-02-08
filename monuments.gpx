@@ -2997,6 +2997,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dunhill%20Portal%20Tomb,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="53.83182" lon="-6.39390">
+    <name>Dunleer Cross slabs, Louth</name>
+    <cmt>Louth%20list.htm#dunleer</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dunleer%20Cross%20Slabs,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+    </wpt>
   <wpt lat="52.05972" lon="-9.63389">
     <name>Dunloe Ogham Stones</name>
     <cmt>Kerry%20list.htm#dunloe</cmt>

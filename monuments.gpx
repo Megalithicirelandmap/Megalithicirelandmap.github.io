@@ -1359,6 +1359,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Caher%20Murphy,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="51.69539" lon="-9.91675">
+    <name>Caheravart Ecclesiastical Site, Cork</name>
+    <cmt>Cork%20list.htm#caheravart</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Caheravart%20ecclesiastical%20site,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+</wpt> 
   <wpt lat="53.01472" lon="-9.07056">
     <name>Cahercommaun Cliff Fort</name>
     <cmt>Clare%20list.htm#cahercommaun</cmt>

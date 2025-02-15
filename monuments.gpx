@@ -963,6 +963,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Banagher%20Church,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="53.94489" lon="-7.28986">
+    <name>Banagher Passage Tomb, Cavan </name>
+    <cmt>Cavan%20list.htm#banagher</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Banagher%20Passage%20Tomb,%20Slieve%20Glagh,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#passagetombs</sym>
+  </wpt> 
   <wpt lat="54.27227" lon="-9.22558">
     <name>Banagher Standing Stone</name>
     <cmt>Mayo%20list.htm#banagher</cmt>

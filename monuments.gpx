@@ -1209,6 +1209,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Brackloon%20standing%20stone%20and%20Rock%20art,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="51.88674" lon="-10.41417">
+    <name>Bray Hut Sites, Valentia, Kerry,</name>
+    <cmt>Kerry%20list.htm#bray</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Bray%20Hut%20Sites,%20Valentia,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt> 
   <wpt lat="54.24653" lon="-9.25366">
     <name>Breastagh Ogham Stone</name>
     <cmt>Mayo%20list.htm#breastagh</cmt>

@@ -5553,6 +5553,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Middletown%20Motte,%20Ardamine,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="53.88063" lon="-7.47876">
+    <name>Middletown Portal Tomb, Cavan </name>
+    <cmt>Cavan%20list.htm#middletown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Middletown%20Portal%20Tomb,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="53.41194" lon="-8.01972">
     <name>Mihanboy Portal Tomb</name>
     <cmt>Roscommon%20list.htm#mihanboy</cmt>

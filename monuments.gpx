@@ -2271,6 +2271,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Coolhull%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="55.18884" lon="-7.06158">
+    <name>Cooly Early Ecclesiastical Site, Donegal </name>
+    <cmt>Donegal%20list.htm#cooly</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cooly%20Early%20Ecclesiastical%20Site,%20Donegal.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="51.82361" lon="-10.31361">
     <name>Coom Wedge Tomb</name>
     <cmt>Kerry%20list.htm#coom</cmt>

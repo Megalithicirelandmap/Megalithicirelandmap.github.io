@@ -3921,6 +3921,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Inishcealtra,%20The%20Saints%20Graveyard.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="54.13229" lon="-10.18827">
+    <name>Inishkea North Early Christian Site, Mayo</name>
+    <cmt>Mayo%20list.htm#inishkea%20north</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inishkea%20North,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt> 
   <wpt lat="54.84749" lon="-8.45137">
     <name>Inishkeel Monastic Site</name>
     <cmt>Donegal%20list.htm#inishkeel</cmt>

@@ -5271,6 +5271,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Liscartan%20Church,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.55723" lon="-9.47006">
+    <name>Lislaughtin Friary, Kerry,</name>
+    <cmt>Kerry%20list.htm#lislaughtin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lislaughtin%20Friary,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt> 
   <wpt lat="54.01330" lon="-6.89564">
     <name>Lisnadarragh Wedge Tomb</name>
     <cmt>Monaghan%20list.htm#lisnadarragh</cmt>

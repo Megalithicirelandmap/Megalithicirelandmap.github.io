@@ -4233,6 +4233,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilcashel.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="51.70823" lon="-9.71054">
+    <name>Kilcaskan Ogham Stone, Cork</name>
+    <cmt>Cork%20list.htm#kilcaskan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilcaskan%20Ogham%20Stone,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#ogham</sym>
+  </wpt> 
   <wpt lat="51.71559" lon="-9.96916">
     <name>Kilcatherine Church, Cork</name>
     <cmt>Cork%20list.htm#gortgarriff</cmt>

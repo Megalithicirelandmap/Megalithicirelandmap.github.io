@@ -51,6 +51,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Adare%20Ogham%20Stones.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="52.73488" lon="-6.91925">
+    <name>Agha Pre-Norman Church, Carlow</name>
+    <cmt>Carlow%20list.htm#agha</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Agha%20Pre-Norman%20Church,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt> 
   <wpt lat="52.92223" lon="-7.51403">
     <name>Aghaboe Abbey and Motte</name>
     <cmt>Laois%20list.htm#aghaboe</cmt>
@@ -2865,6 +2871,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Drumcooly%20Motte.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="53.97032" lon="-6.98491">
+    <name>Drumeague Wedge Tomb, Cavan </name>
+    <cmt>Cavan%20list.htm#drumeague</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Drumeague%20Wedge%20Tomb,%20Cavan.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt> 
   <wpt lat="54.23833" lon="-5.98972">
     <name>Drumena Stone Fort</name>
     <cmt>Down%20list.htm#drumena</cmt>

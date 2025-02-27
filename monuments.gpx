@@ -7096,6 +7096,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Declan's%20Oratory%20Ardmore.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="54.09876" lon="-10.11073">
+    <name>St Deirbhile's Holy Well, Mayo</name>
+    <cmt>Mayo%20list.htm#fallmore%20holy%20well</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Deirbhile's%20Holy%20Well,%20Fallmore,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#holywells</sym>
+  </wpt> 
   <wpt lat="52.51805" lon="-7.88773">
     <name>St Dominic's Friary, Cashel</name>
     <cmt>Tipperary%20list.htm#cashel</cmt>

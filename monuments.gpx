@@ -8158,6 +8158,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Tomhaggard%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="55.26369" lon="-8.23148">
+    <name>Church of Morsheisear, Tory</name>
+    <cmt>Donegal%20list.htm#tory%20island%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tory%20Island%20Church.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="55.26430" lon="-8.22856">
     <name>Tory Island Round Tower, Donegal </name>
     <cmt>Donegal%20list.htm#round%20tower</cmt>

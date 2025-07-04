@@ -3945,6 +3945,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Inishcealtra,%20The%20Saints%20Graveyard.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="54.20846" lon="-10.11913">
+    <name>Inishglora, Early Christian site, Mayo</name>
+    <cmt>Mayo%20list.htm#inishglora</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inishglora,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#oratories</sym>
+  </wpt> 
   <wpt lat="54.13229" lon="-10.18827">
     <name>Inishkea North Early Christian Site, Mayo</name>
     <cmt>Mayo%20list.htm#inishkea%20north</cmt>

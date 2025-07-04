@@ -3956,6 +3956,12 @@
     <cmt>Mayo%20list.htm#inishkea%20north</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Inishkea%20North,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
+  </wpt>
+  <wpt lat="54.11841" lon="-10.20723">
+    <name>Inishkea South, Early Christian site, Mayo</name>
+    <cmt>Mayo%20list.htm#south</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inishkea%20South,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt> 
   <wpt lat="54.84749" lon="-8.45137">
     <name>Inishkeel Monastic Site</name>

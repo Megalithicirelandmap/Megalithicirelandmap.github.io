@@ -243,6 +243,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Annaghmore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="54.72406" lon="-6.20896">
+    <name>Antrim Round Tower</name>
+    <cmt>Antrim%20list.htm#antrim</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Antrim%20Round%20Tower,%20Antrim.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#roundtowers</sym>
+  </wpt>
   <wpt lat="52.13306" lon="-10.15833">
     <name>Ardamore Standing Stone</name>
     <cmt>Kerry%20list.htm#ardamore</cmt>

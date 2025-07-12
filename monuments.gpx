@@ -2109,6 +2109,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clonenagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.17806" lon="-7.23104">
+    <name>Clones Augustinian Abbey, Monaghan</name>
+    <cmt>Monaghan%20list.htm#abbey</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clones%20Augustinian%20Abbey,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt> 
   <wpt lat="54.17946" lon="-7.23254">
     <name>Clones High Cross</name>
     <cmt>Monaghan%20list.htm#high%20cross</cmt>

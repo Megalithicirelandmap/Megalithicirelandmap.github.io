@@ -2943,6 +2943,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Drumskinny.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="53.87652" lon="-7.27902">
+    <name>Duffcastle Portal Tomb</name>
+    <cmt>Cavan%20list.htm#duffcastle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Duffcastle%20Portal%20Tomb,%20Cavan.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="53.75365" lon="-6.87844">
     <name>Dulane Church, Meath</name>
     <cmt>Meath%20list.htm#dulane</cmt>

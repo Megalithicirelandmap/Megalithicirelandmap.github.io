@@ -3213,6 +3213,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Enniscorthy%20Castle,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.89198" lon="-6.79610">
+    <name>Enniskeen Graveyard</name>
+    <cmt>Cavan%20list.htm#enniskeen</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Enniskeen%20Graveyard,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#grave</sym>
+  </wpt> 
   <wpt lat="55.15468" lon="-8.05932">
     <name>Errarooey Beg Portal Tomb</name>
     <cmt>Donegal%20list.htm#errarooey%20beg</cmt>

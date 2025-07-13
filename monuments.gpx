@@ -992,7 +992,13 @@
     <cmt>Cavan%20list.htm#banagher</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Banagher%20Passage%20Tomb,%20Slieve%20Glagh,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
-  </wpt> 
+  </wpt>
+  <wpt lat="53.94464" lon="-7.28348">
+    <name>Bangher Portal Tomb, Cavan</name>
+    <cmt>Cavan%20list.htm#portal%20tomb</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Banagher%20Portal%20Tomb,%20Slieve%20Glagh,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="54.27227" lon="-9.22558">
     <name>Banagher Standing Stone</name>
     <cmt>Mayo%20list.htm#banagher</cmt>

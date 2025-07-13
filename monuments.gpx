@@ -994,7 +994,7 @@
     <sym>subject#passagetombs</sym>
   </wpt>
   <wpt lat="53.94464" lon="-7.28348">
-    <name>Bangher Portal Tomb, Cavan</name>
+    <name>Banagher Portal Tomb, Cavan</name>
     <cmt>Cavan%20list.htm#portal%20tomb</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Banagher%20Portal%20Tomb,%20Slieve%20Glagh,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
@@ -1004,6 +1004,12 @@
     <cmt>Mayo%20list.htm#banagher</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Banagher%20Standing%20Stone,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
+  </wpt>
+  <wpt lat="53.94547" lon="-7.29069">
+    <name>Banagher Stone Circle (NW), Cavan</name>
+    <cmt>Cavan%20list.htm#stone%20circle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Banagher%20Stone%20Circle%20NW,%20Slieve%20Glagh,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
   </wpt>
   <wpt lat="54.65571" lon="-5.67499">
     <name>Bangor Abbey, Down</name>

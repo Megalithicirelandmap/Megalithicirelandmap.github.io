@@ -381,6 +381,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ardscull%20Motte.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="54.34399" lon="-6.65358">
+    <name>Armagh Friary, Armagh</name>
+    <cmt>Armagh%20list.htm#friary</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Armagh%20Friary,%20Armagh.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="55.13474" lon="-6.31068">
     <name>Armoy Round Tower, Antrim </name>
     <cmt>Antrim%20list.htm#armoy</cmt>

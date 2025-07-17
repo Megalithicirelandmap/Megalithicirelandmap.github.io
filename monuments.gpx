@@ -1023,6 +1023,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Bangor%20Abbey,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="54.65652" lon="-5.66894">
+    <name>Bangor Sundial, Down</name>
+    <cmt>Down%20list.htm#sundial</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Bangor%20Sundial,%20Bangor,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.21063" lon="-6.79412">
     <name>Bannow Church</name>
     <cmt>Wexford%20list.htm#bannow</cmt>

@@ -7390,6 +7390,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20Machain's%20Well,%20Killincooly,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="54.65647" lon="-5.67382">
+    <name>St Malachy's Wall, Down</name>
+    <cmt>Down%20list.htm#malachy's%20wall</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Malachy's%20Wall,%20Bangor,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="53.29259" lon="-7.74279">
     <name>St Manchan's  Well and Bullaun Lemanaghan</name>
     <cmt>Offaly%20list.html#lemanaghan</cmt>

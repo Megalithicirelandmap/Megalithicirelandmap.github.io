@@ -219,6 +219,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Annaghdown%20Abbey%20of%20St%20Mary,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.13202" lon="-9.68039">
+    <name>An Atharla, Childrens burial ground, Inishmore</name>
+    <cmt>Galway%20list.htm#an%20atharla</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/An%20Atharla,%20Inishmore,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.38500" lon="-9.07056">
     <name>Annaghdown Castle</name>
     <cmt>Galway%20list.htm#castle</cmt>

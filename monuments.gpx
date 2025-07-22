@@ -8110,6 +8110,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Threecastles,%20Wicklow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.23863" lon="-6.28015">
+    <name>Tibradden Burial Cairn, Dublin</name>
+    <cmt>Dublin%20list.htm#tibradden</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tibradden%20Cairn,%20Dublin.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonecircles</sym>
+  </wpt>
   <wpt lat="52.96056" lon="-7.20361">
     <name>Timahoe Round Tower</name>
     <cmt>Laois%20List.html#timahoe</cmt>

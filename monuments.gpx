@@ -249,6 +249,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Annaghmore.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="54.71549" lon="-6.22356">
+    <name>Antrim Castle</name>
+    <cmt>Antrim%20list.htm#castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Antrim%20Castle,%20Antrim.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="54.72406" lon="-6.20896">
     <name>Antrim Round Tower</name>
     <cmt>Antrim%20list.htm#antrim</cmt>

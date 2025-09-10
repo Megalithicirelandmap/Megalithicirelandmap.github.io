@@ -4155,6 +4155,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Inishlounaght%20Abbey,%20Clonmel,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="54.43555" lon="-7.74549">
+    <name>Inishmacsaint Monastery</name>
+    <cmt>Fermanagh%20list.htm#inishmacsaint</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Inishmacsaint%20Monastery,%20Fermanagh.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.34822" lon="-6.51717">
     <name>Irish National Heritage Park</name>
     <cmt>Wexford%20list.htm#heritage%20park</cmt>

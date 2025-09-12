@@ -3261,6 +3261,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Emlagh%20East%20Ogham%20Stone,%20Dingle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="53.74536" lon="-8.45627">
+    <name>Emlagh High Cross fragments</name>
+    <cmt>Roscommon%20list.htm#emlagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Emlagh,%20Roscommon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.84601" lon="-8.98166">
     <name>Ennis Friary, Clare</name>
     <cmt>Clare%20list.htm#ennis%20friary</cmt>

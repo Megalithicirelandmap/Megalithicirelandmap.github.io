@@ -7150,6 +7150,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Durrow.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="53.69725" lon="-10.09621">
+    <name>St Columba's Chapel, Inishturk, Mayo</name>
+    <cmt>Mayo%20list.htm#craggy</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/St%20Columba's%20Chapel,%20Inishturk,%20Mayo.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#oratories</sym>
+  </wpt> 
   <wpt lat="52.48928" lon="-7.06808">
     <name>St Columcille's Well, Inistioge</name>
     <cmt>Kilkenny%20list.htm#inistioge</cmt>

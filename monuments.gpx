@@ -3753,6 +3753,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Glenroan%20Portal%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#portaltombs</sym>
   </wpt>
+  <wpt lat="52.18652" lon="-10.28495">
+    <name>Glin North Cross Slabs and Calluragh</name>
+    <cmt>Kerry%20list.htm#glin%20north</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glin%20North,%20Cross%20slabs,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="54.79670" lon="-6.95852">
     <name>Goles Stone Row</name>
     <cmt>Tyrone%20list.htm#goles%20stone%20row</cmt>

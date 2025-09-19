@@ -225,6 +225,12 @@
     <desc>&lt;a href="http://megalithicireland.com/An%20Atharla,%20Inishmore,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="52.24843" lon="-9.75478">
+    <name>Annagh Medieval Church</name>
+    <cmt>Kerry%20list.htm#annagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Annagh%20Medieval%20Church,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.38500" lon="-9.07056">
     <name>Annaghdown Castle</name>
     <cmt>Galway%20list.htm#castle</cmt>
@@ -2252,6 +2258,12 @@
     <cmt>Armagh%20list.htm#clontygora</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Clontygora.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
+  </wpt>
+  <wpt lat="53.94694" lon="-7.78431">
+    <name>Cloone High Cross fragments</name>
+    <cmt>Leitrim%20list.htm#cloone</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Cloone,%20Leitrim.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
   </wpt>
   <wpt lat="53.71364" lon="-9.88316">
     <name>Cloonlaur, The Marigold Stone</name>
@@ -6326,7 +6338,7 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <name>Ratass Ogham Stone</name>
     <cmt>Kerry%20list.htm#ratass</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Ratass%20Church,%20Tralee,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-  <sym>subject#church</sym> 
+  <sym>subject#ogham</sym> 
   </wpt>
   <wpt lat="53.69795" lon="-6.76036">
     <name>Rath Airthir, Meath</name>

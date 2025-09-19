@@ -3807,6 +3807,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballysean%20Castle,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>  
   </wpt>
+  <wpt lat="52.15150" lon="-10.45898">
+    <name>Graigue Standing Stone, (Dunurlin)</name>
+    <cmt>Kerry%20list.htm#graigue%20dunurlin</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Graigue,%20Dunurlin,%20Standing%20Stone,%20Kerry.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.13611" lon="-10.14528">
     <name>Graigue Standing Stone</name>
     <cmt>Kerry%20list.htm#graigue</cmt>

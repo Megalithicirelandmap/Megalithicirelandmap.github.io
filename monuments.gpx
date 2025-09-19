@@ -3771,6 +3771,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Gorey%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.14729" lon="-10.09744">
+    <name>Gortacurraun Cross slab</name>
+    <cmt>Kerry%20list.htm#gortacurraun</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Gortacurraun,%20Cross%20slab,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.92601" lon="-7.46433">
     <name>Gortnaclea Castle</name>
     <cmt>Laois%20list.htm#gortnaclea</cmt>

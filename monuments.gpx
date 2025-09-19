@@ -579,6 +579,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballinkillin%20Rock%20Art,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#rockart</sym>
   </wpt>
+  <wpt lat="52.20242" lon="-10.30119">
+    <name>Ballinloghig Standing Stone</name>
+    <cmt>Kerry%20list.htm#ballinloghig</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballinloghig%20Standing%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.17861" lon="-10.38806">
     <name>Ballinrannig Ogham Stone</name>
     <cmt>Kerry%20list.htm#ballinrannig</cmt>

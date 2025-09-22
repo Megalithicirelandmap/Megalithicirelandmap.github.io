@@ -573,6 +573,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballindoon%20Priory.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="52.13925" lon="-10.22285">
+    <name>Ballineetig Standing Stone</name>
+    <cmt>Kerry%20list.htm#ballineetig</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballineetig%20Standing%20Stone,%20Kerry.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.65167" lon="-6.92389">
     <name>Ballinkillin Rock Art</name>
     <cmt>Carlow%20list.htm#ballinkillin</cmt>
@@ -4628,6 +4634,12 @@
     <cmt>Kildare%20list.htm#killelan</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Killelan%20Fortified%20Church,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>  
+  </wpt>
+  <wpt lat="52.22810" lon="-9.87363">
+    <name>Killelton Church</name>
+    <cmt>Kerry%20list.htm#killelton</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killelton%20Church%20and%20Bullaun%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="51.84806" lon="-10.33194">
     <name>Killemnagh Church</name>

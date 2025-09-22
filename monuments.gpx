@@ -4641,6 +4641,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Killelton%20Church%20and%20Bullaun%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.22877" lon="-9.87790">
+    <name>Killelton, Cloch na Croise</name>
+    <cmt>Kerry%20list.htm#killelton%20clochnacrusha</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killelton%20Cross%20Inscribed%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="51.84806" lon="-10.33194">
     <name>Killemnagh Church</name>
     <cmt>Kerry%20list.htm#rathkieran</cmt>

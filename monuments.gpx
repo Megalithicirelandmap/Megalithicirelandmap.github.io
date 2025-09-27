@@ -879,6 +879,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballymote%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="52.23835" lon="-7.03228">
+    <name>Ballynabola Standing Stone, Waterford</name>
+    <cmt>Waterford%20list.htm#ballynabola</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballynabola%20Standing%20Stone,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.17778" lon="-7.27694">
     <name>Ballynageeragh Portal Tomb</name>
     <cmt>Waterford%20list.htm#ballynageeragh</cmt>
@@ -1418,6 +1424,12 @@
     <cmt>Cork%20list.htm#buttevant%20abbey</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Buttevant%20Abbey,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
+  </wpt>
+  <wpt lat="52.22772" lon="-8.66882">
+    <name>Buttevant Castle, Cork</name>
+    <cmt>Cork%20list.htm#%20buttevant%20castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Buttevant%20Castle,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
   </wpt>
   <wpt lat="54.17329" lon="-8.67307">
     <name>Cabragh Wedge Tomb</name>
@@ -2564,6 +2576,12 @@
     <cmt>Galway%20list.htm#inishbofin</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Cromwell's%20Fort,%20Inishbofin,%20Galway.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
+  </wpt>
+  <wpt lat="52.22814" lon="-6.97952">
+    <name>Crooke Medieval Church, Waterford</name>
+    <cmt>Waterford%20list.htm#crooke</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Crooke%20Church,%20Waterford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
   </wpt>
   <wpt lat="53.71730" lon="-9.90180">
     <name>Cross Stone Pair</name>
@@ -5510,6 +5528,12 @@
     <cmt>Kerry%20list.htm#loher</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Loher%20Stone%20Fort.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
+  </wpt>
+  <wpt lat="52.22995" lon="-8.67038">
+    <name>Lombard Castle, Cork</name>
+    <cmt>Cork%20list.htm#%20lombard%20castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Lombard%20Castle,%20Buttevant,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
   </wpt>
   <wpt lat="53.09192" lon="-8.12142">
     <name>Lorrha Augustinian Abbey</name>

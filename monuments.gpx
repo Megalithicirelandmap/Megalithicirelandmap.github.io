@@ -1427,7 +1427,7 @@
   </wpt>
   <wpt lat="52.22772" lon="-8.66882">
     <name>Buttevant Castle, Cork</name>
-    <cmt>Cork%20list.htm#%20buttevant%20castle</cmt>
+    <cmt>Cork%20list.htm#buttevant%20castle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Buttevant%20Castle,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
@@ -5531,7 +5531,7 @@
   </wpt>
   <wpt lat="52.22995" lon="-8.67038">
     <name>Lombard Castle, Cork</name>
-    <cmt>Cork%20list.htm#%20lombard%20castle</cmt>
+    <cmt>Cork%20list.htm#lombard%20castle</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Lombard%20Castle,%20Buttevant,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>

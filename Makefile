@@ -6,4 +6,4 @@
 gpxlint: tools/monuments.rng monuments.gpx
 	# xmllint: sudo apt-get install libxml2-utils
 	# tools/monuments.rng is a stricter form of http://www.topografix.com/GPX/1/1/gpx.xsd
-	xmllint --relaxng $^
+	xmllint --noout --relaxng $^

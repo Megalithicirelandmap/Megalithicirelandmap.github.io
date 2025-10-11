@@ -39,7 +39,7 @@ start =
           
           ## VERY scrupulous.
           pattern =
-            "[A-Z][a-z]+(%20)+[Ll]ist\.html?#[a-z'2\-/]+(%20[a-z2-7'\-]*)*"
+            "[A-Z][a-z]+(%20)+[Ll]ist\.html?#[a-z'2\-/]+(%20[a-z2-7'\-]+)*"
         }
       },
       

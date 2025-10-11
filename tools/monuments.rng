@@ -48,7 +48,7 @@ Elements MUST appear in order!
           <element name="cmt">
             <a:documentation>county list page, mandatory</a:documentation>
             <data type="string">
-              <param name="pattern">[A-Z][a-z]+(%20)+[Ll]ist\.html?#[a-z'2\-/]+(%20[a-z2-7'\-]*)*</param>
+              <param name="pattern">[A-Z][a-z]+(%20)+[Ll]ist\.html?#[a-z'2\-/]+(%20[a-z2-7'\-]+)*</param>
               <a:documentation>VERY scrupulous.</a:documentation>
             </data>
           </element>

@@ -3525,6 +3525,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Gallen%20Priory,%20Offaly.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#crossslabs</sym>
   </wpt>
+  <wpt lat="54.15145" lon="-7.40236">
+    <name>Galloon High Cross</name>
+    <cmt>Fermanagh%20list.htm#galloon</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Galloon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="54.17797" lon="-7.08674">
     <name>Garran Portal Tomb</name>
     <cmt>Monaghan%20list.htm#garran</cmt>

@@ -5357,8 +5357,9 @@
   </wpt>
   <wpt lat="52.20806" lon="-6.38250">
     <name>Lady's Island Church</name>
-    <cmt>Wexford%20%20list.htm#church</cmt>
-    <desc>&lt;a href="http://megalithicireland.com/Lady's%20Island%20Parish%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <!-- this is an experimental alternate 'spelling' - a more human readable form wrapped inside <![CDATA[…]]> -->
+    <cmt>Wexford list.htm#church</cmt>
+    <desc><![CDATA[<a href="http://megalithicireland.com/Lady's%20Island%20Parish%20Church,%20Wexford.html?src=gpx">@megalithicireland.com</a>]]></desc>
     <sym>subject#church</sym>
   </wpt>
   <wpt lat="52.20861" lon="-6.38167">

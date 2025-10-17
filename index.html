@@ -1,44 +1,46 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+  <meta name="generator" content="HTML Tidy for HTML5 for FreeBSD version 5.8.0" />
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <!-- http://leafletjs.com/examples/quick-start.html -->
-  <!-- http://cdn.leafletjs.com/leaflet/v0.7.7/ -->
   <link rel="stylesheet" href="leaflet.css" type="text/css" />
   <script src="leaflet.js" type="text/javascript">
-//<![CDATA[
+  //<![CDATA[
   // http://cdn.leafletjs.com/leaflet/v0.7.7/
   //]]>
   </script>
   <script src="gpx.js" type="text/javascript">
-//<![CDATA[
+  //<![CDATA[
   // https://rawgit.com/mpetazzoni/leaflet-gpx/master/
   //]]>
   </script>
-
-  <!-- https://github.com/Leaflet/Leaflet.markercluster
-   http://gis.stackexchange.com/a/123068 -->
   <link rel="stylesheet" href="./MarkerCluster.css" />
   <link rel="stylesheet" href="./MarkerCluster.Default.css" />
   <script src="./leaflet.markercluster-src.js"></script>
-
   <title>Megalithic Ireland Maps</title>
   <style type="text/css">
-/*<![CDATA[*/
+  /*<![CDATA[*/
+  body {
+    margin: 0;
+  }
   #mapdiv {
-    height: 95vh;
+    height: 100vh;
+  }
+  [role="contentinfo"] {
+    left:     3em;
+    position: absolute;
+    top:      0;
   }
   /*]]>*/
   </style>
 </head>
-
 <body>
-  <div id="mapdiv"></div>
+  <div role="main" id="mapdiv"></div>
   <script type="text/javascript">
-//<![CDATA[
+  //<![CDATA[
   var map = null;
   {
     var centerGps = new L.LatLng(53.45862, -7.53662);
@@ -124,10 +126,9 @@
 
   //]]>
   </script>
-
-  <p id="explanation">POIs loaded directly from <a href="monuments.gpx"><tt>monuments.gpx</tt></a>,
-  Map  <a href="http://mapicons.nicolasmollet.com/markers/">Icons by Nicolas
-  Mollet</a>. <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons 3.0
+  <p role="contentinfo">POIs: <a href="monuments.gpx"><tt>monuments.gpx</tt></a>,
+  Icons by <a href="http://mapicons.nicolasmollet.com/markers/">Nicolas Mollet</a>. <a rel=
+  "license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons 3.0
   BY-SA</a>.</p>
 </body>
 </html>

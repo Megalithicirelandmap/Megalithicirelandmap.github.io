@@ -6695,6 +6695,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Rindoon%20Castle,%20Roscommon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.53819" lon="-7.99333">
+    <name>Rindoon Parish Church</name>
+    <cmt>Roscommon%20list.htm#rindoon%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rindoon%20Parish%20Church,%20Roscommon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.80168" lon="-6.80909">
     <name>Robertstown Castle</name>
     <cmt>Meath%20list.htm#robertstown</cmt>

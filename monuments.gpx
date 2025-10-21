@@ -4023,6 +4023,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Hore%20Abbey.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.54407" lon="-8.00263">
+    <name>Rindoon Hospital Church</name>
+    <cmt>Roscommon%20list.htm#rindoon%20hospital</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Hospital%20of%20St%20John%20the%20Baptist,%20Rindoon,%20Roscommon.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.21806" lon="-6.34694">
     <name>Hilltown Standing Stone</name>
     <cmt>Wexford%20%20list.htm#hilltown</cmt>

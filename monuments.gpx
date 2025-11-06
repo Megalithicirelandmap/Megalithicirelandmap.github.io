@@ -3627,6 +3627,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Glannagalt%20Cross%20slab,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="52.20953" lon="-9.94631">
+    <name>Glannagalt Standing Stone</name>
+    <cmt>Kerry%20list.htm#glannagalt%20standing%20stone</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Glannagalt%20Standing%20Stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="51.99556" lon="-9.05083">
     <name>Glantane East Stone Row</name>
     <cmt>Cork%20list.htm#glantane%20east</cmt>

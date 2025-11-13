@@ -4791,6 +4791,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Killovarnogue%20Oratory,,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="53.51374" lon="-7.14429">
+    <name>Killucan Font</name>
+    <cmt>Westmeath%20list.htm#killucan%20font</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killucan%20Font,%20Westmeath.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="53.51139" lon="-7.14528">
     <name>Killucan Wayside Crosses</name>
     <cmt>Westmeath%20list.htm#killucan</cmt>

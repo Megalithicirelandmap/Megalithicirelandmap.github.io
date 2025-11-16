@@ -8111,6 +8111,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Temple-na-Skellig,%20Glendalough.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="52.10587" lon="-10.41098">
+    <name>Templebeg, Fahan</name>
+    <cmt>Kerry%20list.htm#fahan</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Templebeg,%20Fahan,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="51.64472" lon="-8.88574">
     <name>Templebryan Ogham and Bullaun Stone</name>
     <cmt>Cork%20list.htm#templebryan</cmt>

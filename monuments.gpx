@@ -5914,6 +5914,12 @@
     <desc>&lt;a href="http://megalithicireland.com/The%20Milestone%20Milltown.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="52.13753" lon="-10.29668">
+    <name>Milltown Standing Stone, South</name>
+    <cmt>Kerry%20list.htm#milltown%20standing%20stone%20(s)</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Milltown%20Standing%20Stone%20(S)%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#standingstones</sym>
+  </wpt>
   <wpt lat="52.14028" lon="-10.29472">
     <name>Milltown Stone Pair</name>
     <cmt>Kerry%20list.htm#milltown</cmt>

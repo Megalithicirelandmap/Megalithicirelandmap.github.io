@@ -4359,6 +4359,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Johnswell%20Motte,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="52.16488" lon="-8.90284">
+    <name>Kanturk Castle</name>
+    <cmt>Cork%20list.htm#kanturk</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kanturk%20Castle,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="51.74524" lon="-9.37071">
     <name>Kealkil Stone Circle</name>
     <cmt>Cork%20list.htm#kealkil</cmt>

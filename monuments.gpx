@@ -2967,6 +2967,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dromod%20Stone%20Circle,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="51.69416" lon="-9.70224">
+    <name>Drumlave Stone Pair</name>
+    <cmt>Cork%20list.htm#drumlave</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Drumlave%20Stone%20Pair,%20Cork.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#stonerows</sym>
+  </wpt>
   <wpt lat="53.97016" lon="-8.35441">
     <name>Drumanone Portal Tomb</name>
     <cmt>Roscommon%20list.htm#drumanone</cmt>

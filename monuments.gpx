@@ -7595,6 +7595,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/St%20James'%20Well,%20Muchgrange.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="55.26435" lon="-8.22842">
+    <name>St John's Altar, Tory</name>
+    <cmt>Donegal%20list.htm#tory%20island%20st%20john's%20altar</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tory%20Island%20St%20John's%20Altar.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="53.72690" lon="-6.87255">
     <name>St John's Cemetery, Kells</name>
     <cmt>Meath%20list.htm#kells</cmt>

@@ -7259,6 +7259,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Tory%20Island%20Oratory.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#cross</sym>
   </wpt>
+  <wpt lat="55.26380" lon="-8.23242">
+    <name>St Brigid's Shrine, Tory</name>
+    <cmt>Donegal%20list.htm#tory%20island%20shrine</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tory%20Island%20Shrine.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="54.43056" lon="-8.45861">
     <name>St Brigid's Well and Cross Slab Cliffoney</name>
     <cmt>Sligo%20list.htm#cliffoney</cmt>

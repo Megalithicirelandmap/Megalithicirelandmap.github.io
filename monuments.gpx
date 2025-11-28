@@ -5806,6 +5806,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Magheraghanrush.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="54.50109" lon="-5.64831">
+    <name>Mahee Castle, Down</name>
+    <cmt>Down%20list.htm#mahee%20castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mahee%20Castle,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.44500" lon="-6.16472">
     <name>Malahide Castle</name>
     <cmt>Dublin%20list.htm#malahide</cmt>

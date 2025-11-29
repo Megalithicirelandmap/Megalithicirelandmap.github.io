@@ -4803,6 +4803,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Killoluaig,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#oratories</sym>
   </wpt>
+  <wpt lat="53.09926" lon="-9.29783">
+    <name>Killonaghan Church, Craggagh</name>
+    <cmt>Clare%20list.htm#craggagh</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killonaghan%20Church,%20Craggagh,%20Clare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.63389" lon="-6.85361">
     <name>Killoughternane Church</name>
     <cmt>Carlow%20list.htm#killoughternane%203sites</cmt>

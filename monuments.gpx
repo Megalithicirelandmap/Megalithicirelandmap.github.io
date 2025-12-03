@@ -8207,6 +8207,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Templebryan%20Circle.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="52.14337" lon="-10.17123">
+    <name>Templemartin, Churchfield</name>
+    <cmt>Kerry%20list.htm#churchfield</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Templemartin,%20Churchfield,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.63972" lon="-6.85139">
     <name>Templemoling</name>
     <cmt>Carlow%20list.htm#ballinree</cmt>

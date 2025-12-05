@@ -1641,6 +1641,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Carnanbane%20Court%20Tomb,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#courttombs</sym>
   </wpt>
+  <wpt lat="54.17954" lon="-7.06591">
+    <name>Carnbane Court Tomb, Monaghan</name>
+    <cmt>Monaghan%20list.htm#carnbane</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Carnbane%20Court%20Tomb,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="55.24994" lon="-7.27210">
     <name>Carndonagh High Cross</name>
     <cmt>Donegal%20list.htm#carndonagh</cmt>

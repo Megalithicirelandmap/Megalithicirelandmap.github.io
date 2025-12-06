@@ -8225,6 +8225,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Templemoling%20Cemetery.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="54.06931" lon="-6.79845">
+    <name>Templemoyle Church Lattonfasky, Monaghan</name>
+    <cmt>Monaghan%20list.htm#lattonfasky</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Templemoyle%20Church,%20Lattonfasky,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt> 
   <wpt lat="52.49536" lon="-6.92519">
     <name>Templenaboe</name>
     <cmt>Carlow%20list.htm#templenaboe</cmt>

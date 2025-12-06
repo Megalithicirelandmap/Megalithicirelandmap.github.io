@@ -3375,6 +3375,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Errigal%20Keerogue,%20Tyrone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="54.38670" lon="-6.98388">
+    <name>Errigal Trough Graveyard, Monaghan</name>
+    <cmt>Monaghan%20list.htm#errigal%20trough</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Errigal%20Trough%20Parish%20Church%20and%20Graveyard,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="55.08191" lon="-7.45973">
     <name>Fahan Mura Cross Slab</name>
     <cmt>Donegal%20list.htm#fahan%20mura</cmt>

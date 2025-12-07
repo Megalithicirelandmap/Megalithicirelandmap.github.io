@@ -4749,6 +4749,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Killeavy%20Churches.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="54.17249" lon="-7.16021">
+    <name>Killeevan Glebe Church Graveyard, Monaghan</name>
+    <cmt>Monaghan%20list.htm#killeevan%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Killeevan%20Glebe%20Church,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt> 
   <wpt lat="53.20583" lon="-6.18250">
     <name>Killegar Cross Slabs</name>
     <cmt>Wicklow%20list.htm#killegar</cmt>

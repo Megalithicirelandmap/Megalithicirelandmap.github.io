@@ -57,6 +57,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Adare%20Ogham%20Stones.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="52.56480" lon="-8.78897">
+    <name>Trinitarian Abbey, Adare</name>
+    <cmt>Limerick%20list.htm#adare%20trinitarian%20abbey%20</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Adare%20Trinitarian%20Abbey,%20Limerick.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#abbeys</sym>
+  </wpt>
   <wpt lat="52.73488" lon="-6.91925">
     <name>Agha Pre-Norman Church, Carlow</name>
     <cmt>Carlow%20list.htm#agha</cmt>

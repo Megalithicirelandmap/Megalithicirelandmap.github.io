@@ -1045,7 +1045,7 @@
     <name>Banagher Court Tomb</name>
     <cmt>Cavan%20list.htm#banagher%20court%20tomb</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Banagher%20Court%20Tomb,%20Slieve%20Glagh,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
-    <sym>subject#courtombs</sym>
+    <sym>subject#courttombs</sym>
   </wpt>
   <wpt lat="54.90301" lon="-6.94911">
     <name>Banagher Cross 1</name>

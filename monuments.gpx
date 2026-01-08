@@ -5950,6 +5950,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Mayglass%20Romanesque%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.80137" lon="-6.26652">
+    <name>Mayne Church and Motte, Louth</name>
+    <cmt>Louth%20list.htm#mayne</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mayne%20Church%20and%20Norman%20Motte,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="53.38083" lon="-6.59389">
     <name>Maynooth Castle</name>
     <cmt>Kildare%20list.htm#maynooth</cmt>

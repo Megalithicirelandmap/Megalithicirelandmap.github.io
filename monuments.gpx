@@ -6653,6 +6653,18 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Rathaspick%20Romanesque%20Font,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym/>
   </wpt>
+  <wpt lat="53.65164" lon="-7.99983">
+    <name>Rathcline Castle, Longford</name>
+    <cmt>Longford%20list.htm#rathcline%20castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathcline%20Castle,%20Longford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
+  <wpt lat="53.64456" lon="-8.00390">
+    <name>Rathcline Church and Sheela na Gig, Longford</name>
+    <cmt>Longford%20list.htm#rathcline%20church</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Rathcline%20Church%20and%20Sheela%20na%20Gig,%20Longford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#sheelas</sym>
+  </wpt>
   <wpt lat="53.28191" lon="-6.46378">
     <name>Rathcoole Cross Slab</name>
     <cmt>Dublin%20list.htm#rathcoole</cmt>

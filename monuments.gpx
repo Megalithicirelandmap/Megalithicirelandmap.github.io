@@ -3411,6 +3411,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Errigal%20Trough%20Parish%20Church%20and%20Graveyard,%20Monaghan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.88164" lon="-6.82971">
+    <name>Ervey Portal Tomb, Meath</name>
+    <cmt>Meath%20list.htm#ervey</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ervey%20Portal%20Tomb,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#portaltombs</sym>
+  </wpt>
   <wpt lat="55.08191" lon="-7.45973">
     <name>Fahan Mura Cross Slab</name>
     <cmt>Donegal%20list.htm#fahan%20mura</cmt>

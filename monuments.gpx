@@ -5241,6 +5241,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilsheelan%20Motte,%20Tipperary.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="53.69122" lon="-6.99722">
+    <name>Kilskeer Chest Tomb, Meath</name>
+    <cmt>Meath%20list.htm#kilskeer</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilskeer%20Chest%20Tomb,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#grave</sym>
+  </wpt>
   <wpt lat="53.23265" lon="-6.52752">
     <name>Kilteel Castle</name>
     <cmt>Kildare%20list.htm#kilteel%20castle</cmt>

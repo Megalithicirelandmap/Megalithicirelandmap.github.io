@@ -639,6 +639,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Ballintermon%20ogham%20stone,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ogham</sym>
   </wpt>
+  <wpt lat="53.75344" lon="-7.10870">
+    <name>Ballinvally Rock Art, Meath</name>
+    <cmt>Meath%20list.htm#ballinvally%20rock%20art</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Ballinvally%20Rock%20Art,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#rockart</sym>
+  </wpt>
   <wpt lat="52.96500" lon="-7.06417">
     <name>Ballyadams Castle</name>
     <cmt>Laois%20List.html#ballyadams</cmt>

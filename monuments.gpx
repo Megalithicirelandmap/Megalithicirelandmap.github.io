@@ -3357,6 +3357,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Eden%20Bullaun%20Stone,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#bullauns</sym>  
   </wpt>
+  <wpt lat="53.87155" lon="-6.86985">
+    <name>Edengora Wedge Tomb, Meath</name>
+    <cmt>Meath%20list.htm#edengora</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Edengora%20Wedge%20Tomb,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#wedgetombs</sym>
+  </wpt>
   <wpt lat="54.12165" lon="-7.06195">
     <name>Edergole Court Tomb, Monaghan</name>
     <cmt>Monaghan%20list.htm#edergole</cmt>

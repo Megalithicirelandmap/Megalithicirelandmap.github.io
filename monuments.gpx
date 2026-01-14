@@ -2505,6 +2505,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Hill%20of%20Tara.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#ringforts</sym>
   </wpt>
+  <wpt lat="53.86603" lon="-6.93433">
+    <name>Cornaville North, Court Tomb, Meath</name>
+    <cmt>Meath%20list.htm#cornaville%20north</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Cornaville%20North%20Court%20Tomb,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#courttombs</sym>
+  </wpt>
   <wpt lat="52.94556" lon="-9.06250">
     <name>Corofin Museum Tau Cross</name>
     <cmt>Clare%20list.htm#corofin%20museum</cmt>

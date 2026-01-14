@@ -2637,6 +2637,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Crehelp%20Standing%20Stone.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="53.53740" lon="-6.44319">
+    <name>Crickstown Font, Meath</name>
+    <cmt>Meath%20list.htm#crickstown</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Crickstown%20Font,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym/>
+  </wpt>
   <wpt lat="52.77489" lon="-6.31514">
     <name>Croghan Middle Standing Stone (N)</name>
     <cmt>Wexford%20list.htm#croghan%20middle</cmt>

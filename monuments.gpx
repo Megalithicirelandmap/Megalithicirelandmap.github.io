@@ -8249,6 +8249,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Tallanstown%20Motte.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#mottes</sym>
   </wpt>
+  <wpt lat="53.91071" lon="-6.97124">
+    <name>Tanderagee Motte, Cavan</name>
+    <cmt>Cavan%20list.htm#tanderagee</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Tanderagee%20Motte,%20Bailieborough,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="52.69910" lon="-6.21775">
     <name>Tara Hill Cairn</name>
     <cmt>Wexford%20list.htm#tara%20hill</cmt>

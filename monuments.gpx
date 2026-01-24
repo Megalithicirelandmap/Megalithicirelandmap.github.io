@@ -2319,6 +2319,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clonmore%20Castle,%20Carlow.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="53.83947" lon="-6.31293">
+    <name>Clonmore Church, Louth</name>
+    <cmt>Louth%20list.htm#clonmore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clonmore%20Church,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="52.82722" lon="-6.57000">
     <name>Clonmore Monastic Site</name>
     <cmt>Carlow%20list.htm#clonmore</cmt>

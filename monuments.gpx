@@ -8812,7 +8812,13 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <cmt>Cavan%20list.htm#trinity%20island</cmt>
     <desc>&lt;a href="http://megalithicireland.com/Trinity%20Island%20Abbey,%20Cavan.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
-  </wpt> 
+  </wpt>
+  <wpt lat="53.51371" lon="-8.85554">
+    <name>Tuam High Cross, Galway</name>
+    <cmt>Galway%20list.htm#tuam%20high%20cross</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Tuam.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="54.46861" lon="-8.32967">
     <name>Tullaghan Cross</name>
     <cmt>Leitrim%20list.htm#tullaghan</cmt>

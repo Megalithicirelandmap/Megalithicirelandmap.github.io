@@ -2961,6 +2961,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dowth%20Passage%20Tomb.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#passagetombs</sym>
   </wpt>
+  <wpt lat="53.70389" lon="-6.44677">
+    <name>Dowth Tower House, Meath</name>
+    <cmt>Meath%20list.htm#dowth%20tower%20house</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Dowth%20Tower%20House,%20Meath.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.77484" lon="-6.74194">
     <name>Drakestown Cross Slab</name>
     <cmt>Meath%20list.htm#drakestown</cmt>

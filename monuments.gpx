@@ -2079,6 +2079,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Clane%20Abbey,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#abbeys</sym>
   </wpt>
+  <wpt lat="53.28923" lon="-6.68470">
+    <name>Clane Bullaun Stone</name>
+    <cmt>Kildare%20list.htm#clane%20bullaun</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Clane%20Bullaun%20Stone,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#bullauns</sym>
+  </wpt>
   <wpt lat="53.28712" lon="-6.68426">
     <name>Clane Motte</name>
     <cmt>Kildare%20list.htm#clane%20motte</cmt>

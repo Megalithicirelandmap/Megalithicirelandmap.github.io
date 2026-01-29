@@ -2409,6 +2409,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Cloyne%20Round%20Tower.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#roundtowers</sym>
   </wpt>
+  <wpt lat="53.13644" lon="-6.66065">
+    <name>Coghlanstown West Medieval Church</name>
+    <cmt>Kildare%20list.htm#coghlanstown%20west</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Coghlanstown%20Medieval%20Church,%20Kildare.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#church</sym>
+  </wpt>
   <wpt lat="54.05743" lon="-7.01817">
     <name>Cohaw Court Tomb</name>
     <cmt>Cavan%20list.htm#cohaw</cmt>

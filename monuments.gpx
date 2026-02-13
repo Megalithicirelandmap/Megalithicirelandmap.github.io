@@ -8477,6 +8477,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Templetown%20Church,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.76030" lon="-6.26694">
+    <name>Termonfeckin Tower House, Louth</name>
+    <cmt>Louth%20list.htm#termonfeckin%20castle</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Termonfeckin%20Castle,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+     <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.76145" lon="-6.27006">
     <name>Termonfeckin High Cross</name>
     <cmt>Louth%20list.htm#termonfeckin</cmt>

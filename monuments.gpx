@@ -6076,6 +6076,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Mayne%20Church,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#church</sym>
   </wpt>
+  <wpt lat="53.80112" lon="-6.26627">
+    <name>Mayne Motte, Louth</name>
+    <cmt>Louth%20list.htm#mayne%20motte</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Mayne%20Motte,%20Louth.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#mottes</sym>
+  </wpt>
   <wpt lat="53.38083" lon="-6.59389">
     <name>Maynooth Castle</name>
     <cmt>Kildare%20list.htm#maynooth</cmt>

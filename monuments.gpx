@@ -4737,6 +4737,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Kilcummin.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#holywells</sym>
   </wpt>
+  <wpt lat="52.46472" lon="-7.22273">
+    <name>Kilcurl Tower House, Kilkenny</name>
+    <cmt>Kilkenny%20list.htm#kilcurl</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Kilcurl%20Castle,%20Kilkenny.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.15833" lon="-6.91222">
     <name>Kildare Round Tower</name>
     <cmt>Kildare%20list.htm#kildare</cmt>

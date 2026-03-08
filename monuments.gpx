@@ -6659,6 +6659,12 @@ href="http://megalithicireland.com/Moorechurch%20Church,%20Meath.html?src=gpx"&g
     <desc>&lt;a href="http://megalithicireland.com/Porterstown%20Westmeath.htm?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="54.35603" lon="-7.65910">
+    <name>Portora Castle, Fermanagh</name>
+    <cmt>Fermanagh%20list.htm#portora</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Portora%20Castle,%20Fermanagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.08667" lon="-8.22083">
     <name>Portumna Castle</name>
     <cmt>Galway%20list.htm#portumna</cmt>

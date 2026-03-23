@@ -3081,6 +3081,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dromod%20Stone%20Circle,%20Kerry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="54.51667" lon="-5.96009">
+    <name>Drumbo Round Tower</name>
+    <cmt>Down%20list.htm#drumbo</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Drumbo%20Round%20Tower,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#roundtowers</sym>
+  </wpt>
   <wpt lat="51.69416" lon="-9.70224">
     <name>Drumlave Stone Pair</name>
     <cmt>Cork%20list.htm#drumlave</cmt>

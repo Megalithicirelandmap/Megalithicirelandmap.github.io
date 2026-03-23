@@ -2685,6 +2685,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Croghan%20Middle%20Standing%20Stones,%20Wexford.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#standingstones</sym>
   </wpt>
+  <wpt lat="54.16257" lon="-7.44395">
+    <name>Crom Castle, Fermanagh</name>
+    <cmt>Fermanagh%20list.htm#crom</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Crom%20Plantation%20Castle,%20Fermanagh.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#castles</sym>
+  </wpt>
   <wpt lat="53.61051" lon="-10.21652">
     <name>Cromwell's Fort, Inishbofin</name>
     <cmt>Galway%20list.htm#inishbofin</cmt>

@@ -2865,6 +2865,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Donadea%20Castle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#castles</sym>
   </wpt>
+  <wpt lat="54.25166" lon="-6.30581">
+    <name>Donaghmore High Cross, Down</name>
+    <cmt>Down%20list.htm#donaghmore</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/High%20Cross%20Donaghmore,%20Down.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#cross</sym>
+  </wpt>
   <wpt lat="52.41304" lon="-7.72503">
     <name>Donaghmore Romanesque Church</name>
     <cmt>Tipperary%20list.htm#donaghmore</cmt>

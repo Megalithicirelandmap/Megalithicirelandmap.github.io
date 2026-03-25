@@ -1,0 +1,16 @@
+$ csplit -n 1519 ../monuments.gpx <wpt lat='
+
+for d in (find . -type d | cut -d '/' -f2)
+   for f in (fgrep -l "<cmt>"$d xx*)
+     mv $f ./$d/$f.gpx 
+   end
+end
+
+#!/bin/sh
+for f in */xx????.gpx
+do
+    n=$(grep -hoE '<name>[^<]+' $f | cut -c7-)
+    mv $f "$(dirname $f)/$n.gpx"
+done
+
+

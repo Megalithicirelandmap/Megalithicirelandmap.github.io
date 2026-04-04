@@ -2793,6 +2793,12 @@
     <desc>&lt;a href="http://megalithicireland.com/Dereenataggart%20West%20Stone%20Circle.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
     <sym>subject#stonecircles</sym>
   </wpt>
+  <wpt lat="54.99115" lon="-7.33027">
+    <name>Derry Round Tower</name>
+    <cmt>Derry%20list.htm#derry</cmt>
+    <desc>&lt;a href="http://megalithicireland.com/Derry%20Round%20Tower,%20Derry.html?src=gpx"&gt;@megalithicireland.com&lt;/a&gt;</desc>
+    <sym>subject#roundtowers</sym>
+  </wpt>
   <wpt lat="51.80430" lon="-9.38158">
     <name>Derrynafinchin Stone Circle</name>
     <cmt>Cork%20list.htm#derrynafinchin</cmt>

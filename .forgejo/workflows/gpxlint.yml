@@ -1,0 +1,20 @@
+# https://codeberg.org/git-pages/action#with-a-custom-domain
+name: GPX Lint and Publish
+on:
+  push:
+jobs:
+  gpxlint:
+    runs-on: codeberg-tiny
+    steps:
+      - uses: actions/checkout@v5
+      - run: |
+          sudo apt-get update
+          sudo apt-get install --yes make libxml2-utils
+      - run: |
+          make gpxlint
+      - uses: https://codeberg.org/git-pages/action@v2
+        # https://docs.codeberg.org/codeberg-pages/forgejo-actions/
+        with:
+          site: 'https://${{ forge.repository_owner }}.codeberg.page/'
+          token: ${{ forge.token }}
+          source: .

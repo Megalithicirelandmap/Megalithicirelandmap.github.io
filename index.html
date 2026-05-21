@@ -2,133 +2,14 @@
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta name="generator" content="HTML Tidy for HTML5 for FreeBSD version 5.8.0" />
-  <meta name="viewport" content=
-  "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-  <link rel="stylesheet" href="leaflet.css" type="text/css" />
-  <script src="leaflet.js" type="text/javascript">
-  //<![CDATA[
-  // http://cdn.leafletjs.com/leaflet/v0.7.7/
-  //]]>
-  </script>
-  <script src="gpx.js" type="text/javascript">
-  //<![CDATA[
-  // https://rawgit.com/mpetazzoni/leaflet-gpx/master/
-  //]]>
-  </script>
-  <link rel="stylesheet" href="./MarkerCluster.css" />
-  <link rel="stylesheet" href="./MarkerCluster.Default.css" />
-  <script src="./leaflet.markercluster-src.js"></script>
-  <title>Megalithic Ireland Maps</title>
-  <style type="text/css">
-  /*<![CDATA[*/
-  body {
-    margin: 0;
-  }
-  #mapdiv {
-    height: 100vh;
-  }
-  [role="contentinfo"] {
-    left:     3em;
-    position: absolute;
-    top:      0;
-  }
-  /*]]>*/
-  </style>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="refresh" content="0; url=https://MegalithicIrelandMap.CodeBerg.page" />
+  <meta name="author" content="Marcus.Rohrmoser.name"/>
+  <meta name="description" content="Client-side redirect to https://MegalithicIrelandMap.CodeBerg.page."/>
+  <meta name="generator" content="http-redirect.sh" />
+  <title>Weiterleitung</title>
 </head>
-<body>
-  <div role="main" id="mapdiv"></div>
-  <script type="text/javascript">
-  //<![CDATA[
-  var map = null;
-  {
-    var centerGps = new L.LatLng(53.45862, -7.53662);
-    var zoom = 7;
-    var posMatch = window.location.href.match(/#map=(\d+)\/(-?\d+(?:\.\d+)?)\/(-?\d+(?:\.\d+)?)/);
-    if( posMatch ) {
-      centerGps = new L.LatLng(posMatch[2], posMatch[3]);
-      zoom = posMatch[1];
-    };
-    map = L.map('mapdiv', {center: centerGps, zoom: zoom});
-    map.on("moveend", function(e) {
-      // http://stackoverflow.com/a/21432964
-      var c = map.getCenter();
-      history.pushState(null, null, "#map=" + map.getZoom() + '/' + c.lat.toFixed(5) + '/' + c.lng.toFixed(5));
-    });
-  }
-  var osmAttr = '&copy; <a href="http://openstreetmap.org">OpenStreetMap<\/a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA<\/a>';
-  // OpenStreetMap, the mother of all maps:
-  // map.addLayer(new L.TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap.org, ' + 'Map data ' + osmAttr, maxZoom: 18  }));
-  // nice map, but distorted streetcorners:
-  // map.addLayer(new L.TileLayer('https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png', { attribution: '&copy; Thunderforest.com, ' + 'Map data ' + osmAttr, maxZoom: 18  }));
-  // sadly no https – so the browser displays a 'security' warning:
-  // map.addLayer(new L.TileLayer('http://{s}.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png', { attribution: '&copy; HikeBikeMap.org, ' + 'Map data ' + osmAttr, maxZoom: 18 }));
-  // the tiles load sloooowly sometimes, but the map is nice and supports https:
-  map.addLayer(new L.TileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenTopoMap, ' + 'Map data ' + osmAttr, maxZoom: 17 }));
-
-  // http://gis.stackexchange.com/a/123068
-  var markerClusters = new L.MarkerClusterGroup({maxClusterRadius: 50, chunkedLoading: true, polygonOptions: {stroke: false}});
-
-  // https://github.com/mpetazzoni/leaflet-gpx
-  // https://raw.githubusercontent.com/Megalithicirelandmap/Megalithicirelandmap.github.io/master/monuments.gpx
-  // ./monuments.gpx
-  new L.GPX('monuments.gpx', {
-    async: true,
-    gpx_options: { parseElements: ['waypoint'] },
-    marker_options: {
-      startIconUrl: null,
-      endIconUrl: null,
-      shadowUrl: null,
-      wptIconUrls: {
-        'subject#abbeys': 'poi-img/abbey.png',
-        'subject#castles': 'poi-img/tower house-castle.png',
-        'subject#holywells': 'poi-img/holy well.png',
-        'subject#stonecircles': 'poi-img/stone circle.png',
-        '': 'poi-img/sight-2.png',
-        //
-        'subject#bullauns': 'poi-img/megalith-ogham.png',
-        'subject#church': 'poi-img/church-cathedral-round tower.png',
-        'subject#courttombs': 'poi-img/megalith-ogham.png',
-        'subject#crossslabs': 'poi-img/cross-cross pillar.png',
-        'subject#cultstones': 'poi-img/megalith-ogham.png',
-        'subject#cross': 'poi-img/cross-cross pillar.png',
-        'subject#dovecote': 'poi-img/dovecote.png',
-        'subject#grave': 'poi-img/grave.png',  
-        'subject#mottes': 'poi-img/motte-mound.png',
-        'subject#ogham': 'poi-img/megalith-ogham.png',
-        'subject#oratories': 'poi-img/oratory-tomb shrine-christian.png',
-        'subject#passagetombs': 'poi-img/megalith-ogham.png',
-        'subject#pilgrimagesites': 'poi-img/sight-other.png',
-        'subject#portaltombs': 'poi-img/megalith-ogham.png',
-        'subject#promontoryforts': 'poi-img/sight-other.png',
-        'subject#ringforts': 'poi-img/ring fort-rath.png',
-        'subject#rockart': 'poi-img/megalith-ogham.png',
-        'subject#roundtowers': 'poi-img/round tower.png',
-        'subject#sheelas': 'poi-img/sheela-na-gig.png',
-        'subject#standingstones': 'poi-img/megalith-ogham.png',
-        'subject#stonepairs': 'poi-img/megalith-ogham.png',
-        'subject#stonerows': 'poi-img/megalith-ogham.png',
-        'subject#walledtowns': 'poi-img/citywalls.png',
-        'subject#wedgetombs': 'poi-img/megalith-ogham.png',
-        'subject#windmill': 'poi-img/windmill.png', 
-      },
-      iconSize: [32, 37],
-      // shadowSize: [50, 50],
-      iconAnchor: [16, 37],
-      // shadowAnchor: [16, 47]
-    }
-  });
-
-  // http://gis.stackexchange.com/a/123068
-  map.addLayer(markerClusters);
-  L.control.scale().addTo(map);
-
-  //]]>
-  </script>
-  <p role="contentinfo">POIs: <a href="monuments.gpx"><tt>monuments.gpx</tt></a>,
-  Icons by <a href="http://mapicons.nicolasmollet.com/markers/">Nicolas Mollet</a>. <a rel=
-  "license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons 3.0
-  BY-SA</a>.</p>
+<body bgcolor="#333">
+  <p>Client-side redirect to -&gt; <a href="https://MegalithicIrelandMap.CodeBerg.page">https://MegalithicIrelandMap.CodeBerg.page</a></p>
 </body>
 </html>
